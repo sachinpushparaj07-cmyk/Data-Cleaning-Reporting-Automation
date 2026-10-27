@@ -1,0 +1,1501 @@
+TransactionID,Date,CustomerName,Email,Phone,City,Category,PaymentMethod,Quantity,Amount
+TXN-10001,2024-09-14,Alex Brown,alex.brown@domain.com,Not Provided,New York,Beauty & Health,Credit Card,6,196.24
+TXN-10002,2024-06-15,Daniel Williams,daniel.williams@domain.com,(220) 940-6393,Other Metro,Fashion & Apparel,Cash on Delivery,3,587.91
+TXN-10003,2024-07-08,Emily Johnson,emily.johnson@domain.com,Not Provided,Chicago,Electronics,Cash on Delivery,9,640.28
+TXN-10004,2024-06-15,Jessica Wilson,jessica.wilson@domain.com,Not Provided,Miami,Fashion & Apparel,Credit Card,3,294.65
+TXN-10005,2024-02-11,John Williams,john.williams@domain.com,(597) 970-7938,Los Angeles,Fashion & Apparel,Credit Card,5,46.09
+TXN-10006,2024-06-15,Michael Miller,michael.miller@domain.com,(845) 895-4627,Miami,Home & Kitchen,Debit Card,5,312.63
+TXN-10007,2024-06-15,Chris Anderson,unspecified@customer.org,(763) 367-4581,Los Angeles,Fashion & Apparel,PayPal,5,47.43
+TXN-10008,2024-09-15,Alex Wilson,alex.wilson@domain.com,Not Provided,Chicago,Electronics,Cash on Delivery,7,202.8
+TXN-10009,2024-06-15,Alex Johnson,alex.johnson@domain.com,(350) 514-5061,New York,Electronics,PayPal,9,97.28
+TXN-10010,2024-06-15,Chris Miller,chris.miller@domain.com,Not Provided,Chicago,Home & Kitchen,Cash on Delivery,5,561.13
+TXN-10011,2024-06-15,Michael Smith,michael.smith@domain.com,(762) 537-6895,New York,Electronics,PayPal,3,555.44
+TXN-10012,2024-06-09,David Miller,unspecified@customer.org,Not Provided,Los Angeles,Fashion & Apparel,Credit Card,8,329.33
+TXN-10013,2024-01-13,Daniel Johnson,daniel.johnson@domain.com,(445) 275-8206,Other Metro,Electronics,Cash on Delivery,3,436.26
+TXN-10014,2024-06-15,Alex Miller,alex.miller@domain.com,Not Provided,Other Metro,Fashion & Apparel,PayPal,3,821.16
+TXN-10015,2024-06-15,Daniel Williams,daniel.williams@domain.com,(990) 226-8560,New York,Home & Kitchen,PayPal,5,171.78
+TXN-10016,2024-06-15,Daniel Williams,unspecified@customer.org,Not Provided,Los Angeles,Home & Kitchen,PayPal,10,547.13
+TXN-10017,2024-06-15,Emily Wilson,emily.wilson@domain.com,Not Provided,New York,Electronics,Cash on Delivery,2,771.44
+TXN-10018,2024-06-15,John Taylor,john.taylor@domain.com,Not Provided,New York,Electronics,Cash on Delivery,3,474.82
+TXN-10019,2024-06-15,Chris Davis,chris.davis@domain.com,(928) 441-5492,Los Angeles,Fashion & Apparel,Credit Card,4,815.59
+TXN-10020,2024-06-15,Jessica Brown,jessica.brown@domain.com,Not Provided,Chicago,Home & Kitchen,Credit Card,1,605.84
+TXN-10021,2024-06-15,Jessica Johnson,jessica.johnson@domain.com,Not Provided,Other Metro,Electronics,PayPal,3,419.78
+TXN-10022,2024-06-21,Daniel Brown,unspecified@customer.org,Not Provided,Chicago,Fashion & Apparel,Credit Card,4,287.83
+TXN-10023,2024-06-15,Jessica Smith,jessica.smith@domain.com,Not Provided,New York,Fashion & Apparel,Credit Card,9,435.63
+TXN-10024,2024-01-10,John Jones,john.jones@domain.com,(757) 646-4324,Miami,Electronics,PayPal,2,477.82
+TXN-10025,2024-06-15,Daniel Anderson,daniel.anderson@domain.com,Not Provided,New York,Beauty & Health,Credit Card,1,481.01
+TXN-10026,2024-06-15,Emily Smith,emily.smith@domain.com,Not Provided,Miami,Electronics,Credit Card,5,131.23
+TXN-10027,2024-06-15,Alex Miller,alex.miller@domain.com,Not Provided,Los Angeles,Home & Kitchen,Credit Card,1,599.04
+TXN-10028,2024-06-15,Sarah Jones,sarah.jones@domain.com,(573) 619-9472,Los Angeles,Fashion & Apparel,Debit Card,2,827.68
+TXN-10029,2024-11-14,John Jones,john.jones@domain.com,(320) 313-7493,Chicago,Home & Kitchen,Credit Card,8,249.81
+TXN-10030,2024-06-15,Daniel Wilson,daniel.wilson@domain.com,(562) 850-2531,Chicago,Fashion & Apparel,PayPal,9,488.09
+TXN-10031,2024-06-15,Daniel Williams,daniel.williams@domain.com,(568) 847-7738,Other Metro,Home & Kitchen,Debit Card,5,422.54
+TXN-10032,2024-04-03,Chris Davis,unspecified@customer.org,(239) 328-6342,Other Metro,Fashion & Apparel,Credit Card,5,701.32
+TXN-10033,2024-05-17,Emily Smith,emily.smith@domain.com,Not Provided,Other Metro,Home & Kitchen,Cash on Delivery,9,422.54
+TXN-10034,2024-06-15,Michael Smith,michael.smith@domain.com,Not Provided,Chicago,Fashion & Apparel,PayPal,11,187.35
+TXN-10035,2024-11-04,Daniel Anderson,daniel.anderson@domain.com,(222) 674-3190,Other Metro,Electronics,Debit Card,10,470.56
+TXN-10036,2024-08-03,Alex Brown,alex.brown@domain.com,Not Provided,New York,Electronics,PayPal,2,681.76
+TXN-10037,2024-04-20,Emily Taylor,emily.taylor@domain.com,(545) 401-9554,Houston,Electronics,Credit Card,8,793.66
+TXN-10038,2024-06-15,Sarah Williams,sarah.williams@domain.com,(606) 868-6732,Houston,Fashion & Apparel,Credit Card,10,208.74
+TXN-10039,2024-06-15,Michael Brown,michael.brown@domain.com,(409) 574-9609,New York,Home & Kitchen,PayPal,2,278.52
+TXN-10040,2024-06-15,Jessica Smith,jessica.smith@domain.com,Not Provided,Other Metro,Electronics,Debit Card,2,714.35
+TXN-10041,2024-06-15,Sarah Williams,sarah.williams@domain.com,Not Provided,New York,Fashion & Apparel,Credit Card,8,358.63
+TXN-10042,2024-06-15,John Wilson,john.wilson@domain.com,(651) 599-9356,Other Metro,Electronics,Credit Card,3,192.55
+TXN-10043,2024-12-07,David Brown,david.brown@domain.com,(933) 325-8083,Chicago,Electronics,Cash on Delivery,1,740.83
+TXN-10044,2024-06-15,Jane Anderson,jane.anderson@domain.com,(203) 765-9633,Miami,Fashion & Apparel,Cash on Delivery,11,432.9
+TXN-10045,2024-06-15,Jane Anderson,jane.anderson@domain.com,Not Provided,Other Metro,Fashion & Apparel,Cash on Delivery,7,343.12
+TXN-10046,2024-06-15,Chris Miller,chris.miller@domain.com,(443) 590-8101,New York,Home & Kitchen,Credit Card,8,305.84
+TXN-10047,2024-06-15,Jane Jones,jane.jones@domain.com,(696) 914-5107,Houston,Beauty & Health,Cash on Delivery,9,566.79
+TXN-10048,2024-06-15,Daniel Davis,daniel.davis@domain.com,(887) 939-2521,New York,Home & Kitchen,PayPal,1,735.5
+TXN-10049,2024-06-15,Jane Williams,jane.williams@domain.com,(696) 615-6468,Miami,Electronics,Cash on Delivery,2,14119.35
+TXN-10050,2024-06-15,Emily Smith,emily.smith@domain.com,(558) 439-4760,Chicago,Beauty & Health,PayPal,9,54.94
+TXN-10051,2024-06-15,Daniel Jones,unspecified@customer.org,Not Provided,Chicago,Electronics,Debit Card,9,709.43
+TXN-10052,2024-06-15,David Jones,david.jones@domain.com,Not Provided,New York,Beauty & Health,Credit Card,3,512.14
+TXN-10053,2024-06-15,Jane Taylor,jane.taylor@domain.com,Not Provided,Chicago,Home & Kitchen,Credit Card,3,842.92
+TXN-10054,2024-06-15,Chris Smith,chris.smith@domain.com,(544) 792-5286,Other Metro,Home & Kitchen,PayPal,11,422.54
+TXN-10055,2024-06-15,Jane Davis,unspecified@customer.org,(899) 547-2007,Other Metro,Fashion & Apparel,PayPal,4,303.75
+TXN-10056,2024-06-15,John Miller,john.miller@domain.com,(484) 815-9954,Other Metro,Electronics,Credit Card,10,288.6
+TXN-10057,2024-10-29,Michael Anderson,michael.anderson@domain.com,Not Provided,New York,Electronics,Cash on Delivery,10,820.55
+TXN-10058,2024-06-15,John Anderson,john.anderson@domain.com,(508) 619-9782,Los Angeles,Beauty & Health,Credit Card,3,539.76
+TXN-10059,2024-06-15,Emily Brown,emily.brown@domain.com,(925) 600-1116,Chicago,Fashion & Apparel,Cash on Delivery,9,345.77
+TXN-10060,2024-06-15,Sarah Williams,sarah.williams@domain.com,(509) 185-3720,Other Metro,Electronics,Credit Card,6,88.48
+TXN-10061,2024-06-15,Alex Smith,alex.smith@domain.com,(558) 322-1552,Chicago,Electronics,PayPal,6,528.17
+TXN-10062,2024-06-15,Daniel Johnson,daniel.johnson@domain.com,(932) 730-3356,New York,Fashion & Apparel,Cash on Delivery,10,562.21
+TXN-10063,2024-06-15,John Jones,john.jones@domain.com,(731) 251-2712,Other Metro,Electronics,Cash on Delivery,3,744.94
+TXN-10064,2024-06-15,David Smith,david.smith@domain.com,Not Provided,Los Angeles,Electronics,PayPal,9,318.16
+TXN-10065,2024-06-15,John Wilson,john.wilson@domain.com,Not Provided,Los Angeles,Fashion & Apparel,PayPal,4,226.43
+TXN-10066,2024-06-15,David Smith,david.smith@domain.com,Not Provided,Chicago,Electronics,Credit Card,10,169.41
+TXN-10067,2024-06-15,Jane Anderson,jane.anderson@domain.com,(627) 393-7294,Houston,Home & Kitchen,Credit Card,2,626.59
+TXN-10068,2024-06-15,Daniel Johnson,daniel.johnson@domain.com,Not Provided,Other Metro,Electronics,Debit Card,9,739.14
+TXN-10069,2024-06-15,Emily Miller,emily.miller@domain.com,(478) 950-2388,Houston,Fashion & Apparel,Credit Card,1,597.24
+TXN-10070,2024-06-15,Michael Wilson,michael.wilson@domain.com,(649) 553-2177,Los Angeles,Fashion & Apparel,Credit Card,11,415.66
+TXN-10071,2024-08-26,Alex Jones,alex.jones@domain.com,Not Provided,Houston,Home & Kitchen,Cash on Delivery,4,278.39
+TXN-10072,2024-08-01,Alex Wilson,alex.wilson@domain.com,Not Provided,Houston,Electronics,Credit Card,8,196.0
+TXN-10073,2024-05-29,David Brown,david.brown@domain.com,Not Provided,New York,Electronics,Cash on Delivery,9,211.1
+TXN-10074,2024-06-15,David Johnson,david.johnson@domain.com,Not Provided,Los Angeles,Electronics,PayPal,4,179.25
+TXN-10075,2024-06-15,David Wilson,david.wilson@domain.com,(580) 157-8426,Los Angeles,Beauty & Health,Cash on Delivery,9,296.86
+TXN-10076,2024-08-18,John Wilson,john.wilson@domain.com,Not Provided,Chicago,Electronics,PayPal,1,444.98
+TXN-10077,2024-04-10,Jane Anderson,jane.anderson@domain.com,Not Provided,New York,Fashion & Apparel,Cash on Delivery,8,792.39
+TXN-10078,2024-04-19,Alex Brown,alex.brown@domain.com,(329) 565-8373,Other Metro,Fashion & Apparel,PayPal,5,165.12
+TXN-10079,2024-06-15,Jessica Brown,jessica.brown@domain.com,Not Provided,Chicago,Electronics,Cash on Delivery,9,322.78
+TXN-10080,2024-06-15,Jessica Davis,jessica.davis@domain.com,(389) 593-7406,Los Angeles,Electronics,Credit Card,5,164.21
+TXN-10081,2024-06-15,Sarah Davis,sarah.davis@domain.com,(604) 345-5837,Miami,Electronics,Cash on Delivery,4,220.2
+TXN-10082,2024-06-15,David Brown,david.brown@domain.com,(963) 693-5839,Los Angeles,Home & Kitchen,PayPal,1,812.93
+TXN-10083,2024-06-15,Alex Johnson,alex.johnson@domain.com,Not Provided,Miami,Electronics,Credit Card,3,632.13
+TXN-10084,2024-06-15,David Jones,david.jones@domain.com,(749) 722-7511,Houston,Electronics,PayPal,9,444.98
+TXN-10085,2024-11-29,Emily Wilson,emily.wilson@domain.com,(382) 764-5583,Los Angeles,Home & Kitchen,Credit Card,3,155.86
+TXN-10086,2024-06-15,Daniel Davis,daniel.davis@domain.com,Not Provided,Miami,Fashion & Apparel,Credit Card,2,645.15
+TXN-10087,2024-10-07,Michael Davis,michael.davis@domain.com,Not Provided,New York,Home & Kitchen,Cash on Delivery,3,153.5
+TXN-10088,2024-02-23,Daniel Johnson,daniel.johnson@domain.com,(212) 492-3547,Chicago,Fashion & Apparel,Credit Card,3,188.06
+TXN-10089,2024-06-15,David Taylor,david.taylor@domain.com,Not Provided,Chicago,Fashion & Apparel,Debit Card,10,435.63
+TXN-10090,2024-06-21,Chris Johnson,chris.johnson@domain.com,(513) 216-1867,Other Metro,Beauty & Health,PayPal,11,386.79
+TXN-10091,2024-06-15,John Smith,john.smith@domain.com,(323) 174-4471,Houston,Electronics,Credit Card,3,506.22
+TXN-10092,2024-06-15,David Jones,david.jones@domain.com,Not Provided,Houston,Home & Kitchen,Debit Card,4,526.49
+TXN-10093,2024-06-15,Sarah Davis,sarah.davis@domain.com,(781) 655-6347,Chicago,Fashion & Apparel,Cash on Delivery,2,135.57
+TXN-10094,2024-06-15,Alex Jones,alex.jones@domain.com,(929) 404-2938,Los Angeles,Fashion & Apparel,Credit Card,10,310.09
+TXN-10095,2024-04-07,John Wilson,john.wilson@domain.com,(809) 593-4648,New York,Electronics,Cash on Delivery,11,560.31
+TXN-10096,2024-06-15,Alex Jones,alex.jones@domain.com,(827) 703-1781,Other Metro,Electronics,Cash on Delivery,1,483.12
+TXN-10097,2024-03-25,Emily Davis,emily.davis@domain.com,Not Provided,Los Angeles,Electronics,Cash on Delivery,4,348.66
+TXN-10098,2024-06-15,Michael Williams,michael.williams@domain.com,(818) 712-3307,Other Metro,Electronics,PayPal,5,439.32
+TXN-10099,2024-06-15,Sarah Taylor,sarah.taylor@domain.com,Not Provided,Houston,Electronics,Cash on Delivery,8,840.09
+TXN-10100,2024-06-15,David Wilson,david.wilson@domain.com,Not Provided,Other Metro,Home & Kitchen,Credit Card,3,230.8
+TXN-10101,2024-05-21,Emily Smith,emily.smith@domain.com,Not Provided,Miami,Home & Kitchen,Credit Card,1,655.83
+TXN-10102,2024-06-15,Jane Wilson,jane.wilson@domain.com,(901) 646-6661,Miami,Beauty & Health,PayPal,7,14122.31
+TXN-10103,2024-06-15,Alex Anderson,alex.anderson@domain.com,(636) 928-3723,New York,Home & Kitchen,Cash on Delivery,6,73.53
+TXN-10104,2024-06-15,Michael Johnson,michael.johnson@domain.com,Not Provided,New York,Beauty & Health,PayPal,3,519.6
+TXN-10105,2024-03-01,Alex Davis,alex.davis@domain.com,(361) 446-5005,Other Metro,Electronics,Cash on Delivery,1,773.13
+TXN-10106,2024-09-21,John Miller,unspecified@customer.org,(754) 503-5987,Miami,Electronics,PayPal,9,532.17
+TXN-10107,2024-06-15,John Wilson,john.wilson@domain.com,(308) 367-7588,Other Metro,Electronics,Credit Card,2,233.81
+TXN-10108,2024-06-15,David Williams,david.williams@domain.com,(854) 140-6889,Other Metro,Fashion & Apparel,PayPal,3,436.79
+TXN-10109,2024-06-15,Sarah Williams,sarah.williams@domain.com,(467) 518-3282,Chicago,Home & Kitchen,PayPal,4,697.88
+TXN-10110,2024-06-15,Sarah Taylor,sarah.taylor@domain.com,Not Provided,New York,Electronics,Credit Card,4,377.34
+TXN-10111,2024-06-15,John Smith,john.smith@domain.com,(633) 936-8069,Houston,Fashion & Apparel,PayPal,3,102.42
+TXN-10112,2024-04-18,Daniel Jones,daniel.jones@domain.com,(907) 885-7139,New York,Home & Kitchen,Credit Card,6,469.37
+TXN-10113,2024-06-15,Daniel Johnson,daniel.johnson@domain.com,Not Provided,Los Angeles,Electronics,Cash on Delivery,9,353.48
+TXN-10114,2024-06-15,David Wilson,david.wilson@domain.com,Not Provided,Houston,Electronics,Cash on Delivery,6,444.98
+TXN-10115,2024-06-15,Emily Miller,emily.miller@domain.com,(698) 853-4536,New York,Electronics,Credit Card,9,519.76
+TXN-10116,2024-06-15,John Wilson,john.wilson@domain.com,(679) 121-4420,New York,Beauty & Health,Credit Card,3,545.01
+TXN-10117,2024-06-15,Jane Wilson,unspecified@customer.org,Not Provided,Miami,Fashion & Apparel,Credit Card,4,722.11
+TXN-10118,2024-06-15,Chris Williams,chris.williams@domain.com,Not Provided,Chicago,Home & Kitchen,Debit Card,7,80.51
+TXN-10119,2024-06-15,Alex Miller,alex.miller@domain.com,(432) 769-1436,Other Metro,Electronics,PayPal,4,437.56
+TXN-10120,2024-06-15,Emily Jones,emily.jones@domain.com,(975) 565-7046,New York,Fashion & Apparel,Cash on Delivery,2,354.03
+TXN-10121,2024-06-15,Chris Johnson,chris.johnson@domain.com,Not Provided,Houston,Home & Kitchen,PayPal,5,380.07
+TXN-10122,2024-06-15,John Anderson,unspecified@customer.org,(805) 812-8122,Chicago,Electronics,PayPal,2,318.84
+TXN-10123,2024-08-03,Alex Anderson,alex.anderson@domain.com,(365) 558-4893,Other Metro,Electronics,PayPal,8,633.04
+TXN-10124,2024-06-15,Michael Anderson,michael.anderson@domain.com,(252) 685-4748,New York,Fashion & Apparel,PayPal,11,513.96
+TXN-10125,2024-06-15,Alex Smith,alex.smith@domain.com,Not Provided,Other Metro,Home & Kitchen,Cash on Delivery,5,205.31
+TXN-10126,2024-06-15,Michael Anderson,michael.anderson@domain.com,Not Provided,Miami,Electronics,Cash on Delivery,8,577.46
+TXN-10127,2024-06-15,Sarah Anderson,sarah.anderson@domain.com,Not Provided,Los Angeles,Electronics,PayPal,2,444.98
+TXN-10128,2024-06-15,Emily Anderson,emily.anderson@domain.com,(772) 221-7420,Miami,Electronics,PayPal,11,400.64
+TXN-10129,2024-06-15,Jane Miller,jane.miller@domain.com,(895) 931-8866,Miami,Electronics,PayPal,6,197.58
+TXN-10130,2024-06-15,Jane Smith,jane.smith@domain.com,(694) 705-7976,Chicago,Fashion & Apparel,Credit Card,10,435.63
+TXN-10131,2024-06-15,Chris Johnson,chris.johnson@domain.com,(354) 988-5444,New York,Electronics,Credit Card,4,844.4
+TXN-10132,2024-06-15,Alex Taylor,alex.taylor@domain.com,(892) 190-2105,New York,Home & Kitchen,PayPal,5,165.43
+TXN-10133,2024-06-15,Michael Taylor,michael.taylor@domain.com,(604) 561-3179,Los Angeles,Electronics,Credit Card,9,174.49
+TXN-10134,2024-06-15,Michael Wilson,unspecified@customer.org,Not Provided,Los Angeles,Fashion & Apparel,Credit Card,9,655.4
+TXN-10135,2024-06-15,Daniel Wilson,daniel.wilson@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Cash on Delivery,11,289.99
+TXN-10136,2024-02-17,Chris Miller,chris.miller@domain.com,Not Provided,Chicago,Beauty & Health,Credit Card,3,127.85
+TXN-10137,2024-06-15,Chris Davis,chris.davis@domain.com,(366) 608-2661,New York,Electronics,Credit Card,7,832.18
+TXN-10138,2024-06-15,Emily Brown,unspecified@customer.org,(958) 827-3972,Other Metro,Beauty & Health,Cash on Delivery,3,276.33
+TXN-10139,2024-04-22,Emily Davis,emily.davis@domain.com,Not Provided,Other Metro,Fashion & Apparel,Cash on Delivery,9,274.62
+TXN-10140,2024-06-15,John Johnson,john.johnson@domain.com,(590) 690-7358,Other Metro,Electronics,Debit Card,8,842.0
+TXN-10141,2024-10-17,Daniel Jones,daniel.jones@domain.com,(667) 524-4802,Other Metro,Fashion & Apparel,Credit Card,11,476.17
+TXN-10142,2024-06-15,Jessica Miller,jessica.miller@domain.com,(613) 408-3849,Miami,Fashion & Apparel,Cash on Delivery,11,738.86
+TXN-10143,2024-06-15,Sarah Brown,sarah.brown@domain.com,(336) 263-1082,Miami,Fashion & Apparel,PayPal,6,104.57
+TXN-10144,2024-06-15,Jessica Brown,jessica.brown@domain.com,Not Provided,New York,Electronics,Debit Card,2,31.41
+TXN-10145,2024-06-15,Daniel Smith,unspecified@customer.org,(702) 749-2361,Other Metro,Electronics,PayPal,7,659.72
+TXN-10146,2024-06-15,Jessica Johnson,jessica.johnson@domain.com,(941) 779-6738,New York,Fashion & Apparel,Cash on Delivery,11,517.04
+TXN-10147,2024-06-15,Michael Miller,michael.miller@domain.com,Not Provided,Los Angeles,Beauty & Health,Debit Card,10,227.46
+TXN-10148,2024-06-15,Alex Jones,alex.jones@domain.com,Not Provided,Los Angeles,Fashion & Apparel,PayPal,9,14116.55
+TXN-10149,2024-06-15,Emily Davis,emily.davis@domain.com,(837) 334-8081,New York,Fashion & Apparel,Debit Card,7,503.18
+TXN-10150,2024-06-15,Chris Wilson,chris.wilson@domain.com,Not Provided,Los Angeles,Electronics,PayPal,7,461.98
+TXN-10151,2024-06-15,David Taylor,david.taylor@domain.com,Not Provided,Chicago,Electronics,Debit Card,9,230.22
+TXN-10152,2024-06-15,Jessica Williams,jessica.williams@domain.com,(612) 438-1658,Chicago,Fashion & Apparel,Credit Card,9,188.88
+TXN-10153,2024-06-15,Jane Johnson,jane.johnson@domain.com,Not Provided,Chicago,Electronics,Cash on Delivery,9,791.31
+TXN-10154,2024-06-15,Jessica Brown,jessica.brown@domain.com,Not Provided,Houston,Fashion & Apparel,PayPal,7,181.83
+TXN-10155,2024-06-15,Daniel Jones,daniel.jones@domain.com,(258) 924-8404,New York,Electronics,Cash on Delivery,3,440.86
+TXN-10156,2024-07-25,Sarah Anderson,sarah.anderson@domain.com,Not Provided,Los Angeles,Electronics,Cash on Delivery,1,836.14
+TXN-10157,2024-06-15,Sarah Miller,sarah.miller@domain.com,Not Provided,Miami,Electronics,Credit Card,4,226.68
+TXN-10158,2024-06-15,John Williams,john.williams@domain.com,Not Provided,Miami,Electronics,Credit Card,3,24.44
+TXN-10159,2024-06-15,Daniel Anderson,daniel.anderson@domain.com,(908) 290-2338,Chicago,Electronics,Cash on Delivery,11,800.14
+TXN-10160,2024-06-15,David Jones,david.jones@domain.com,Not Provided,Other Metro,Home & Kitchen,PayPal,1,14122.31
+TXN-10161,2024-06-15,Sarah Williams,sarah.williams@domain.com,Not Provided,Miami,Home & Kitchen,PayPal,7,523.68
+TXN-10162,2024-06-15,Alex Wilson,alex.wilson@domain.com,Not Provided,Houston,Home & Kitchen,Credit Card,11,698.09
+TXN-10163,2024-04-19,Emily Johnson,unspecified@customer.org,(495) 335-2942,Other Metro,Fashion & Apparel,Cash on Delivery,4,212.98
+TXN-10164,2024-04-21,Jane Miller,jane.miller@domain.com,(652) 291-2289,Chicago,Electronics,Debit Card,10,88.29
+TXN-10165,2024-11-28,Jessica Johnson,jessica.johnson@domain.com,(724) 948-4103,Other Metro,Home & Kitchen,Credit Card,2,484.45
+TXN-10166,2024-06-15,Jessica Wilson,jessica.wilson@domain.com,(331) 650-2695,Chicago,Fashion & Apparel,Cash on Delivery,6,157.2
+TXN-10167,2024-06-15,Chris Anderson,chris.anderson@domain.com,Not Provided,Other Metro,Fashion & Apparel,PayPal,10,201.11
+TXN-10168,2024-06-15,John Miller,john.miller@domain.com,(930) 208-8446,Los Angeles,Electronics,PayPal,6,25.34
+TXN-10169,2024-06-15,Jane Johnson,unspecified@customer.org,Not Provided,New York,Beauty & Health,PayPal,3,251.13
+TXN-10170,2024-12-06,Jessica Anderson,jessica.anderson@domain.com,Not Provided,New York,Beauty & Health,Credit Card,3,11951.8
+TXN-10171,2024-06-15,Michael Wilson,michael.wilson@domain.com,(443) 679-7320,Chicago,Electronics,Cash on Delivery,3,582.83
+TXN-10172,2024-06-15,John Taylor,john.taylor@domain.com,Not Provided,Chicago,Electronics,PayPal,8,224.73
+TXN-10173,2024-06-15,Michael Taylor,michael.taylor@domain.com,(304) 792-7305,Other Metro,Electronics,Debit Card,5,800.38
+TXN-10174,2024-08-01,Daniel Taylor,daniel.taylor@domain.com,(290) 629-5059,Houston,Fashion & Apparel,PayPal,7,435.63
+TXN-10175,2024-06-15,David Davis,unspecified@customer.org,Not Provided,Houston,Home & Kitchen,PayPal,10,491.42
+TXN-10176,2024-06-15,Chris Johnson,unspecified@customer.org,(812) 210-3432,Other Metro,Electronics,Credit Card,6,444.98
+TXN-10177,2024-06-15,Sarah Williams,sarah.williams@domain.com,(708) 894-1268,Los Angeles,Home & Kitchen,Cash on Delivery,1,358.43
+TXN-10178,2024-06-15,Michael Williams,michael.williams@domain.com,Not Provided,Houston,Fashion & Apparel,PayPal,11,566.27
+TXN-10179,2024-11-08,Jane Williams,jane.williams@domain.com,Not Provided,Los Angeles,Home & Kitchen,Debit Card,2,644.49
+TXN-10180,2024-06-15,Sarah Wilson,sarah.wilson@domain.com,(345) 882-2447,New York,Fashion & Apparel,Credit Card,1,1840.65
+TXN-10181,2024-06-15,Michael Jones,michael.jones@domain.com,(392) 249-3806,Other Metro,Beauty & Health,PayPal,4,184.42
+TXN-10182,2024-06-15,Chris Anderson,chris.anderson@domain.com,(247) 837-6578,Miami,Fashion & Apparel,Credit Card,9,272.82
+TXN-10183,2024-06-15,John Williams,unspecified@customer.org,(630) 338-7447,New York,Electronics,Cash on Delivery,8,245.34
+TXN-10184,2024-06-15,Emily Jones,unspecified@customer.org,Not Provided,Other Metro,Fashion & Apparel,Credit Card,5,595.86
+TXN-10185,2024-06-15,Sarah Brown,sarah.brown@domain.com,Not Provided,Other Metro,Fashion & Apparel,Cash on Delivery,4,557.93
+TXN-10186,2024-07-05,David Miller,david.miller@domain.com,(346) 589-6308,New York,Home & Kitchen,Credit Card,7,533.58
+TXN-10187,2024-04-15,Alex Jones,unspecified@customer.org,(547) 420-5654,Other Metro,Electronics,Credit Card,3,70.64
+TXN-10188,2024-09-02,John Johnson,john.johnson@domain.com,Not Provided,Chicago,Home & Kitchen,PayPal,10,121.27
+TXN-10189,2024-06-15,Daniel Anderson,daniel.anderson@domain.com,(520) 534-2409,Houston,Electronics,PayPal,5,444.98
+TXN-10190,2024-05-02,Sarah Wilson,sarah.wilson@domain.com,Not Provided,Los Angeles,Electronics,Debit Card,6,444.98
+TXN-10191,2024-06-15,Alex Smith,alex.smith@domain.com,Not Provided,New York,Fashion & Apparel,PayPal,7,231.22
+TXN-10192,2024-06-15,Jessica Miller,jessica.miller@domain.com,Not Provided,Other Metro,Fashion & Apparel,Cash on Delivery,1,759.79
+TXN-10193,2024-06-15,Michael Smith,michael.smith@domain.com,Not Provided,Chicago,Fashion & Apparel,Credit Card,11,657.02
+TXN-10194,2024-06-15,Daniel Williams,daniel.williams@domain.com,(979) 306-7582,New York,Electronics,Cash on Delivery,6,54.51
+TXN-10195,2024-06-15,Chris Brown,chris.brown@domain.com,(516) 423-8833,Chicago,Fashion & Apparel,Cash on Delivery,7,271.5
+TXN-10196,2024-06-15,Alex Johnson,alex.johnson@domain.com,(253) 640-8008,Other Metro,Fashion & Apparel,PayPal,10,352.58
+TXN-10197,2024-06-15,Daniel Miller,daniel.miller@domain.com,Not Provided,Chicago,Electronics,PayPal,2,444.98
+TXN-10198,2024-02-08,Chris Williams,chris.williams@domain.com,(743) 945-6275,Other Metro,Fashion & Apparel,Credit Card,2,410.03
+TXN-10199,2024-06-15,David Davis,david.davis@domain.com,Not Provided,New York,Home & Kitchen,Credit Card,6,143.79
+TXN-10200,2024-06-15,David Johnson,david.johnson@domain.com,(620) 285-5675,Los Angeles,Electronics,Credit Card,7,671.06
+TXN-10201,2024-06-15,Jessica Taylor,unspecified@customer.org,Not Provided,New York,Electronics,Cash on Delivery,6,636.1
+TXN-10202,2024-06-15,Chris Davis,chris.davis@domain.com,Not Provided,Chicago,Home & Kitchen,Credit Card,10,702.54
+TXN-10203,2024-06-15,Jessica Johnson,jessica.johnson@domain.com,Not Provided,New York,Fashion & Apparel,PayPal,9,578.08
+TXN-10204,2024-06-15,Jessica Johnson,jessica.johnson@domain.com,(628) 368-8876,New York,Electronics,Cash on Delivery,9,113.26
+TXN-10205,2024-12-13,David Taylor,david.taylor@domain.com,Not Provided,Chicago,Electronics,Cash on Delivery,10,444.98
+TXN-10206,2024-06-15,Sarah Davis,unspecified@customer.org,Not Provided,Los Angeles,Electronics,Credit Card,11,575.45
+TXN-10207,2024-06-15,Alex Davis,alex.davis@domain.com,(631) 439-3693,Los Angeles,Fashion & Apparel,PayPal,7,680.88
+TXN-10208,2024-06-15,John Anderson,john.anderson@domain.com,Not Provided,Miami,Electronics,Credit Card,1,539.32
+TXN-10209,2024-06-15,Jessica Johnson,jessica.johnson@domain.com,Not Provided,Other Metro,Fashion & Apparel,PayPal,10,75.92
+TXN-10210,2024-06-15,Chris Brown,chris.brown@domain.com,Not Provided,Chicago,Beauty & Health,Credit Card,10,386.79
+TXN-10211,2024-09-02,Jessica Jones,jessica.jones@domain.com,(748) 173-8675,Chicago,Home & Kitchen,Cash on Delivery,10,534.91
+TXN-10212,2024-06-15,Jane Brown,jane.brown@domain.com,Not Provided,Los Angeles,Beauty & Health,Credit Card,8,356.42
+TXN-10213,2024-06-15,Alex Smith,alex.smith@domain.com,(431) 790-4655,Los Angeles,Beauty & Health,Credit Card,2,743.19
+TXN-10214,2024-06-15,Chris Taylor,chris.taylor@domain.com,(220) 665-2894,New York,Fashion & Apparel,Credit Card,8,279.72
+TXN-10215,2024-06-15,Michael Miller,michael.miller@domain.com,Not Provided,Chicago,Electronics,PayPal,3,416.08
+TXN-10216,2024-12-19,Alex Johnson,alex.johnson@domain.com,Not Provided,Other Metro,Beauty & Health,Credit Card,2,503.58
+TXN-10217,2024-06-15,Sarah Davis,sarah.davis@domain.com,(796) 544-2045,New York,Fashion & Apparel,Cash on Delivery,5,367.74
+TXN-10218,2024-06-15,Jessica Jones,unspecified@customer.org,(625) 796-6953,Miami,Electronics,Credit Card,4,747.24
+TXN-10219,2024-06-15,John Taylor,unspecified@customer.org,Not Provided,New York,Fashion & Apparel,Cash on Delivery,10,696.51
+TXN-10220,2024-06-15,Chris Johnson,chris.johnson@domain.com,(996) 573-3568,Chicago,Electronics,Cash on Delivery,1,444.98
+TXN-10221,2024-06-15,Alex Williams,unspecified@customer.org,(733) 558-3173,Other Metro,Home & Kitchen,Credit Card,9,69.99
+TXN-10222,2024-01-16,Chris Davis,unspecified@customer.org,Not Provided,Los Angeles,Home & Kitchen,PayPal,11,420.77
+TXN-10223,2024-06-15,David Davis,david.davis@domain.com,(405) 689-9518,Los Angeles,Electronics,Cash on Delivery,3,361.3
+TXN-10224,2024-06-15,Daniel Davis,daniel.davis@domain.com,Not Provided,Miami,Electronics,Cash on Delivery,3,179.37
+TXN-10225,2024-11-02,Jessica Smith,jessica.smith@domain.com,(425) 769-7269,Other Metro,Electronics,Credit Card,11,506.8
+TXN-10226,2024-05-24,Alex Anderson,unspecified@customer.org,(914) 173-3223,Chicago,Electronics,Credit Card,1,25.02
+TXN-10227,2024-06-15,David Jones,david.jones@domain.com,(473) 653-1495,Los Angeles,Fashion & Apparel,Credit Card,11,435.63
+TXN-10228,2024-06-15,Daniel Brown,daniel.brown@domain.com,(472) 687-5272,New York,Fashion & Apparel,Credit Card,4,838.19
+TXN-10229,2024-06-15,Jessica Taylor,jessica.taylor@domain.com,(347) 435-3713,Chicago,Electronics,Debit Card,1,108.08
+TXN-10230,2024-06-15,Jane Taylor,jane.taylor@domain.com,(579) 229-2299,Other Metro,Fashion & Apparel,Credit Card,6,601.72
+TXN-10231,2024-06-15,Emily Miller,emily.miller@domain.com,(846) 542-7666,Chicago,Fashion & Apparel,Credit Card,8,118.86
+TXN-10232,2024-06-15,Chris Williams,chris.williams@domain.com,(563) 218-4309,Houston,Electronics,Credit Card,5,157.99
+TXN-10233,2024-06-15,Sarah Wilson,sarah.wilson@domain.com,Not Provided,Chicago,Home & Kitchen,Credit Card,4,422.54
+TXN-10234,2024-06-15,Daniel Miller,daniel.miller@domain.com,Not Provided,Other Metro,Beauty & Health,Credit Card,10,414.57
+TXN-10235,2024-06-15,Daniel Taylor,daniel.taylor@domain.com,(676) 898-3623,Houston,Fashion & Apparel,Cash on Delivery,8,531.87
+TXN-10236,2024-05-19,Emily Smith,emily.smith@domain.com,(724) 907-6720,Houston,Electronics,Cash on Delivery,6,114.04
+TXN-10237,2024-06-15,Daniel Taylor,daniel.taylor@domain.com,(793) 688-6092,Los Angeles,Home & Kitchen,Cash on Delivery,2,558.41
+TXN-10238,2024-06-15,Michael Brown,michael.brown@domain.com,(436) 336-2008,New York,Fashion & Apparel,PayPal,9,435.63
+TXN-10239,2024-06-15,Jessica Jones,jessica.jones@domain.com,(564) 467-9761,Los Angeles,Fashion & Apparel,PayPal,10,295.7
+TXN-10240,2024-06-15,Michael Miller,michael.miller@domain.com,(720) 672-5753,Los Angeles,Fashion & Apparel,Credit Card,10,647.64
+TXN-10241,2024-06-15,Daniel Smith,daniel.smith@domain.com,(493) 249-9624,Los Angeles,Electronics,Cash on Delivery,8,795.2
+TXN-10242,2024-06-15,John Taylor,john.taylor@domain.com,(651) 563-5573,Los Angeles,Fashion & Apparel,Cash on Delivery,4,623.31
+TXN-10243,2024-06-15,John Johnson,john.johnson@domain.com,Not Provided,Miami,Fashion & Apparel,PayPal,5,304.71
+TXN-10244,2024-06-15,Michael Jones,michael.jones@domain.com,Not Provided,Chicago,Fashion & Apparel,Credit Card,11,260.91
+TXN-10245,2024-06-15,Alex Taylor,alex.taylor@domain.com,(685) 793-9347,Other Metro,Beauty & Health,PayPal,9,356.12
+TXN-10246,2024-06-15,Alex Brown,unspecified@customer.org,(383) 467-7102,Other Metro,Electronics,Credit Card,1,95.8
+TXN-10247,2024-06-15,John Jones,john.jones@domain.com,Not Provided,Miami,Home & Kitchen,Credit Card,2,471.34
+TXN-10248,2024-06-15,Alex Smith,unspecified@customer.org,Not Provided,New York,Home & Kitchen,PayPal,11,139.14
+TXN-10249,2024-06-15,Jane Wilson,jane.wilson@domain.com,(592) 812-8367,Other Metro,Fashion & Apparel,Cash on Delivery,6,822.3
+TXN-10250,2024-06-15,Emily Wilson,emily.wilson@domain.com,Not Provided,Other Metro,Electronics,PayPal,7,585.46
+TXN-10251,2024-04-02,Daniel Williams,daniel.williams@domain.com,Not Provided,Houston,Fashion & Apparel,Credit Card,4,230.81
+TXN-10252,2024-06-15,Michael Jones,michael.jones@domain.com,(458) 423-8160,Chicago,Electronics,PayPal,3,721.24
+TXN-10253,2024-06-15,Emily Johnson,emily.johnson@domain.com,(566) 206-3486,Houston,Fashion & Apparel,Credit Card,3,461.13
+TXN-10254,2024-06-15,Alex Jones,alex.jones@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,7,479.8
+TXN-10255,2024-06-15,Sarah Brown,sarah.brown@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,7,266.13
+TXN-10256,2024-06-15,Jane Johnson,jane.johnson@domain.com,(500) 759-8959,Chicago,Electronics,Cash on Delivery,10,235.84
+TXN-10257,2024-03-31,Sarah Taylor,sarah.taylor@domain.com,(722) 196-2893,Other Metro,Fashion & Apparel,Credit Card,7,556.44
+TXN-10258,2024-06-15,Michael Johnson,michael.johnson@domain.com,Not Provided,Los Angeles,Home & Kitchen,Debit Card,10,318.85
+TXN-10259,2024-06-15,John Jones,john.jones@domain.com,(407) 410-1148,Chicago,Electronics,PayPal,8,179.77
+TXN-10260,2024-06-15,Jessica Taylor,jessica.taylor@domain.com,Not Provided,Miami,Electronics,PayPal,10,291.19
+TXN-10261,2024-06-15,Chris Davis,chris.davis@domain.com,(736) 172-3970,Los Angeles,Fashion & Apparel,PayPal,2,435.63
+TXN-10262,2024-06-15,Alex Wilson,alex.wilson@domain.com,Not Provided,New York,Electronics,Debit Card,8,32.16
+TXN-10263,2024-06-15,Jessica Johnson,jessica.johnson@domain.com,(498) 936-3441,Chicago,Electronics,Credit Card,2,564.95
+TXN-10264,2024-10-18,Sarah Brown,unspecified@customer.org,Not Provided,Houston,Fashion & Apparel,PayPal,7,313.87
+TXN-10265,2024-06-15,John Williams,john.williams@domain.com,(955) 275-1237,Los Angeles,Electronics,PayPal,3,337.75
+TXN-10266,2024-06-15,Daniel Anderson,daniel.anderson@domain.com,Not Provided,Houston,Electronics,Cash on Delivery,10,703.09
+TXN-10267,2024-08-21,Emily Taylor,emily.taylor@domain.com,(661) 964-2075,Other Metro,Electronics,Credit Card,9,453.04
+TXN-10268,2024-06-15,Michael Davis,michael.davis@domain.com,(371) 675-6073,New York,Electronics,Credit Card,6,444.98
+TXN-10269,2024-06-15,Jessica Wilson,jessica.wilson@domain.com,Not Provided,Chicago,Home & Kitchen,Credit Card,9,630.91
+TXN-10270,2024-06-15,David Wilson,david.wilson@domain.com,Not Provided,Other Metro,Fashion & Apparel,Cash on Delivery,5,337.81
+TXN-10271,2024-06-15,John Davis,john.davis@domain.com,(865) 787-1752,Other Metro,Fashion & Apparel,Debit Card,10,506.58
+TXN-10272,2024-06-15,Daniel Davis,daniel.davis@domain.com,(593) 600-4766,Miami,Home & Kitchen,Debit Card,3,728.1
+TXN-10273,2024-07-28,Alex Smith,alex.smith@domain.com,Not Provided,Other Metro,Electronics,Cash on Delivery,4,294.66
+TXN-10274,2024-06-15,Daniel Anderson,daniel.anderson@domain.com,(263) 854-9961,Los Angeles,Fashion & Apparel,Cash on Delivery,1,545.46
+TXN-10275,2024-06-15,Emily Smith,unspecified@customer.org,Not Provided,Chicago,Home & Kitchen,Credit Card,5,144.42
+TXN-10276,2024-06-15,Chris Anderson,unspecified@customer.org,(540) 960-8422,Chicago,Beauty & Health,Credit Card,5,194.46
+TXN-10277,2024-07-30,Michael Jones,michael.jones@domain.com,(667) 514-4543,Chicago,Home & Kitchen,Cash on Delivery,9,8272.6
+TXN-10278,2024-06-15,Jane Davis,jane.davis@domain.com,Not Provided,New York,Fashion & Apparel,Cash on Delivery,1,374.86
+TXN-10279,2024-06-15,Jessica Smith,jessica.smith@domain.com,(788) 565-8830,Houston,Fashion & Apparel,Credit Card,2,622.63
+TXN-10280,2024-09-29,Chris Jones,chris.jones@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Credit Card,6,399.94
+TXN-10281,2024-04-15,Alex Smith,alex.smith@domain.com,Not Provided,Other Metro,Fashion & Apparel,Debit Card,6,429.22
+TXN-10282,2024-06-15,Jane Jones,jane.jones@domain.com,(381) 973-6021,Other Metro,Electronics,Cash on Delivery,2,145.55
+TXN-10283,2024-06-15,Emily Brown,unspecified@customer.org,(703) 805-9314,Chicago,Home & Kitchen,PayPal,8,422.54
+TXN-10284,2024-06-15,Daniel Williams,daniel.williams@domain.com,Not Provided,Other Metro,Electronics,PayPal,6,401.78
+TXN-10285,2024-12-03,Jane Johnson,jane.johnson@domain.com,(615) 425-6463,Chicago,Electronics,Credit Card,6,553.53
+TXN-10286,2024-06-15,Chris Davis,chris.davis@domain.com,(578) 821-8373,Los Angeles,Beauty & Health,Credit Card,8,222.13
+TXN-10287,2024-06-15,Alex Wilson,alex.wilson@domain.com,Not Provided,Los Angeles,Home & Kitchen,PayPal,8,338.53
+TXN-10288,2024-06-15,Alex Johnson,alex.johnson@domain.com,(789) 719-4110,Other Metro,Electronics,Credit Card,1,476.4
+TXN-10289,2024-06-15,David Anderson,david.anderson@domain.com,Not Provided,Miami,Electronics,PayPal,8,561.76
+TXN-10290,2024-11-18,John Wilson,unspecified@customer.org,(768) 397-8777,New York,Electronics,Debit Card,8,14122.31
+TXN-10291,2024-06-15,Sarah Wilson,sarah.wilson@domain.com,Not Provided,Houston,Home & Kitchen,Credit Card,1,281.09
+TXN-10292,2024-06-15,John Anderson,john.anderson@domain.com,(376) 316-2469,Los Angeles,Fashion & Apparel,Debit Card,11,257.61
+TXN-10293,2024-06-15,Chris Smith,chris.smith@domain.com,(206) 739-6114,New York,Home & Kitchen,PayPal,2,193.52
+TXN-10294,2024-06-15,Daniel Jones,daniel.jones@domain.com,(940) 339-7009,Los Angeles,Home & Kitchen,Cash on Delivery,3,592.84
+TXN-10295,2024-06-15,Jane Miller,jane.miller@domain.com,(437) 481-7895,Chicago,Fashion & Apparel,PayPal,8,503.95
+TXN-10296,2024-06-15,Daniel Davis,daniel.davis@domain.com,(435) 526-5211,Chicago,Home & Kitchen,PayPal,10,105.41
+TXN-10297,2024-06-15,David Miller,david.miller@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Debit Card,7,421.9
+TXN-10298,2024-06-25,Chris Davis,chris.davis@domain.com,(244) 207-5538,Chicago,Electronics,Cash on Delivery,2,202.34
+TXN-10299,2024-06-15,Sarah Jones,sarah.jones@domain.com,(519) 182-5357,Los Angeles,Electronics,Credit Card,7,217.71
+TXN-10300,2024-06-15,Alex Taylor,unspecified@customer.org,(646) 551-2763,Other Metro,Home & Kitchen,Credit Card,9,729.38
+TXN-10301,2024-06-15,Jane Davis,jane.davis@domain.com,Not Provided,Chicago,Electronics,PayPal,4,740.41
+TXN-10302,2024-06-15,Alex Anderson,alex.anderson@domain.com,Not Provided,New York,Fashion & Apparel,Debit Card,4,8985.55
+TXN-10303,2024-06-15,Jessica Johnson,jessica.johnson@domain.com,Not Provided,New York,Beauty & Health,Credit Card,8,386.79
+TXN-10304,2024-06-04,Jane Miller,jane.miller@domain.com,Not Provided,Houston,Electronics,Credit Card,11,502.72
+TXN-10305,2024-06-15,Sarah Brown,sarah.brown@domain.com,(385) 348-9940,Houston,Fashion & Apparel,PayPal,10,622.14
+TXN-10306,2024-09-22,Sarah Taylor,sarah.taylor@domain.com,Not Provided,Houston,Fashion & Apparel,Debit Card,11,208.19
+TXN-10307,2024-07-31,Jessica Johnson,jessica.johnson@domain.com,(805) 909-5864,Chicago,Electronics,Debit Card,1,273.78
+TXN-10308,2024-06-15,Emily Jones,emily.jones@domain.com,(949) 420-1946,New York,Electronics,Cash on Delivery,4,33.38
+TXN-10309,2024-06-15,Daniel Taylor,daniel.taylor@domain.com,Not Provided,Los Angeles,Home & Kitchen,Cash on Delivery,9,212.63
+TXN-10310,2024-06-15,John Williams,john.williams@domain.com,Not Provided,Other Metro,Home & Kitchen,Cash on Delivery,2,365.81
+TXN-10311,2024-06-15,John Taylor,john.taylor@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Credit Card,9,9540.3
+TXN-10312,2024-06-15,Jessica Smith,jessica.smith@domain.com,Not Provided,Houston,Electronics,Credit Card,10,547.97
+TXN-10313,2024-06-15,Alex Johnson,alex.johnson@domain.com,Not Provided,New York,Electronics,Credit Card,7,108.44
+TXN-10314,2024-06-15,Daniel Williams,daniel.williams@domain.com,(908) 809-8709,Other Metro,Fashion & Apparel,Credit Card,10,793.98
+TXN-10315,2024-06-15,Jane Johnson,jane.johnson@domain.com,(719) 429-4185,New York,Beauty & Health,Cash on Delivery,2,259.74
+TXN-10316,2024-06-01,Daniel Davis,daniel.davis@domain.com,(952) 937-7620,Chicago,Home & Kitchen,Credit Card,10,327.34
+TXN-10317,2024-06-15,Jane Anderson,jane.anderson@domain.com,(681) 555-5922,New York,Electronics,Credit Card,11,190.89
+TXN-10318,2024-06-15,Jessica Williams,jessica.williams@domain.com,(218) 811-6255,New York,Fashion & Apparel,PayPal,5,247.49
+TXN-10319,2024-06-15,Emily Wilson,emily.wilson@domain.com,Not Provided,Houston,Electronics,PayPal,3,549.66
+TXN-10320,2024-06-15,David Johnson,david.johnson@domain.com,Not Provided,New York,Fashion & Apparel,Cash on Delivery,4,435.63
+TXN-10321,2024-06-15,John Williams,john.williams@domain.com,Not Provided,Chicago,Home & Kitchen,Credit Card,9,553.38
+TXN-10322,2024-06-15,Jane Miller,jane.miller@domain.com,Not Provided,Los Angeles,Electronics,Cash on Delivery,9,219.16
+TXN-10323,2024-06-15,John Anderson,john.anderson@domain.com,(256) 475-5366,Other Metro,Electronics,PayPal,3,444.98
+TXN-10324,2024-12-21,John Johnson,john.johnson@domain.com,(395) 516-5759,Los Angeles,Beauty & Health,Credit Card,5,397.0
+TXN-10325,2024-06-15,Jessica Johnson,jessica.johnson@domain.com,(888) 113-2232,Los Angeles,Home & Kitchen,Cash on Delivery,10,686.2
+TXN-10326,2024-06-15,Michael Wilson,michael.wilson@domain.com,(696) 427-1909,Miami,Home & Kitchen,Credit Card,3,233.98
+TXN-10327,2024-03-10,Sarah Taylor,unspecified@customer.org,(839) 127-7720,Los Angeles,Home & Kitchen,Cash on Delivery,7,848.53
+TXN-10328,2024-06-16,Michael Johnson,michael.johnson@domain.com,Not Provided,Los Angeles,Electronics,Credit Card,9,444.98
+TXN-10329,2024-06-15,Daniel Wilson,daniel.wilson@domain.com,Not Provided,New York,Fashion & Apparel,Credit Card,5,794.88
+TXN-10330,2024-06-15,David Miller,david.miller@domain.com,Not Provided,New York,Electronics,PayPal,10,527.15
+TXN-10331,2024-06-15,Daniel Williams,daniel.williams@domain.com,(779) 143-4052,New York,Home & Kitchen,Cash on Delivery,2,140.29
+TXN-10332,2024-10-13,Emily Anderson,emily.anderson@domain.com,(538) 897-1886,Chicago,Fashion & Apparel,Credit Card,6,398.74
+TXN-10333,2024-06-15,Emily Davis,emily.davis@domain.com,(579) 464-8769,Other Metro,Home & Kitchen,Credit Card,2,138.54
+TXN-10334,2024-06-15,Chris Jones,chris.jones@domain.com,(715) 256-8928,Other Metro,Fashion & Apparel,PayPal,11,835.17
+TXN-10335,2024-06-15,Sarah Wilson,unspecified@customer.org,(839) 530-5537,Chicago,Beauty & Health,Credit Card,1,522.99
+TXN-10336,2024-06-15,Chris Smith,chris.smith@domain.com,Not Provided,Other Metro,Beauty & Health,PayPal,4,386.79
+TXN-10337,2024-08-01,John Johnson,john.johnson@domain.com,(338) 346-4219,Miami,Beauty & Health,PayPal,10,420.36
+TXN-10338,2024-06-15,Michael Jones,michael.jones@domain.com,Not Provided,Houston,Fashion & Apparel,Credit Card,1,534.24
+TXN-10339,2024-07-07,Emily Williams,emily.williams@domain.com,(879) 265-7604,New York,Home & Kitchen,Debit Card,9,579.58
+TXN-10340,2024-09-10,Emily Williams,emily.williams@domain.com,(772) 698-5865,New York,Electronics,Credit Card,5,86.47
+TXN-10341,2024-06-15,Daniel Miller,daniel.miller@domain.com,(979) 122-1565,New York,Electronics,PayPal,2,390.75
+TXN-10342,2024-06-15,Daniel Wilson,daniel.wilson@domain.com,(222) 885-3176,New York,Fashion & Apparel,Debit Card,9,698.58
+TXN-10343,2024-06-15,Jane Smith,jane.smith@domain.com,(426) 393-5695,Miami,Beauty & Health,Debit Card,6,836.5
+TXN-10344,2024-06-15,John Miller,john.miller@domain.com,Not Provided,New York,Electronics,PayPal,11,471.67
+TXN-10345,2024-06-15,Michael Davis,michael.davis@domain.com,Not Provided,Other Metro,Fashion & Apparel,PayPal,8,734.72
+TXN-10346,2024-06-15,John Anderson,john.anderson@domain.com,Not Provided,New York,Electronics,Credit Card,1,658.8
+TXN-10347,2024-06-15,Jessica Taylor,jessica.taylor@domain.com,Not Provided,Chicago,Fashion & Apparel,Credit Card,4,435.16
+TXN-10348,2024-06-15,Jessica Smith,jessica.smith@domain.com,Not Provided,Other Metro,Fashion & Apparel,Cash on Delivery,9,435.48
+TXN-10349,2024-04-25,Daniel Wilson,daniel.wilson@domain.com,(899) 441-4553,New York,Fashion & Apparel,Cash on Delivery,11,606.58
+TXN-10350,2024-06-15,Michael Jones,michael.jones@domain.com,Not Provided,New York,Home & Kitchen,Credit Card,10,756.16
+TXN-10351,2024-06-15,Jane Jones,jane.jones@domain.com,(567) 444-4231,New York,Electronics,Credit Card,5,637.87
+TXN-10352,2024-06-15,Jessica Miller,jessica.miller@domain.com,(255) 325-4629,Other Metro,Beauty & Health,Cash on Delivery,10,785.3
+TXN-10353,2024-06-15,David Miller,david.miller@domain.com,(541) 270-2868,Los Angeles,Fashion & Apparel,Credit Card,7,111.44
+TXN-10354,2024-07-28,Jessica Miller,jessica.miller@domain.com,(246) 721-4271,Other Metro,Home & Kitchen,Credit Card,8,795.44
+TXN-10355,2024-06-15,Chris Williams,chris.williams@domain.com,(931) 988-6266,Los Angeles,Fashion & Apparel,Debit Card,4,582.84
+TXN-10356,2024-06-15,Alex Wilson,unspecified@customer.org,Not Provided,Other Metro,Fashion & Apparel,Cash on Delivery,1,137.98
+TXN-10357,2024-06-15,Sarah Davis,sarah.davis@domain.com,Not Provided,Chicago,Electronics,Credit Card,8,501.26
+TXN-10358,2024-04-25,Jessica Brown,jessica.brown@domain.com,(944) 354-2340,Los Angeles,Fashion & Apparel,Credit Card,1,92.81
+TXN-10359,2024-06-15,Jessica Davis,jessica.davis@domain.com,(666) 200-8750,Other Metro,Electronics,PayPal,7,544.95
+TXN-10360,2024-06-15,David Smith,david.smith@domain.com,Not Provided,Miami,Electronics,Credit Card,5,122.13
+TXN-10361,2024-06-15,Daniel Anderson,daniel.anderson@domain.com,(258) 991-4424,Other Metro,Fashion & Apparel,Cash on Delivery,9,482.09
+TXN-10362,2024-06-15,Emily Miller,emily.miller@domain.com,Not Provided,Houston,Beauty & Health,Credit Card,7,701.21
+TXN-10363,2024-05-13,Alex Wilson,alex.wilson@domain.com,(894) 944-1889,Chicago,Home & Kitchen,Cash on Delivery,8,422.54
+TXN-10364,2024-06-15,Michael Smith,michael.smith@domain.com,(673) 116-2115,New York,Home & Kitchen,PayPal,1,194.34
+TXN-10365,2024-06-15,Sarah Williams,sarah.williams@domain.com,(732) 919-8145,Los Angeles,Electronics,Credit Card,6,680.74
+TXN-10366,2024-06-15,John Anderson,john.anderson@domain.com,(250) 180-3083,Los Angeles,Electronics,Credit Card,8,661.19
+TXN-10367,2024-06-15,Sarah Wilson,sarah.wilson@domain.com,(371) 593-6065,Miami,Home & Kitchen,Credit Card,2,72.51
+TXN-10368,2024-06-15,Alex Brown,alex.brown@domain.com,Not Provided,Los Angeles,Fashion & Apparel,PayPal,9,35.71
+TXN-10369,2024-06-15,Michael Wilson,michael.wilson@domain.com,(669) 760-9907,Houston,Electronics,Credit Card,4,246.72
+TXN-10370,2024-06-15,John Taylor,john.taylor@domain.com,Not Provided,Houston,Fashion & Apparel,PayPal,7,686.71
+TXN-10371,2024-06-15,Jessica Brown,jessica.brown@domain.com,(665) 342-9664,Los Angeles,Electronics,Cash on Delivery,10,462.79
+TXN-10372,2024-06-15,Michael Smith,michael.smith@domain.com,Not Provided,Other Metro,Beauty & Health,Credit Card,5,733.86
+TXN-10373,2024-12-19,Alex Smith,alex.smith@domain.com,(993) 677-6756,Other Metro,Beauty & Health,Cash on Delivery,9,326.88
+TXN-10374,2024-05-04,Michael Smith,michael.smith@domain.com,(420) 361-7474,Houston,Home & Kitchen,Credit Card,8,505.35
+TXN-10375,2024-06-15,Jessica Taylor,jessica.taylor@domain.com,(727) 526-7185,New York,Fashion & Apparel,Credit Card,11,435.63
+TXN-10376,2024-06-15,Jessica Johnson,jessica.johnson@domain.com,Not Provided,Miami,Beauty & Health,Credit Card,8,330.37
+TXN-10377,2024-06-15,Jane Brown,jane.brown@domain.com,(891) 198-5677,Houston,Electronics,Cash on Delivery,11,321.45
+TXN-10378,2024-06-15,Michael Davis,michael.davis@domain.com,(903) 348-1234,New York,Fashion & Apparel,Credit Card,10,842.52
+TXN-10379,2024-06-15,David Johnson,david.johnson@domain.com,(615) 315-4850,Los Angeles,Fashion & Apparel,Cash on Delivery,7,659.96
+TXN-10380,2024-06-15,David Smith,unspecified@customer.org,Not Provided,Los Angeles,Home & Kitchen,Cash on Delivery,6,477.59
+TXN-10381,2024-06-15,Jessica Jones,jessica.jones@domain.com,(521) 417-6828,New York,Fashion & Apparel,Cash on Delivery,2,777.96
+TXN-10382,2024-06-15,Daniel Wilson,daniel.wilson@domain.com,(770) 669-5747,Other Metro,Beauty & Health,Cash on Delivery,7,527.54
+TXN-10383,2024-06-15,Daniel Williams,daniel.williams@domain.com,Not Provided,Chicago,Electronics,Debit Card,8,764.95
+TXN-10384,2024-06-15,Jane Johnson,jane.johnson@domain.com,(442) 886-8887,New York,Home & Kitchen,Cash on Delivery,2,244.66
+TXN-10385,2024-12-21,Jessica Taylor,jessica.taylor@domain.com,Not Provided,Chicago,Fashion & Apparel,Cash on Delivery,2,637.83
+TXN-10386,2024-06-15,John Johnson,john.johnson@domain.com,Not Provided,New York,Fashion & Apparel,Credit Card,1,382.13
+TXN-10387,2024-06-15,Jessica Jones,jessica.jones@domain.com,(223) 572-8091,Houston,Electronics,Credit Card,2,113.87
+TXN-10388,2024-10-07,Chris Williams,chris.williams@domain.com,Not Provided,Other Metro,Fashion & Apparel,Cash on Delivery,9,522.99
+TXN-10389,2024-06-15,Chris Jones,chris.jones@domain.com,Not Provided,Miami,Home & Kitchen,Cash on Delivery,4,833.94
+TXN-10390,2024-06-15,Jessica Williams,jessica.williams@domain.com,(225) 722-6573,Miami,Fashion & Apparel,PayPal,3,58.39
+TXN-10391,2024-06-15,Jessica Anderson,jessica.anderson@domain.com,(341) 747-7319,New York,Home & Kitchen,Debit Card,8,776.85
+TXN-10392,2024-06-15,Alex Jones,alex.jones@domain.com,(211) 503-8980,Miami,Fashion & Apparel,PayPal,9,435.63
+TXN-10393,2024-06-10,David Davis,unspecified@customer.org,Not Provided,Houston,Fashion & Apparel,Debit Card,3,135.62
+TXN-10394,2024-06-15,Sarah Smith,sarah.smith@domain.com,(540) 662-5746,Chicago,Home & Kitchen,Credit Card,5,315.88
+TXN-10395,2024-06-15,Emily Jones,emily.jones@domain.com,Not Provided,Los Angeles,Fashion & Apparel,PayPal,7,506.26
+TXN-10396,2024-06-15,John Jones,john.jones@domain.com,Not Provided,Other Metro,Fashion & Apparel,Debit Card,9,424.89
+TXN-10397,2024-06-15,Michael Johnson,michael.johnson@domain.com,(652) 492-3259,Miami,Home & Kitchen,PayPal,3,653.12
+TXN-10398,2024-04-14,David Smith,david.smith@domain.com,(416) 419-9085,Other Metro,Home & Kitchen,PayPal,10,748.32
+TXN-10399,2024-06-15,Daniel Jones,daniel.jones@domain.com,(288) 927-7041,Los Angeles,Home & Kitchen,PayPal,3,762.52
+TXN-10400,2024-06-15,Jessica Anderson,jessica.anderson@domain.com,Not Provided,New York,Electronics,Debit Card,10,385.84
+TXN-10401,2024-06-23,Michael Jones,michael.jones@domain.com,(734) 309-3093,Los Angeles,Fashion & Apparel,PayPal,1,48.44
+TXN-10402,2024-06-15,John Miller,john.miller@domain.com,(552) 399-6801,Other Metro,Fashion & Apparel,Credit Card,1,332.25
+TXN-10403,2024-06-15,John Miller,john.miller@domain.com,Not Provided,Other Metro,Fashion & Apparel,Cash on Delivery,4,73.01
+TXN-10404,2024-02-12,John Williams,john.williams@domain.com,(399) 685-4527,Other Metro,Beauty & Health,PayPal,3,258.67
+TXN-10405,2024-06-06,Michael Jones,unspecified@customer.org,Not Provided,Los Angeles,Electronics,Cash on Delivery,5,444.98
+TXN-10406,2024-06-15,Alex Miller,alex.miller@domain.com,Not Provided,New York,Fashion & Apparel,Cash on Delivery,10,13361.25
+TXN-10407,2024-06-15,Daniel Jones,daniel.jones@domain.com,(823) 731-8635,Chicago,Fashion & Apparel,Cash on Delivery,8,234.36
+TXN-10408,2024-06-15,Jane Davis,jane.davis@domain.com,(987) 978-2183,Los Angeles,Electronics,Cash on Delivery,8,444.98
+TXN-10409,2024-06-15,Alex Jones,alex.jones@domain.com,(736) 805-2919,Los Angeles,Home & Kitchen,PayPal,9,422.54
+TXN-10410,2024-11-28,Michael Anderson,michael.anderson@domain.com,(725) 696-1839,Houston,Electronics,Credit Card,10,23.62
+TXN-10411,2024-04-04,John Smith,john.smith@domain.com,(519) 295-9609,Other Metro,Beauty & Health,PayPal,7,28.05
+TXN-10412,2024-06-15,Emily Brown,emily.brown@domain.com,Not Provided,Houston,Electronics,Cash on Delivery,9,111.7
+TXN-10413,2024-01-08,Sarah Anderson,sarah.anderson@domain.com,Not Provided,New York,Home & Kitchen,Debit Card,7,647.31
+TXN-10414,2024-06-15,David Taylor,david.taylor@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,9,563.29
+TXN-10415,2024-06-15,Alex Smith,alex.smith@domain.com,Not Provided,Los Angeles,Electronics,Credit Card,3,398.16
+TXN-10416,2024-06-15,Michael Smith,michael.smith@domain.com,(983) 418-7764,Chicago,Electronics,Credit Card,1,461.67
+TXN-10417,2024-03-27,John Smith,unspecified@customer.org,Not Provided,Other Metro,Home & Kitchen,PayPal,7,449.64
+TXN-10418,2024-06-15,Daniel Taylor,daniel.taylor@domain.com,Not Provided,Houston,Home & Kitchen,Cash on Delivery,4,398.59
+TXN-10419,2024-06-15,Alex Johnson,alex.johnson@domain.com,Not Provided,New York,Electronics,Credit Card,11,438.64
+TXN-10420,2024-06-15,David Miller,david.miller@domain.com,(552) 476-3655,Chicago,Fashion & Apparel,PayPal,10,54.34
+TXN-10421,2024-06-15,Jessica Davis,jessica.davis@domain.com,Not Provided,New York,Home & Kitchen,Credit Card,3,615.44
+TXN-10422,2024-12-11,Chris Davis,chris.davis@domain.com,(466) 237-6487,Miami,Electronics,Credit Card,10,227.5
+TXN-10423,2024-06-15,Alex Johnson,alex.johnson@domain.com,(401) 861-3921,Chicago,Fashion & Apparel,Credit Card,4,671.14
+TXN-10424,2024-11-04,David Johnson,david.johnson@domain.com,Not Provided,Chicago,Electronics,PayPal,3,729.99
+TXN-10425,2024-06-15,Michael Smith,michael.smith@domain.com,Not Provided,Houston,Electronics,Cash on Delivery,4,692.12
+TXN-10426,2024-06-15,Alex Brown,alex.brown@domain.com,Not Provided,Other Metro,Home & Kitchen,PayPal,3,23.13
+TXN-10427,2024-06-15,Daniel Williams,daniel.williams@domain.com,Not Provided,Other Metro,Fashion & Apparel,PayPal,11,14122.31
+TXN-10428,2024-06-15,Sarah Williams,sarah.williams@domain.com,Not Provided,New York,Home & Kitchen,Cash on Delivery,11,316.26
+TXN-10429,2024-02-17,Michael Jones,michael.jones@domain.com,Not Provided,Other Metro,Beauty & Health,PayPal,9,847.24
+TXN-10430,2024-10-30,Emily Wilson,emily.wilson@domain.com,(701) 540-1325,Other Metro,Electronics,Credit Card,5,240.05
+TXN-10431,2024-12-07,Alex Brown,alex.brown@domain.com,(738) 919-6777,Chicago,Fashion & Apparel,Cash on Delivery,7,375.84
+TXN-10432,2024-06-15,John Anderson,john.anderson@domain.com,(626) 743-9792,New York,Home & Kitchen,Credit Card,11,750.28
+TXN-10433,2024-02-22,David Taylor,david.taylor@domain.com,(922) 124-6783,Miami,Electronics,Credit Card,8,444.98
+TXN-10434,2024-06-15,Emily Smith,emily.smith@domain.com,Not Provided,Chicago,Fashion & Apparel,Cash on Delivery,11,435.63
+TXN-10435,2024-06-15,Michael Taylor,michael.taylor@domain.com,(337) 532-3517,Los Angeles,Home & Kitchen,Cash on Delivery,6,273.42
+TXN-10436,2024-06-15,Alex Johnson,alex.johnson@domain.com,(588) 821-4046,Other Metro,Fashion & Apparel,Cash on Delivery,6,266.92
+TXN-10437,2024-06-15,Alex Brown,alex.brown@domain.com,(953) 280-3823,Other Metro,Electronics,PayPal,1,569.29
+TXN-10438,2024-05-31,Alex Miller,alex.miller@domain.com,(464) 437-5473,Chicago,Fashion & Apparel,PayPal,7,435.63
+TXN-10439,2024-06-15,Emily Wilson,emily.wilson@domain.com,Not Provided,Miami,Fashion & Apparel,PayPal,1,168.94
+TXN-10440,2024-06-15,Jane Smith,jane.smith@domain.com,(627) 658-4007,New York,Fashion & Apparel,Credit Card,7,759.38
+TXN-10441,2024-06-15,John Williams,john.williams@domain.com,Not Provided,Los Angeles,Electronics,PayPal,2,410.31
+TXN-10442,2024-12-21,John Taylor,john.taylor@domain.com,(719) 258-3708,New York,Electronics,Debit Card,6,278.44
+TXN-10443,2024-06-15,Daniel Williams,daniel.williams@domain.com,Not Provided,Miami,Home & Kitchen,PayPal,10,633.36
+TXN-10444,2024-06-15,Jessica Brown,jessica.brown@domain.com,Not Provided,New York,Fashion & Apparel,Cash on Delivery,9,835.63
+TXN-10445,2024-06-15,Jessica Jones,jessica.jones@domain.com,(265) 942-9649,Houston,Home & Kitchen,Credit Card,8,383.36
+TXN-10446,2024-06-15,Alex Miller,alex.miller@domain.com,Not Provided,Chicago,Electronics,Cash on Delivery,9,768.76
+TXN-10447,2024-06-15,Sarah Smith,unspecified@customer.org,Not Provided,New York,Fashion & Apparel,Credit Card,4,507.36
+TXN-10448,2024-02-09,Daniel Johnson,daniel.johnson@domain.com,(533) 824-5098,New York,Fashion & Apparel,Debit Card,4,461.55
+TXN-10449,2024-06-15,Daniel Wilson,daniel.wilson@domain.com,(941) 739-3663,Other Metro,Fashion & Apparel,PayPal,8,450.47
+TXN-10450,2024-06-15,Michael Jones,michael.jones@domain.com,(325) 866-6291,Other Metro,Electronics,Debit Card,2,553.21
+TXN-10451,2024-06-15,Michael Taylor,unspecified@customer.org,(598) 933-7474,New York,Home & Kitchen,Cash on Delivery,2,647.01
+TXN-10452,2024-06-15,Jane Wilson,unspecified@customer.org,(249) 204-6492,New York,Fashion & Apparel,PayPal,9,8045.45
+TXN-10453,2024-06-15,Jessica Jones,jessica.jones@domain.com,(395) 892-4273,Los Angeles,Fashion & Apparel,Cash on Delivery,11,435.63
+TXN-10454,2024-06-15,Jessica Williams,jessica.williams@domain.com,Not Provided,Other Metro,Beauty & Health,Cash on Delivery,1,118.65
+TXN-10455,2024-06-15,Michael Taylor,michael.taylor@domain.com,Not Provided,Other Metro,Home & Kitchen,PayPal,2,66.26
+TXN-10456,2024-06-15,David Anderson,david.anderson@domain.com,Not Provided,Chicago,Electronics,Credit Card,7,448.97
+TXN-10457,2024-11-29,John Wilson,john.wilson@domain.com,Not Provided,Other Metro,Beauty & Health,Credit Card,9,616.69
+TXN-10458,2024-06-15,Michael Jones,michael.jones@domain.com,(255) 890-8440,Chicago,Electronics,Credit Card,5,239.09
+TXN-10459,2024-06-15,Michael Johnson,michael.johnson@domain.com,(327) 821-6270,Other Metro,Home & Kitchen,Cash on Delivery,8,422.54
+TXN-10460,2024-06-15,Chris Jones,chris.jones@domain.com,(803) 475-9915,Los Angeles,Fashion & Apparel,PayPal,10,677.12
+TXN-10461,2024-06-15,Jane Davis,jane.davis@domain.com,(430) 716-4748,New York,Fashion & Apparel,Cash on Delivery,7,546.43
+TXN-10462,2024-02-06,Alex Anderson,alex.anderson@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,4,415.6
+TXN-10463,2024-06-15,Chris Johnson,unspecified@customer.org,(220) 209-9585,New York,Electronics,Credit Card,1,251.64
+TXN-10464,2024-06-15,Michael Jones,michael.jones@domain.com,(545) 962-7471,Los Angeles,Home & Kitchen,PayPal,4,20.78
+TXN-10465,2024-06-15,Chris Brown,chris.brown@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,10,636.61
+TXN-10466,2024-09-30,Alex Davis,alex.davis@domain.com,(424) 357-6353,New York,Fashion & Apparel,Cash on Delivery,9,208.41
+TXN-10467,2024-06-15,Daniel Smith,daniel.smith@domain.com,Not Provided,Los Angeles,Electronics,Credit Card,11,545.65
+TXN-10468,2024-06-15,Jane Miller,jane.miller@domain.com,(562) 482-3798,Chicago,Fashion & Apparel,Debit Card,9,380.89
+TXN-10469,2024-01-27,Chris Brown,unspecified@customer.org,(908) 271-1908,Other Metro,Fashion & Apparel,Cash on Delivery,4,344.84
+TXN-10470,2024-11-17,Michael Smith,michael.smith@domain.com,(665) 751-1559,New York,Fashion & Apparel,PayPal,9,403.32
+TXN-10471,2024-06-15,Jane Davis,jane.davis@domain.com,(826) 138-7601,Miami,Fashion & Apparel,Credit Card,4,451.62
+TXN-10472,2024-06-15,Alex Williams,alex.williams@domain.com,Not Provided,Los Angeles,Electronics,Credit Card,5,764.71
+TXN-10473,2024-10-27,Michael Jones,michael.jones@domain.com,(492) 683-7266,Chicago,Fashion & Apparel,Cash on Delivery,11,296.12
+TXN-10474,2024-06-15,Jessica Brown,unspecified@customer.org,(561) 453-3433,Chicago,Fashion & Apparel,Credit Card,4,272.52
+TXN-10475,2024-06-15,Daniel Taylor,daniel.taylor@domain.com,(827) 404-8913,Los Angeles,Fashion & Apparel,Credit Card,6,641.53
+TXN-10476,2024-06-15,Sarah Miller,sarah.miller@domain.com,(935) 750-9983,Chicago,Electronics,Credit Card,3,612.17
+TXN-10477,2024-06-15,David Smith,david.smith@domain.com,(307) 344-7176,Other Metro,Home & Kitchen,Credit Card,2,69.49
+TXN-10478,2024-01-16,Jessica Johnson,jessica.johnson@domain.com,(496) 705-1568,Chicago,Home & Kitchen,PayPal,4,26.67
+TXN-10479,2024-06-15,Jessica Williams,jessica.williams@domain.com,(621) 874-3525,Other Metro,Electronics,PayPal,3,690.7
+TXN-10480,2024-06-15,Emily Taylor,unspecified@customer.org,Not Provided,Houston,Electronics,Credit Card,8,761.39
+TXN-10481,2024-06-15,Jessica Anderson,jessica.anderson@domain.com,(550) 821-2659,Houston,Electronics,Cash on Delivery,4,487.21
+TXN-10482,2024-06-15,Emily Miller,emily.miller@domain.com,Not Provided,Los Angeles,Fashion & Apparel,PayPal,11,576.39
+TXN-10483,2024-06-15,Daniel Miller,daniel.miller@domain.com,(994) 572-4022,Chicago,Beauty & Health,Cash on Delivery,5,243.69
+TXN-10484,2024-06-15,Chris Miller,chris.miller@domain.com,(895) 284-8506,Miami,Home & Kitchen,PayPal,1,291.2
+TXN-10485,2024-06-15,John Wilson,john.wilson@domain.com,(699) 468-7867,Chicago,Beauty & Health,PayPal,9,386.79
+TXN-10486,2024-06-15,Jessica Davis,unspecified@customer.org,(510) 892-2561,Miami,Fashion & Apparel,PayPal,6,471.69
+TXN-10487,2024-06-15,Jane Williams,unspecified@customer.org,(229) 824-6413,Los Angeles,Electronics,Cash on Delivery,9,700.2
+TXN-10488,2024-08-10,Jessica Miller,jessica.miller@domain.com,Not Provided,Other Metro,Beauty & Health,Cash on Delivery,9,27.33
+TXN-10489,2024-03-11,Jane Taylor,jane.taylor@domain.com,(988) 411-3861,Other Metro,Home & Kitchen,PayPal,6,422.54
+TXN-10490,2024-06-15,Michael Jones,michael.jones@domain.com,(955) 967-8425,Miami,Electronics,Credit Card,7,444.98
+TXN-10491,2024-06-15,David Jones,david.jones@domain.com,Not Provided,Other Metro,Electronics,PayPal,5,715.67
+TXN-10492,2024-06-15,Jessica Anderson,jessica.anderson@domain.com,(989) 652-5939,Houston,Fashion & Apparel,Cash on Delivery,5,345.73
+TXN-10493,2024-06-15,Daniel Taylor,daniel.taylor@domain.com,(917) 869-8791,Other Metro,Electronics,PayPal,8,232.82
+TXN-10494,2024-06-15,Alex Wilson,alex.wilson@domain.com,Not Provided,Other Metro,Beauty & Health,Credit Card,7,386.79
+TXN-10495,2024-06-15,Emily Johnson,emily.johnson@domain.com,(938) 587-5081,Houston,Electronics,PayPal,2,444.98
+TXN-10496,2024-06-15,Emily Taylor,emily.taylor@domain.com,(488) 682-8816,Chicago,Home & Kitchen,PayPal,11,664.21
+TXN-10497,2024-06-15,Chris Williams,chris.williams@domain.com,Not Provided,New York,Home & Kitchen,Credit Card,1,609.21
+TXN-10498,2024-09-28,David Anderson,david.anderson@domain.com,Not Provided,Houston,Fashion & Apparel,Credit Card,11,188.05
+TXN-10499,2024-06-15,Jessica Brown,jessica.brown@domain.com,Not Provided,Other Metro,Electronics,Credit Card,7,311.51
+TXN-10500,2024-06-15,Jane Brown,jane.brown@domain.com,(682) 322-2772,Other Metro,Beauty & Health,PayPal,9,108.61
+TXN-10501,2024-06-15,Michael Jones,michael.jones@domain.com,(597) 745-1435,Miami,Fashion & Apparel,Cash on Delivery,2,100.65
+TXN-10502,2024-03-18,David Jones,david.jones@domain.com,(675) 610-9401,New York,Electronics,PayPal,10,74.65
+TXN-10503,2024-06-15,Michael Miller,unspecified@customer.org,(347) 571-7114,New York,Electronics,Cash on Delivery,1,165.42
+TXN-10504,2024-06-15,Jessica Williams,jessica.williams@domain.com,Not Provided,Houston,Electronics,Cash on Delivery,2,24.75
+TXN-10505,2024-01-08,Jane Johnson,jane.johnson@domain.com,(426) 470-6587,Chicago,Fashion & Apparel,Credit Card,10,379.46
+TXN-10506,2024-06-15,Alex Johnson,alex.johnson@domain.com,Not Provided,Los Angeles,Electronics,PayPal,4,732.76
+TXN-10507,2024-11-03,Jane Taylor,unspecified@customer.org,(733) 566-8120,Chicago,Home & Kitchen,PayPal,10,492.55
+TXN-10508,2024-06-15,Daniel Anderson,daniel.anderson@domain.com,(570) 882-1676,New York,Home & Kitchen,Debit Card,11,781.54
+TXN-10509,2024-06-15,Michael Johnson,michael.johnson@domain.com,(977) 760-8414,Chicago,Electronics,Credit Card,5,61.93
+TXN-10510,2024-06-15,Sarah Davis,sarah.davis@domain.com,Not Provided,Los Angeles,Electronics,Credit Card,8,611.81
+TXN-10511,2024-06-15,Daniel Taylor,daniel.taylor@domain.com,Not Provided,Other Metro,Electronics,Credit Card,5,87.95
+TXN-10512,2024-01-19,Jane Brown,jane.brown@domain.com,(464) 857-4107,Other Metro,Home & Kitchen,Debit Card,3,591.56
+TXN-10513,2024-12-18,Chris Jones,chris.jones@domain.com,(230) 617-1578,Chicago,Fashion & Apparel,PayPal,8,193.87
+TXN-10514,2024-06-15,David Williams,unspecified@customer.org,(776) 441-8457,Houston,Home & Kitchen,Debit Card,8,487.45
+TXN-10515,2024-09-28,Alex Smith,unspecified@customer.org,Not Provided,Other Metro,Electronics,Cash on Delivery,2,379.84
+TXN-10516,2024-10-24,Alex Williams,alex.williams@domain.com,(641) 370-1343,Other Metro,Home & Kitchen,Credit Card,9,252.44
+TXN-10517,2024-06-15,Chris Wilson,unspecified@customer.org,Not Provided,Other Metro,Fashion & Apparel,Credit Card,1,270.53
+TXN-10518,2024-06-15,Chris Anderson,chris.anderson@domain.com,(595) 887-2361,Los Angeles,Home & Kitchen,Debit Card,7,793.42
+TXN-10519,2024-06-15,Daniel Wilson,daniel.wilson@domain.com,Not Provided,Miami,Fashion & Apparel,PayPal,3,251.94
+TXN-10520,2024-06-15,David Miller,david.miller@domain.com,(706) 860-7724,Houston,Home & Kitchen,Cash on Delivery,5,300.66
+TXN-10521,2024-12-25,Alex Davis,alex.davis@domain.com,Not Provided,Chicago,Electronics,PayPal,6,806.25
+TXN-10522,2024-06-15,Jane Davis,jane.davis@domain.com,Not Provided,Chicago,Home & Kitchen,Credit Card,5,839.77
+TXN-10523,2024-06-15,Michael Smith,michael.smith@domain.com,(230) 928-1703,Other Metro,Electronics,Credit Card,4,655.88
+TXN-10524,2024-06-15,Chris Johnson,chris.johnson@domain.com,Not Provided,Miami,Home & Kitchen,Cash on Delivery,3,14122.31
+TXN-10525,2024-06-15,Alex Wilson,alex.wilson@domain.com,(810) 137-6581,Other Metro,Fashion & Apparel,PayPal,3,74.06
+TXN-10526,2024-11-04,Jane Johnson,jane.johnson@domain.com,(516) 327-2496,Chicago,Fashion & Apparel,Credit Card,10,842.19
+TXN-10527,2024-06-15,Alex Wilson,alex.wilson@domain.com,(460) 330-9445,New York,Fashion & Apparel,Cash on Delivery,11,101.98
+TXN-10528,2024-05-03,David Taylor,david.taylor@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Cash on Delivery,2,128.41
+TXN-10529,2024-11-25,Sarah Williams,sarah.williams@domain.com,Not Provided,Other Metro,Electronics,Cash on Delivery,2,453.58
+TXN-10530,2024-06-15,Jessica Anderson,jessica.anderson@domain.com,Not Provided,Other Metro,Electronics,PayPal,6,603.46
+TXN-10531,2024-06-15,David Wilson,david.wilson@domain.com,Not Provided,Other Metro,Fashion & Apparel,Cash on Delivery,5,474.03
+TXN-10532,2024-06-15,Sarah Miller,sarah.miller@domain.com,Not Provided,Miami,Home & Kitchen,Cash on Delivery,2,354.68
+TXN-10533,2024-10-07,Chris Smith,unspecified@customer.org,(957) 589-2795,Houston,Fashion & Apparel,Credit Card,5,80.64
+TXN-10534,2024-06-15,Alex Wilson,alex.wilson@domain.com,Not Provided,Los Angeles,Home & Kitchen,Debit Card,3,741.91
+TXN-10535,2024-06-15,Daniel Davis,daniel.davis@domain.com,(741) 189-7212,New York,Home & Kitchen,PayPal,5,298.14
+TXN-10536,2024-06-15,Emily Brown,emily.brown@domain.com,Not Provided,New York,Beauty & Health,Debit Card,10,158.69
+TXN-10537,2024-06-12,Chris Davis,unspecified@customer.org,(614) 698-2184,Other Metro,Beauty & Health,PayPal,1,791.03
+TXN-10538,2024-06-15,Daniel Smith,daniel.smith@domain.com,(927) 173-5681,Chicago,Fashion & Apparel,Cash on Delivery,1,435.78
+TXN-10539,2024-06-15,David Taylor,david.taylor@domain.com,(762) 519-6840,Houston,Electronics,Cash on Delivery,9,202.43
+TXN-10540,2024-11-27,Jessica Brown,jessica.brown@domain.com,Not Provided,New York,Fashion & Apparel,Credit Card,11,236.74
+TXN-10541,2024-06-15,Alex Miller,alex.miller@domain.com,(808) 197-1289,Other Metro,Electronics,Credit Card,4,354.29
+TXN-10542,2024-01-25,Emily Johnson,emily.johnson@domain.com,Not Provided,Los Angeles,Electronics,Debit Card,4,400.69
+TXN-10543,2024-06-15,Jane Davis,unspecified@customer.org,(654) 812-7848,Miami,Electronics,PayPal,2,740.86
+TXN-10544,2024-08-28,Daniel Johnson,daniel.johnson@domain.com,(716) 983-4956,Other Metro,Electronics,Debit Card,9,611.12
+TXN-10545,2024-06-15,Michael Davis,michael.davis@domain.com,Not Provided,Chicago,Fashion & Apparel,Cash on Delivery,11,622.55
+TXN-10546,2024-06-15,Jane Wilson,jane.wilson@domain.com,(747) 211-1182,Los Angeles,Home & Kitchen,PayPal,10,185.18
+TXN-10547,2024-06-15,John Johnson,unspecified@customer.org,(495) 183-6134,Chicago,Home & Kitchen,Debit Card,4,796.27
+TXN-10548,2024-06-15,Sarah Wilson,sarah.wilson@domain.com,(484) 709-9339,Houston,Fashion & Apparel,Credit Card,1,705.26
+TXN-10549,2024-06-15,Emily Brown,emily.brown@domain.com,(674) 952-6582,Miami,Home & Kitchen,Credit Card,7,299.68
+TXN-10550,2024-08-16,David Taylor,david.taylor@domain.com,(503) 161-2210,Chicago,Electronics,Cash on Delivery,4,221.6
+TXN-10551,2024-06-15,Chris Davis,chris.davis@domain.com,Not Provided,Chicago,Beauty & Health,Credit Card,4,95.4
+TXN-10552,2024-06-15,Chris Jones,chris.jones@domain.com,Not Provided,New York,Home & Kitchen,PayPal,5,823.28
+TXN-10553,2024-06-15,Daniel Smith,daniel.smith@domain.com,Not Provided,Los Angeles,Beauty & Health,PayPal,6,461.69
+TXN-10554,2024-06-15,Emily Davis,emily.davis@domain.com,(724) 729-8407,Other Metro,Electronics,PayPal,9,584.39
+TXN-10555,2024-06-15,Michael Smith,michael.smith@domain.com,(606) 206-5268,New York,Electronics,Debit Card,11,444.98
+TXN-10556,2024-02-08,Chris Smith,chris.smith@domain.com,Not Provided,Chicago,Fashion & Apparel,Credit Card,3,40.03
+TXN-10557,2024-06-15,Michael Davis,michael.davis@domain.com,Not Provided,New York,Fashion & Apparel,Cash on Delivery,1,375.52
+TXN-10558,2024-06-15,Michael Anderson,michael.anderson@domain.com,(239) 281-2513,Los Angeles,Electronics,Credit Card,9,64.71
+TXN-10559,2024-06-15,Alex Williams,alex.williams@domain.com,(673) 322-1863,Other Metro,Fashion & Apparel,Cash on Delivery,5,270.48
+TXN-10560,2024-04-12,Emily Davis,emily.davis@domain.com,(529) 219-2607,Houston,Beauty & Health,Credit Card,2,207.95
+TXN-10561,2024-06-15,Chris Smith,chris.smith@domain.com,(500) 932-8017,Los Angeles,Home & Kitchen,Debit Card,8,814.75
+TXN-10562,2024-06-15,Chris Anderson,chris.anderson@domain.com,Not Provided,Houston,Electronics,Cash on Delivery,11,82.38
+TXN-10563,2024-06-15,Alex Davis,alex.davis@domain.com,Not Provided,Houston,Fashion & Apparel,Credit Card,8,213.72
+TXN-10564,2024-06-15,Chris Wilson,chris.wilson@domain.com,(280) 346-4646,Chicago,Electronics,Credit Card,9,24.13
+TXN-10565,2024-06-15,John Wilson,john.wilson@domain.com,Not Provided,Other Metro,Home & Kitchen,Credit Card,9,459.56
+TXN-10566,2024-08-04,Alex Smith,alex.smith@domain.com,Not Provided,Other Metro,Electronics,Credit Card,1,220.93
+TXN-10567,2024-03-15,Chris Miller,unspecified@customer.org,(294) 855-6054,Chicago,Fashion & Apparel,Debit Card,7,424.89
+TXN-10568,2024-11-27,Sarah Williams,sarah.williams@domain.com,(418) 885-4954,Other Metro,Beauty & Health,PayPal,2,278.7
+TXN-10569,2024-06-15,David Taylor,david.taylor@domain.com,Not Provided,New York,Fashion & Apparel,Cash on Delivery,7,754.64
+TXN-10570,2024-06-15,Alex Johnson,unspecified@customer.org,(552) 490-1347,Chicago,Fashion & Apparel,PayPal,2,310.5
+TXN-10571,2024-06-15,Jessica Johnson,jessica.johnson@domain.com,(891) 101-4359,Chicago,Beauty & Health,Credit Card,8,545.48
+TXN-10572,2024-06-15,David Jones,david.jones@domain.com,(673) 289-1418,Miami,Electronics,Credit Card,8,190.67
+TXN-10573,2024-06-15,Jessica Taylor,jessica.taylor@domain.com,(438) 971-3500,Other Metro,Electronics,Debit Card,7,177.52
+TXN-10574,2024-06-15,Jane Smith,unspecified@customer.org,(223) 320-2983,Los Angeles,Fashion & Apparel,Credit Card,7,481.83
+TXN-10575,2024-06-15,Jessica Brown,jessica.brown@domain.com,(577) 487-3256,Miami,Electronics,PayPal,6,55.3
+TXN-10576,2024-06-15,Emily Smith,emily.smith@domain.com,(639) 441-2442,Other Metro,Fashion & Apparel,Credit Card,2,648.05
+TXN-10577,2024-06-15,Jessica Miller,unspecified@customer.org,(575) 154-4649,Chicago,Electronics,PayPal,8,288.44
+TXN-10578,2024-06-15,Jessica Jones,jessica.jones@domain.com,(457) 627-2373,Los Angeles,Fashion & Apparel,Cash on Delivery,5,150.88
+TXN-10579,2024-06-15,Emily Smith,emily.smith@domain.com,(332) 711-2004,Other Metro,Fashion & Apparel,PayPal,5,64.57
+TXN-10580,2024-06-15,Alex Jones,alex.jones@domain.com,(481) 392-2292,Other Metro,Electronics,Debit Card,11,528.89
+TXN-10581,2024-01-08,Alex Jones,alex.jones@domain.com,(485) 797-8108,New York,Fashion & Apparel,PayPal,8,438.1
+TXN-10582,2024-06-15,Jessica Brown,unspecified@customer.org,(370) 683-5786,Other Metro,Fashion & Apparel,PayPal,3,413.16
+TXN-10583,2024-06-15,Emily Taylor,emily.taylor@domain.com,(987) 241-5885,Chicago,Fashion & Apparel,Credit Card,6,87.81
+TXN-10584,2024-06-15,Emily Taylor,unspecified@customer.org,(596) 183-5835,Chicago,Fashion & Apparel,Cash on Delivery,10,619.18
+TXN-10585,2024-08-26,John Jones,john.jones@domain.com,(830) 260-4934,Houston,Electronics,Cash on Delivery,6,616.66
+TXN-10586,2024-06-11,John Jones,john.jones@domain.com,Not Provided,Other Metro,Electronics,PayPal,11,756.8
+TXN-10587,2024-06-15,Daniel Miller,daniel.miller@domain.com,(570) 886-8928,Los Angeles,Fashion & Apparel,Credit Card,11,187.67
+TXN-10588,2024-06-15,Daniel Miller,unspecified@customer.org,(691) 995-6465,Other Metro,Home & Kitchen,Credit Card,8,120.3
+TXN-10589,2024-12-15,Michael Johnson,michael.johnson@domain.com,(462) 105-4360,New York,Fashion & Apparel,Cash on Delivery,9,286.92
+TXN-10590,2024-08-11,David Jones,david.jones@domain.com,Not Provided,Other Metro,Electronics,Debit Card,11,828.99
+TXN-10591,2024-06-15,Sarah Johnson,sarah.johnson@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Cash on Delivery,1,596.88
+TXN-10592,2024-06-15,John Williams,john.williams@domain.com,(812) 285-9117,New York,Fashion & Apparel,PayPal,4,419.49
+TXN-10593,2024-06-15,Alex Jones,alex.jones@domain.com,Not Provided,New York,Fashion & Apparel,PayPal,6,331.66
+TXN-10594,2024-06-15,Michael Johnson,michael.johnson@domain.com,(248) 882-7728,Other Metro,Fashion & Apparel,Cash on Delivery,3,448.82
+TXN-10595,2024-06-15,Alex Smith,alex.smith@domain.com,(335) 376-9066,Other Metro,Electronics,Cash on Delivery,4,162.17
+TXN-10596,2024-06-15,Emily Wilson,emily.wilson@domain.com,(585) 372-7969,Other Metro,Electronics,Credit Card,2,158.92
+TXN-10597,2024-12-10,David Jones,david.jones@domain.com,Not Provided,Other Metro,Fashion & Apparel,PayPal,3,846.8
+TXN-10598,2024-06-15,David Johnson,david.johnson@domain.com,(377) 931-8735,Miami,Home & Kitchen,PayPal,5,35.23
+TXN-10599,2024-06-15,Emily Miller,emily.miller@domain.com,(888) 397-9598,Other Metro,Fashion & Apparel,Debit Card,1,373.66
+TXN-10600,2024-06-15,John Jones,john.jones@domain.com,Not Provided,Other Metro,Electronics,Credit Card,3,277.85
+TXN-10601,2024-06-15,Chris Taylor,chris.taylor@domain.com,(449) 545-8097,Los Angeles,Electronics,Cash on Delivery,5,170.44
+TXN-10602,2024-06-15,Sarah Brown,sarah.brown@domain.com,(306) 970-3669,Other Metro,Fashion & Apparel,Cash on Delivery,3,414.73
+TXN-10603,2024-06-15,John Brown,john.brown@domain.com,Not Provided,Chicago,Fashion & Apparel,Debit Card,7,849.04
+TXN-10604,2024-06-15,Daniel Brown,daniel.brown@domain.com,(335) 504-4024,Other Metro,Electronics,PayPal,10,698.08
+TXN-10605,2024-06-15,Sarah Miller,sarah.miller@domain.com,Not Provided,New York,Home & Kitchen,Credit Card,6,186.72
+TXN-10606,2024-06-15,Daniel Williams,daniel.williams@domain.com,(811) 749-9086,Los Angeles,Home & Kitchen,Debit Card,8,436.3
+TXN-10607,2024-03-19,Daniel Wilson,daniel.wilson@domain.com,(302) 240-2157,New York,Fashion & Apparel,Cash on Delivery,3,803.8
+TXN-10608,2024-06-15,Sarah Taylor,sarah.taylor@domain.com,(895) 971-9198,Chicago,Electronics,Credit Card,2,62.55
+TXN-10609,2024-06-15,Chris Miller,chris.miller@domain.com,Not Provided,New York,Fashion & Apparel,Credit Card,11,369.94
+TXN-10610,2024-06-15,Emily Johnson,emily.johnson@domain.com,(573) 769-7710,New York,Electronics,Cash on Delivery,9,544.19
+TXN-10611,2024-06-15,David Wilson,david.wilson@domain.com,Not Provided,Chicago,Electronics,PayPal,4,40.47
+TXN-10612,2024-06-15,Michael Smith,michael.smith@domain.com,(591) 427-2238,New York,Electronics,Cash on Delivery,9,713.89
+TXN-10613,2024-06-15,Jane Anderson,jane.anderson@domain.com,(997) 449-2019,Other Metro,Fashion & Apparel,Debit Card,9,593.46
+TXN-10614,2024-06-15,Chris Wilson,chris.wilson@domain.com,(250) 843-3431,Other Metro,Fashion & Apparel,PayPal,1,279.92
+TXN-10615,2024-05-25,Jane Brown,jane.brown@domain.com,Not Provided,Miami,Electronics,Credit Card,10,252.78
+TXN-10616,2024-06-15,Michael Johnson,michael.johnson@domain.com,Not Provided,Other Metro,Electronics,Credit Card,3,65.93
+TXN-10617,2024-06-15,Jane Jones,unspecified@customer.org,Not Provided,Houston,Home & Kitchen,PayPal,8,284.17
+TXN-10618,2024-06-15,Jane Anderson,jane.anderson@domain.com,(620) 404-9481,Los Angeles,Home & Kitchen,Debit Card,5,276.14
+TXN-10619,2024-06-15,John Williams,john.williams@domain.com,(214) 127-1387,Los Angeles,Electronics,Debit Card,4,763.32
+TXN-10620,2024-06-15,David Johnson,david.johnson@domain.com,Not Provided,New York,Fashion & Apparel,PayPal,8,589.31
+TXN-10621,2024-06-15,Chris Johnson,chris.johnson@domain.com,Not Provided,Los Angeles,Electronics,Debit Card,7,14122.31
+TXN-10622,2024-06-15,Alex Wilson,alex.wilson@domain.com,(873) 703-7143,New York,Electronics,Debit Card,4,297.09
+TXN-10623,2024-06-25,Chris Williams,unspecified@customer.org,(883) 577-5158,Other Metro,Fashion & Apparel,Debit Card,9,696.34
+TXN-10624,2024-06-15,Jane Johnson,jane.johnson@domain.com,(933) 316-1097,Houston,Electronics,PayPal,9,52.47
+TXN-10625,2024-06-15,Michael Williams,michael.williams@domain.com,(588) 180-5497,New York,Electronics,Debit Card,5,63.72
+TXN-10626,2024-06-15,Michael Johnson,michael.johnson@domain.com,(482) 410-6435,Miami,Fashion & Apparel,PayPal,8,481.58
+TXN-10627,2024-06-15,Daniel Williams,daniel.williams@domain.com,Not Provided,New York,Fashion & Apparel,Debit Card,11,826.61
+TXN-10628,2024-06-15,Alex Smith,alex.smith@domain.com,(331) 192-4593,Miami,Electronics,Credit Card,11,754.61
+TXN-10629,2024-06-15,David Smith,david.smith@domain.com,(322) 973-4683,Miami,Fashion & Apparel,PayPal,8,435.63
+TXN-10630,2024-06-15,Sarah Brown,sarah.brown@domain.com,(760) 177-1471,Other Metro,Fashion & Apparel,Debit Card,11,482.27
+TXN-10631,2024-06-15,Daniel Taylor,daniel.taylor@domain.com,Not Provided,Los Angeles,Electronics,Credit Card,1,536.52
+TXN-10632,2024-06-15,David Johnson,david.johnson@domain.com,(310) 683-5864,Los Angeles,Electronics,Debit Card,6,647.37
+TXN-10633,2024-06-15,Jessica Wilson,unspecified@customer.org,(557) 803-9839,Chicago,Fashion & Apparel,Cash on Delivery,5,138.57
+TXN-10634,2024-06-15,Jessica Williams,jessica.williams@domain.com,Not Provided,New York,Electronics,Debit Card,11,549.85
+TXN-10635,2024-06-15,John Johnson,john.johnson@domain.com,(599) 605-4238,New York,Electronics,Credit Card,1,91.87
+TXN-10636,2024-06-15,Jane Smith,jane.smith@domain.com,(814) 644-4044,Other Metro,Fashion & Apparel,Credit Card,2,714.94
+TXN-10637,2024-06-15,Jane Williams,unspecified@customer.org,(887) 166-8055,Chicago,Fashion & Apparel,Credit Card,4,231.03
+TXN-10638,2024-06-15,Michael Miller,unspecified@customer.org,(482) 572-9607,Los Angeles,Home & Kitchen,Cash on Delivery,7,422.54
+TXN-10639,2024-06-15,Michael Anderson,michael.anderson@domain.com,Not Provided,Chicago,Fashion & Apparel,Cash on Delivery,5,778.4
+TXN-10640,2024-06-15,John Miller,john.miller@domain.com,Not Provided,Other Metro,Beauty & Health,Credit Card,10,386.79
+TXN-10641,2024-06-15,John Williams,john.williams@domain.com,(898) 661-8876,New York,Fashion & Apparel,Credit Card,6,50.09
+TXN-10642,2024-06-15,Jessica Jones,jessica.jones@domain.com,(951) 761-7282,Los Angeles,Beauty & Health,Credit Card,10,52.31
+TXN-10643,2024-06-15,Sarah Anderson,sarah.anderson@domain.com,(288) 199-3040,Miami,Electronics,PayPal,1,781.64
+TXN-10644,2024-06-15,John Jones,unspecified@customer.org,(240) 886-5392,Chicago,Electronics,Credit Card,2,652.65
+TXN-10645,2024-02-16,Daniel Taylor,daniel.taylor@domain.com,(742) 901-6080,Other Metro,Electronics,PayPal,4,105.33
+TXN-10646,2024-06-15,Jane Taylor,jane.taylor@domain.com,Not Provided,Chicago,Home & Kitchen,Credit Card,9,793.25
+TXN-10647,2024-06-15,Jane Miller,jane.miller@domain.com,(772) 973-8597,Chicago,Electronics,Credit Card,10,286.41
+TXN-10648,2024-06-15,Daniel Anderson,daniel.anderson@domain.com,(715) 848-8717,Chicago,Electronics,Credit Card,5,185.66
+TXN-10649,2024-06-15,Alex Miller,alex.miller@domain.com,Not Provided,Other Metro,Electronics,Debit Card,3,793.03
+TXN-10650,2024-06-15,Chris Smith,chris.smith@domain.com,(817) 783-9187,Other Metro,Electronics,PayPal,1,596.52
+TXN-10651,2024-06-15,Daniel Williams,unspecified@customer.org,(586) 493-5778,Los Angeles,Fashion & Apparel,PayPal,3,79.28
+TXN-10652,2024-05-13,Chris Davis,unspecified@customer.org,Not Provided,Chicago,Home & Kitchen,Cash on Delivery,3,466.01
+TXN-10653,2024-06-15,Michael Anderson,unspecified@customer.org,Not Provided,Los Angeles,Home & Kitchen,Cash on Delivery,10,77.75
+TXN-10654,2024-06-15,Alex Brown,alex.brown@domain.com,(462) 284-3563,Miami,Electronics,Cash on Delivery,4,400.16
+TXN-10655,2024-11-29,John Taylor,john.taylor@domain.com,(372) 400-5695,Chicago,Fashion & Apparel,PayPal,2,435.63
+TXN-10656,2024-06-15,Michael Miller,michael.miller@domain.com,(696) 154-2186,Other Metro,Fashion & Apparel,Debit Card,5,592.52
+TXN-10657,2024-06-15,Jessica Williams,jessica.williams@domain.com,(692) 778-1390,Chicago,Beauty & Health,PayPal,3,581.41
+TXN-10658,2024-06-15,Michael Wilson,michael.wilson@domain.com,(575) 508-7854,New York,Home & Kitchen,Credit Card,9,807.57
+TXN-10659,2024-06-15,Emily Davis,emily.davis@domain.com,(799) 581-1599,Houston,Electronics,Credit Card,7,604.2
+TXN-10660,2024-06-15,David Williams,david.williams@domain.com,(841) 594-4340,Other Metro,Electronics,PayPal,11,347.97
+TXN-10661,2024-06-15,Daniel Taylor,daniel.taylor@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Cash on Delivery,10,818.11
+TXN-10662,2024-12-04,Michael Wilson,unspecified@customer.org,(855) 434-7161,Other Metro,Electronics,Credit Card,3,444.98
+TXN-10663,2024-06-15,Sarah Anderson,sarah.anderson@domain.com,(295) 206-1631,Houston,Fashion & Apparel,Cash on Delivery,7,578.6
+TXN-10664,2024-02-21,Jessica Davis,jessica.davis@domain.com,Not Provided,Chicago,Electronics,Credit Card,10,556.02
+TXN-10665,2024-06-15,Alex Anderson,alex.anderson@domain.com,(428) 249-2624,Los Angeles,Fashion & Apparel,PayPal,8,658.58
+TXN-10666,2024-06-15,Alex Williams,unspecified@customer.org,Not Provided,Miami,Fashion & Apparel,Cash on Delivery,1,837.93
+TXN-10667,2024-06-15,David Brown,unspecified@customer.org,Not Provided,Houston,Fashion & Apparel,Credit Card,8,785.53
+TXN-10668,2024-10-28,Jane Johnson,jane.johnson@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Credit Card,10,201.8
+TXN-10669,2024-06-15,Chris Jones,chris.jones@domain.com,(207) 804-4462,Los Angeles,Fashion & Apparel,Debit Card,3,211.86
+TXN-10670,2024-06-15,Sarah Jones,sarah.jones@domain.com,Not Provided,Chicago,Fashion & Apparel,PayPal,2,69.78
+TXN-10671,2024-01-04,David Davis,david.davis@domain.com,(781) 747-5887,Other Metro,Home & Kitchen,Cash on Delivery,6,651.47
+TXN-10672,2024-04-21,Jessica Wilson,unspecified@customer.org,Not Provided,Other Metro,Electronics,PayPal,1,303.53
+TXN-10673,2024-06-15,Sarah Davis,sarah.davis@domain.com,(333) 213-2464,Chicago,Fashion & Apparel,Cash on Delivery,8,713.07
+TXN-10674,2024-09-24,Jessica Smith,jessica.smith@domain.com,(718) 347-3415,New York,Home & Kitchen,PayPal,10,311.5
+TXN-10675,2024-06-15,Michael Johnson,michael.johnson@domain.com,(796) 793-6873,Los Angeles,Fashion & Apparel,Credit Card,6,34.6
+TXN-10676,2024-06-15,David Anderson,david.anderson@domain.com,(492) 433-8210,Other Metro,Electronics,Credit Card,4,464.57
+TXN-10677,2024-03-15,Emily Smith,emily.smith@domain.com,(374) 805-7051,New York,Electronics,Debit Card,8,794.17
+TXN-10678,2024-06-15,Alex Williams,alex.williams@domain.com,(555) 170-5401,Houston,Home & Kitchen,Credit Card,3,439.98
+TXN-10679,2024-06-15,Chris Smith,chris.smith@domain.com,Not Provided,Los Angeles,Home & Kitchen,Debit Card,9,792.5
+TXN-10680,2024-06-15,David Wilson,david.wilson@domain.com,Not Provided,Other Metro,Fashion & Apparel,Cash on Delivery,8,718.95
+TXN-10681,2024-06-15,Daniel Anderson,daniel.anderson@domain.com,Not Provided,New York,Electronics,Credit Card,9,465.94
+TXN-10682,2024-06-15,Emily Brown,emily.brown@domain.com,(660) 237-4920,Los Angeles,Beauty & Health,Cash on Delivery,4,321.57
+TXN-10683,2024-06-15,Alex Taylor,alex.taylor@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,4,321.07
+TXN-10684,2024-06-15,Emily Brown,emily.brown@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,4,165.11
+TXN-10685,2024-06-15,Sarah Jones,sarah.jones@domain.com,Not Provided,New York,Electronics,PayPal,5,507.98
+TXN-10686,2024-06-15,Jane Smith,jane.smith@domain.com,Not Provided,Other Metro,Electronics,Cash on Delivery,10,186.22
+TXN-10687,2024-06-15,Jessica Wilson,jessica.wilson@domain.com,Not Provided,Houston,Fashion & Apparel,Cash on Delivery,5,44.29
+TXN-10688,2024-06-15,Alex Davis,alex.davis@domain.com,Not Provided,Houston,Beauty & Health,Debit Card,11,240.51
+TXN-10689,2024-06-15,Jane Miller,jane.miller@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Debit Card,9,386.15
+TXN-10690,2024-06-15,Chris Jones,chris.jones@domain.com,(538) 523-6060,Other Metro,Fashion & Apparel,Credit Card,10,520.36
+TXN-10691,2024-05-10,Alex Miller,alex.miller@domain.com,(680) 978-5171,Other Metro,Fashion & Apparel,Cash on Delivery,10,184.41
+TXN-10692,2024-07-16,Sarah Brown,sarah.brown@domain.com,(632) 644-4491,New York,Home & Kitchen,Credit Card,1,46.67
+TXN-10693,2024-06-15,Jane Johnson,jane.johnson@domain.com,(933) 807-7153,Other Metro,Electronics,Credit Card,11,411.63
+TXN-10694,2024-07-17,David Anderson,david.anderson@domain.com,(506) 529-8274,Houston,Electronics,Credit Card,2,30.67
+TXN-10695,2024-06-15,John Smith,john.smith@domain.com,(693) 538-3697,Other Metro,Fashion & Apparel,Debit Card,4,576.04
+TXN-10696,2024-06-15,Michael Johnson,michael.johnson@domain.com,(231) 232-1575,Miami,Fashion & Apparel,Debit Card,7,435.63
+TXN-10697,2024-06-15,Sarah Johnson,sarah.johnson@domain.com,Not Provided,New York,Home & Kitchen,Cash on Delivery,10,386.06
+TXN-10698,2024-06-15,Alex Smith,alex.smith@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,2,435.63
+TXN-10699,2024-06-15,Daniel Smith,daniel.smith@domain.com,Not Provided,Chicago,Fashion & Apparel,Cash on Delivery,9,59.3
+TXN-10700,2024-06-15,Alex Taylor,alex.taylor@domain.com,Not Provided,Chicago,Fashion & Apparel,Credit Card,5,371.66
+TXN-10701,2024-06-15,Michael Wilson,michael.wilson@domain.com,Not Provided,Houston,Home & Kitchen,Cash on Delivery,5,422.54
+TXN-10702,2024-06-15,Emily Taylor,emily.taylor@domain.com,(925) 627-1540,Los Angeles,Fashion & Apparel,PayPal,10,781.41
+TXN-10703,2024-06-15,Michael Johnson,michael.johnson@domain.com,(439) 564-5275,Other Metro,Electronics,Cash on Delivery,2,526.81
+TXN-10704,2024-06-15,David Brown,david.brown@domain.com,(557) 525-8699,Houston,Fashion & Apparel,Credit Card,4,213.61
+TXN-10705,2024-06-15,John Taylor,john.taylor@domain.com,Not Provided,Los Angeles,Electronics,Credit Card,4,819.44
+TXN-10706,2024-06-15,Emily Jones,emily.jones@domain.com,(585) 307-4228,Other Metro,Electronics,Cash on Delivery,1,44.56
+TXN-10707,2024-06-15,Michael Johnson,unspecified@customer.org,(710) 802-1948,Miami,Fashion & Apparel,Credit Card,6,242.75
+TXN-10708,2024-06-15,David Wilson,david.wilson@domain.com,(346) 165-2061,Other Metro,Electronics,Cash on Delivery,1,445.73
+TXN-10709,2024-11-18,Sarah Jones,sarah.jones@domain.com,(896) 580-7793,Miami,Electronics,PayPal,9,14122.31
+TXN-10710,2024-06-15,Sarah Wilson,sarah.wilson@domain.com,(295) 972-4477,Miami,Fashion & Apparel,Debit Card,7,721.18
+TXN-10711,2024-10-21,Alex Davis,alex.davis@domain.com,Not Provided,Los Angeles,Fashion & Apparel,PayPal,1,155.88
+TXN-10712,2024-06-14,Jessica Jones,unspecified@customer.org,Not Provided,Houston,Home & Kitchen,Cash on Delivery,4,48.63
+TXN-10713,2024-06-15,John Taylor,john.taylor@domain.com,Not Provided,Houston,Fashion & Apparel,Credit Card,7,549.98
+TXN-10714,2024-06-15,Sarah Taylor,unspecified@customer.org,(624) 623-1561,Los Angeles,Fashion & Apparel,PayPal,9,294.27
+TXN-10715,2024-06-15,Chris Jones,chris.jones@domain.com,(602) 166-8213,Houston,Home & Kitchen,Credit Card,11,739.64
+TXN-10716,2024-06-15,Emily Johnson,emily.johnson@domain.com,(313) 674-3446,Los Angeles,Fashion & Apparel,Debit Card,6,792.09
+TXN-10717,2024-06-15,Chris Miller,chris.miller@domain.com,(584) 768-1264,Los Angeles,Fashion & Apparel,Cash on Delivery,11,274.68
+TXN-10718,2024-06-15,David Miller,david.miller@domain.com,Not Provided,Other Metro,Beauty & Health,Credit Card,11,386.79
+TXN-10719,2024-06-15,David Taylor,unspecified@customer.org,(243) 862-2409,Houston,Electronics,Credit Card,11,114.86
+TXN-10720,2024-02-18,Daniel Johnson,daniel.johnson@domain.com,(638) 156-9689,Los Angeles,Electronics,Credit Card,4,603.19
+TXN-10721,2024-08-15,David Brown,david.brown@domain.com,Not Provided,New York,Electronics,Cash on Delivery,9,712.59
+TXN-10722,2024-06-15,Jessica Johnson,jessica.johnson@domain.com,Not Provided,New York,Electronics,Credit Card,4,269.9
+TXN-10723,2024-06-15,Alex Taylor,alex.taylor@domain.com,(465) 472-4223,New York,Electronics,Credit Card,3,674.85
+TXN-10724,2024-09-15,Chris Miller,chris.miller@domain.com,(476) 542-3930,Chicago,Fashion & Apparel,Cash on Delivery,9,435.63
+TXN-10725,2024-06-15,Chris Brown,chris.brown@domain.com,(608) 482-8608,Miami,Home & Kitchen,Credit Card,2,620.12
+TXN-10726,2024-03-19,Jessica Johnson,jessica.johnson@domain.com,(310) 715-9973,Other Metro,Beauty & Health,Credit Card,9,365.88
+TXN-10727,2024-06-15,Michael Davis,michael.davis@domain.com,(718) 110-8691,Other Metro,Electronics,Credit Card,7,765.1
+TXN-10728,2024-06-15,Alex Anderson,alex.anderson@domain.com,(384) 791-7841,Other Metro,Fashion & Apparel,Debit Card,1,323.79
+TXN-10729,2024-06-15,Jane Davis,jane.davis@domain.com,(290) 699-9271,Other Metro,Fashion & Apparel,Cash on Delivery,5,76.88
+TXN-10730,2024-06-15,Emily Jones,unspecified@customer.org,(843) 429-3880,Miami,Electronics,Credit Card,7,76.03
+TXN-10731,2024-06-15,John Smith,john.smith@domain.com,Not Provided,Los Angeles,Electronics,PayPal,4,90.17
+TXN-10732,2024-06-15,Daniel Miller,daniel.miller@domain.com,(545) 623-1135,Other Metro,Electronics,Credit Card,4,754.78
+TXN-10733,2024-06-15,John Jones,john.jones@domain.com,(387) 987-8752,Other Metro,Electronics,PayPal,2,203.65
+TXN-10734,2024-06-15,Alex Brown,alex.brown@domain.com,(867) 998-2285,Chicago,Home & Kitchen,Credit Card,9,261.25
+TXN-10735,2024-06-15,Emily Taylor,emily.taylor@domain.com,(425) 470-1027,Los Angeles,Fashion & Apparel,PayPal,6,137.95
+TXN-10736,2024-12-22,David Smith,david.smith@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Credit Card,4,424.68
+TXN-10737,2024-06-15,David Wilson,david.wilson@domain.com,Not Provided,New York,Home & Kitchen,Credit Card,10,525.07
+TXN-10738,2024-06-15,Michael Anderson,michael.anderson@domain.com,(300) 931-1884,Other Metro,Electronics,Cash on Delivery,9,579.12
+TXN-10739,2024-06-15,Jane Taylor,unspecified@customer.org,Not Provided,Los Angeles,Fashion & Apparel,Credit Card,3,435.63
+TXN-10740,2024-06-15,Alex Wilson,alex.wilson@domain.com,(559) 676-4072,Chicago,Beauty & Health,Credit Card,10,319.53
+TXN-10741,2024-06-15,Michael Johnson,unspecified@customer.org,(570) 818-6835,Other Metro,Electronics,PayPal,5,123.76
+TXN-10742,2024-06-15,Jane Taylor,jane.taylor@domain.com,Not Provided,New York,Home & Kitchen,PayPal,10,493.09
+TXN-10743,2024-06-15,Daniel Davis,daniel.davis@domain.com,(411) 417-5083,Los Angeles,Electronics,Credit Card,6,332.9
+TXN-10744,2024-06-15,Alex Williams,alex.williams@domain.com,Not Provided,Other Metro,Beauty & Health,Credit Card,11,417.32
+TXN-10745,2024-12-17,Sarah Johnson,sarah.johnson@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Cash on Delivery,10,369.62
+TXN-10746,2024-06-15,John Miller,john.miller@domain.com,(216) 684-9203,Los Angeles,Beauty & Health,Credit Card,9,136.89
+TXN-10747,2024-06-15,Jessica Brown,jessica.brown@domain.com,(530) 676-1941,Houston,Home & Kitchen,Cash on Delivery,9,238.72
+TXN-10748,2024-06-15,Alex Brown,alex.brown@domain.com,(204) 824-9823,Other Metro,Fashion & Apparel,Credit Card,1,435.63
+TXN-10749,2024-06-15,Emily Taylor,emily.taylor@domain.com,Not Provided,Other Metro,Electronics,Debit Card,1,283.5
+TXN-10750,2024-06-15,Alex Anderson,alex.anderson@domain.com,(871) 343-6022,Other Metro,Electronics,Debit Card,8,501.59
+TXN-10751,2024-06-15,Jane Taylor,jane.taylor@domain.com,(310) 527-9162,New York,Fashion & Apparel,PayPal,2,832.76
+TXN-10752,2024-06-15,Daniel Smith,daniel.smith@domain.com,(862) 652-3347,Chicago,Electronics,Credit Card,5,779.06
+TXN-10753,2024-05-08,Michael Brown,michael.brown@domain.com,(847) 805-9412,Other Metro,Home & Kitchen,Credit Card,5,556.89
+TXN-10754,2024-06-15,John Wilson,john.wilson@domain.com,Not Provided,Other Metro,Electronics,Debit Card,7,68.14
+TXN-10755,2024-06-15,Jane Jones,jane.jones@domain.com,(763) 260-3887,Other Metro,Fashion & Apparel,PayPal,5,217.39
+TXN-10756,2024-06-15,Emily Anderson,emily.anderson@domain.com,Not Provided,Chicago,Electronics,PayPal,4,601.77
+TXN-10757,2024-06-15,Jane Miller,jane.miller@domain.com,(724) 797-9972,Chicago,Electronics,Credit Card,3,223.43
+TXN-10758,2024-06-15,David Johnson,david.johnson@domain.com,Not Provided,New York,Fashion & Apparel,Credit Card,3,97.35
+TXN-10759,2024-06-15,Alex Brown,alex.brown@domain.com,Not Provided,Chicago,Electronics,Debit Card,7,502.45
+TXN-10760,2024-06-15,Daniel Williams,unspecified@customer.org,(417) 207-2573,Chicago,Home & Kitchen,Credit Card,7,422.54
+TXN-10761,2024-06-15,Daniel Williams,daniel.williams@domain.com,Not Provided,Los Angeles,Electronics,Debit Card,4,311.13
+TXN-10762,2024-06-15,Sarah Wilson,sarah.wilson@domain.com,(770) 537-2925,Los Angeles,Home & Kitchen,Credit Card,3,101.34
+TXN-10763,2024-06-15,Michael Davis,michael.davis@domain.com,(731) 993-5137,Chicago,Home & Kitchen,Credit Card,3,337.92
+TXN-10764,2024-06-15,Sarah Johnson,sarah.johnson@domain.com,(854) 777-5951,Los Angeles,Fashion & Apparel,Credit Card,9,107.68
+TXN-10765,2024-06-17,David Miller,unspecified@customer.org,(306) 543-5692,Other Metro,Home & Kitchen,Cash on Delivery,10,63.81
+TXN-10766,2024-06-15,Sarah Williams,sarah.williams@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Credit Card,4,435.63
+TXN-10767,2024-06-15,Michael Williams,michael.williams@domain.com,(521) 641-8433,Los Angeles,Home & Kitchen,Debit Card,11,674.76
+TXN-10768,2024-06-15,Daniel Anderson,daniel.anderson@domain.com,(254) 800-3910,Chicago,Electronics,Credit Card,3,444.98
+TXN-10769,2024-06-15,Chris Johnson,chris.johnson@domain.com,(946) 116-9785,Miami,Fashion & Apparel,Cash on Delivery,2,347.92
+TXN-10770,2024-06-15,John Johnson,john.johnson@domain.com,(874) 619-4223,Miami,Home & Kitchen,PayPal,10,192.87
+TXN-10771,2024-06-15,Jane Brown,jane.brown@domain.com,(616) 451-1975,Other Metro,Beauty & Health,PayPal,2,784.61
+TXN-10772,2024-06-15,Sarah Davis,sarah.davis@domain.com,(497) 498-2041,Los Angeles,Home & Kitchen,Cash on Delivery,11,112.25
+TXN-10773,2024-06-15,David Johnson,david.johnson@domain.com,Not Provided,Los Angeles,Electronics,Cash on Delivery,9,499.47
+TXN-10774,2024-06-15,Michael Taylor,michael.taylor@domain.com,Not Provided,Houston,Home & Kitchen,Cash on Delivery,10,813.04
+TXN-10775,2024-06-15,Alex Davis,alex.davis@domain.com,(643) 767-8426,Other Metro,Electronics,Cash on Delivery,9,449.83
+TXN-10776,2024-05-22,Michael Smith,michael.smith@domain.com,Not Provided,Los Angeles,Home & Kitchen,Cash on Delivery,9,253.77
+TXN-10777,2024-06-15,Jessica Johnson,unspecified@customer.org,(268) 557-3587,Miami,Electronics,Cash on Delivery,9,600.02
+TXN-10778,2024-06-15,Daniel Miller,daniel.miller@domain.com,Not Provided,Los Angeles,Home & Kitchen,Credit Card,1,452.43
+TXN-10779,2024-08-22,Emily Smith,emily.smith@domain.com,Not Provided,Other Metro,Electronics,Credit Card,8,320.51
+TXN-10780,2024-06-15,John Miller,john.miller@domain.com,(359) 958-4551,New York,Electronics,Credit Card,10,295.14
+TXN-10781,2024-06-15,Jane Wilson,jane.wilson@domain.com,Not Provided,Los Angeles,Beauty & Health,Cash on Delivery,3,49.64
+TXN-10782,2024-06-15,Daniel Davis,daniel.davis@domain.com,(844) 129-9958,Other Metro,Fashion & Apparel,Cash on Delivery,3,601.52
+TXN-10783,2024-06-15,Jessica Davis,jessica.davis@domain.com,(385) 645-7861,Houston,Home & Kitchen,Cash on Delivery,7,533.92
+TXN-10784,2024-06-15,Emily Johnson,emily.johnson@domain.com,(368) 365-3355,Los Angeles,Home & Kitchen,PayPal,6,525.72
+TXN-10785,2024-06-15,Sarah Miller,sarah.miller@domain.com,(893) 964-6489,Los Angeles,Fashion & Apparel,Debit Card,10,38.04
+TXN-10786,2024-06-15,David Miller,david.miller@domain.com,(381) 785-3667,Other Metro,Beauty & Health,PayPal,10,84.25
+TXN-10787,2024-06-15,Jane Brown,jane.brown@domain.com,(618) 567-2828,Los Angeles,Electronics,Cash on Delivery,5,491.94
+TXN-10788,2024-06-15,Michael Williams,michael.williams@domain.com,Not Provided,Houston,Fashion & Apparel,Credit Card,2,435.63
+TXN-10789,2024-06-15,Chris Johnson,chris.johnson@domain.com,Not Provided,Chicago,Fashion & Apparel,Debit Card,11,159.3
+TXN-10790,2024-10-20,Alex Anderson,alex.anderson@domain.com,(445) 382-3661,Other Metro,Fashion & Apparel,Credit Card,5,793.46
+TXN-10791,2024-06-15,Emily Williams,emily.williams@domain.com,Not Provided,Los Angeles,Home & Kitchen,Credit Card,3,540.65
+TXN-10792,2024-06-15,Daniel Smith,daniel.smith@domain.com,(250) 544-8826,Other Metro,Beauty & Health,Credit Card,3,203.81
+TXN-10793,2024-06-15,John Williams,john.williams@domain.com,(268) 925-5158,Los Angeles,Electronics,PayPal,3,490.28
+TXN-10794,2024-06-15,John Brown,john.brown@domain.com,Not Provided,Los Angeles,Electronics,Credit Card,11,444.98
+TXN-10795,2024-06-15,Chris Smith,chris.smith@domain.com,(958) 825-8971,Other Metro,Beauty & Health,Cash on Delivery,5,523.05
+TXN-10796,2024-11-30,Daniel Miller,daniel.miller@domain.com,(423) 654-3434,Miami,Fashion & Apparel,Cash on Delivery,7,561.57
+TXN-10797,2024-05-13,Chris Williams,chris.williams@domain.com,(501) 659-3074,Chicago,Home & Kitchen,Debit Card,4,241.37
+TXN-10798,2024-07-27,Chris Johnson,chris.johnson@domain.com,(539) 451-7953,Other Metro,Electronics,Cash on Delivery,10,94.58
+TXN-10799,2024-06-15,David Davis,david.davis@domain.com,Not Provided,Chicago,Electronics,Credit Card,8,44.71
+TXN-10800,2024-06-15,Emily Davis,emily.davis@domain.com,Not Provided,Other Metro,Home & Kitchen,Credit Card,6,514.99
+TXN-10801,2024-06-15,David Brown,david.brown@domain.com,(556) 739-8428,Los Angeles,Fashion & Apparel,Debit Card,10,154.29
+TXN-10802,2024-06-15,Jane Johnson,unspecified@customer.org,(574) 697-1759,Los Angeles,Electronics,PayPal,9,536.66
+TXN-10803,2024-06-15,Michael Jones,michael.jones@domain.com,(706) 453-7559,Miami,Electronics,Cash on Delivery,8,262.28
+TXN-10804,2024-06-15,Jessica Miller,jessica.miller@domain.com,(601) 685-6137,Other Metro,Fashion & Apparel,Cash on Delivery,11,251.46
+TXN-10805,2024-06-15,Michael Williams,michael.williams@domain.com,Not Provided,Chicago,Electronics,PayPal,9,366.52
+TXN-10806,2024-06-15,Jessica Brown,jessica.brown@domain.com,(593) 611-7764,Other Metro,Fashion & Apparel,Credit Card,3,318.82
+TXN-10807,2024-06-15,Jane Smith,jane.smith@domain.com,Not Provided,Los Angeles,Beauty & Health,Cash on Delivery,1,691.61
+TXN-10808,2024-06-15,Daniel Wilson,daniel.wilson@domain.com,(873) 401-6391,Miami,Electronics,PayPal,10,600.74
+TXN-10809,2024-06-15,Jane Anderson,jane.anderson@domain.com,(670) 562-7944,Los Angeles,Electronics,PayPal,6,450.48
+TXN-10810,2024-06-16,John Smith,john.smith@domain.com,(838) 304-5019,Chicago,Home & Kitchen,Credit Card,3,458.09
+TXN-10811,2024-06-15,Alex Anderson,alex.anderson@domain.com,(680) 612-3466,Miami,Home & Kitchen,Credit Card,6,326.19
+TXN-10812,2024-06-15,Sarah Smith,sarah.smith@domain.com,(942) 644-4651,Chicago,Beauty & Health,Credit Card,11,223.45
+TXN-10813,2024-06-15,John Anderson,john.anderson@domain.com,Not Provided,Los Angeles,Beauty & Health,PayPal,6,601.5
+TXN-10814,2024-06-15,Alex Johnson,unspecified@customer.org,Not Provided,Other Metro,Beauty & Health,Debit Card,2,845.73
+TXN-10815,2024-06-15,Emily Johnson,emily.johnson@domain.com,Not Provided,Miami,Fashion & Apparel,PayPal,11,611.29
+TXN-10816,2024-06-15,Michael Taylor,michael.taylor@domain.com,Not Provided,Chicago,Fashion & Apparel,Cash on Delivery,6,748.84
+TXN-10817,2024-06-15,Chris Taylor,chris.taylor@domain.com,(303) 530-4453,Houston,Home & Kitchen,Credit Card,3,737.92
+TXN-10818,2024-06-15,Jessica Taylor,jessica.taylor@domain.com,(291) 905-3336,Other Metro,Fashion & Apparel,Credit Card,4,566.22
+TXN-10819,2024-06-15,Jane Miller,unspecified@customer.org,Not Provided,New York,Home & Kitchen,Cash on Delivery,3,527.96
+TXN-10820,2024-06-15,Sarah Brown,sarah.brown@domain.com,(924) 136-6512,Chicago,Home & Kitchen,Cash on Delivery,5,422.54
+TXN-10821,2024-06-15,Emily Smith,emily.smith@domain.com,(308) 792-7625,Houston,Electronics,Debit Card,8,803.04
+TXN-10822,2024-09-25,Sarah Smith,sarah.smith@domain.com,(960) 268-8120,Chicago,Fashion & Apparel,Cash on Delivery,1,377.46
+TXN-10823,2024-06-15,Chris Taylor,chris.taylor@domain.com,(916) 175-4537,Los Angeles,Fashion & Apparel,Credit Card,1,61.96
+TXN-10824,2024-06-10,Emily Wilson,emily.wilson@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,2,550.95
+TXN-10825,2024-06-15,Michael Taylor,unspecified@customer.org,Not Provided,Houston,Electronics,PayPal,2,531.6
+TXN-10826,2024-06-15,Daniel Williams,daniel.williams@domain.com,Not Provided,New York,Beauty & Health,Credit Card,11,248.74
+TXN-10827,2024-06-15,Jessica Smith,jessica.smith@domain.com,Not Provided,New York,Electronics,PayPal,8,717.77
+TXN-10828,2024-06-15,Daniel Jones,daniel.jones@domain.com,(437) 112-8424,Other Metro,Electronics,PayPal,4,115.69
+TXN-10829,2024-06-15,Sarah Davis,sarah.davis@domain.com,(668) 254-2842,Chicago,Fashion & Apparel,Credit Card,9,683.64
+TXN-10830,2024-01-12,David Smith,david.smith@domain.com,(315) 570-5444,Chicago,Fashion & Apparel,Credit Card,10,23.61
+TXN-10831,2024-06-15,Chris Williams,unspecified@customer.org,(824) 328-7393,Chicago,Fashion & Apparel,Credit Card,6,831.95
+TXN-10832,2024-06-06,Jane Anderson,unspecified@customer.org,(932) 209-4641,Los Angeles,Fashion & Apparel,PayPal,4,844.78
+TXN-10833,2024-06-15,David Taylor,unspecified@customer.org,(580) 521-8108,Other Metro,Electronics,Cash on Delivery,11,505.7
+TXN-10834,2024-05-13,Emily Brown,emily.brown@domain.com,(715) 132-4748,Chicago,Home & Kitchen,PayPal,5,394.0
+TXN-10835,2024-06-15,Emily Anderson,unspecified@customer.org,Not Provided,Other Metro,Electronics,Credit Card,11,112.83
+TXN-10836,2024-06-15,Sarah Davis,sarah.davis@domain.com,Not Provided,Los Angeles,Electronics,Cash on Delivery,3,527.06
+TXN-10837,2024-10-23,Alex Anderson,alex.anderson@domain.com,Not Provided,Chicago,Home & Kitchen,Debit Card,8,9970.8
+TXN-10838,2024-06-15,David Wilson,unspecified@customer.org,(540) 656-6293,Other Metro,Fashion & Apparel,Cash on Delivery,9,822.3
+TXN-10839,2024-06-15,Sarah Miller,sarah.miller@domain.com,(898) 905-2845,Miami,Home & Kitchen,Debit Card,1,384.41
+TXN-10840,2024-08-14,Jessica Davis,jessica.davis@domain.com,Not Provided,Other Metro,Beauty & Health,Debit Card,8,198.08
+TXN-10841,2024-06-15,Alex Jones,alex.jones@domain.com,Not Provided,Miami,Electronics,Cash on Delivery,4,509.71
+TXN-10842,2024-06-15,Jessica Davis,jessica.davis@domain.com,Not Provided,New York,Home & Kitchen,Cash on Delivery,9,404.62
+TXN-10843,2024-06-15,Jessica Jones,jessica.jones@domain.com,(781) 872-4573,Los Angeles,Fashion & Apparel,Debit Card,10,143.71
+TXN-10844,2024-06-15,Jane Miller,jane.miller@domain.com,Not Provided,Houston,Fashion & Apparel,PayPal,6,814.81
+TXN-10845,2024-06-15,Jessica Johnson,jessica.johnson@domain.com,(958) 965-2040,Other Metro,Fashion & Apparel,PayPal,1,596.79
+TXN-10846,2024-02-14,Emily Anderson,emily.anderson@domain.com,(978) 675-1129,New York,Fashion & Apparel,Credit Card,9,692.41
+TXN-10847,2024-06-15,Chris Taylor,chris.taylor@domain.com,Not Provided,Other Metro,Electronics,Credit Card,9,52.92
+TXN-10848,2024-06-15,Daniel Brown,daniel.brown@domain.com,(723) 343-1421,Other Metro,Fashion & Apparel,Credit Card,5,455.35
+TXN-10849,2024-06-15,David Jones,david.jones@domain.com,Not Provided,Other Metro,Fashion & Apparel,PayPal,11,509.24
+TXN-10850,2024-06-15,Jessica Brown,jessica.brown@domain.com,Not Provided,New York,Fashion & Apparel,PayPal,2,380.44
+TXN-10851,2024-06-15,Jane Davis,unspecified@customer.org,(375) 844-9334,Los Angeles,Fashion & Apparel,PayPal,7,764.1
+TXN-10852,2024-06-15,Michael Davis,michael.davis@domain.com,Not Provided,Other Metro,Fashion & Apparel,Cash on Delivery,6,329.4
+TXN-10853,2024-06-15,Jessica Miller,jessica.miller@domain.com,(562) 144-7970,Other Metro,Home & Kitchen,Credit Card,2,125.16
+TXN-10854,2024-06-15,Alex Jones,unspecified@customer.org,(995) 962-9262,Miami,Fashion & Apparel,Credit Card,2,151.18
+TXN-10855,2024-06-15,Sarah Miller,sarah.miller@domain.com,(802) 439-5075,Other Metro,Home & Kitchen,PayPal,5,54.25
+TXN-10856,2024-06-15,Michael Wilson,michael.wilson@domain.com,Not Provided,Miami,Beauty & Health,Cash on Delivery,4,440.28
+TXN-10857,2024-06-22,Michael Davis,michael.davis@domain.com,Not Provided,New York,Electronics,Cash on Delivery,9,45.71
+TXN-10858,2024-06-15,Emily Jones,emily.jones@domain.com,Not Provided,Los Angeles,Home & Kitchen,Credit Card,3,14122.31
+TXN-10859,2024-06-15,Alex Johnson,alex.johnson@domain.com,(862) 850-6968,Other Metro,Electronics,PayPal,10,662.6
+TXN-10860,2024-06-15,Alex Anderson,alex.anderson@domain.com,(598) 173-8544,Other Metro,Electronics,PayPal,9,419.34
+TXN-10861,2024-06-15,Jane Wilson,jane.wilson@domain.com,Not Provided,New York,Electronics,Cash on Delivery,2,817.73
+TXN-10862,2024-06-15,Daniel Smith,daniel.smith@domain.com,(333) 598-5492,Other Metro,Fashion & Apparel,PayPal,3,332.51
+TXN-10863,2024-06-15,Alex Smith,alex.smith@domain.com,(243) 618-4199,Chicago,Beauty & Health,Cash on Delivery,11,386.79
+TXN-10864,2024-06-15,Sarah Williams,sarah.williams@domain.com,Not Provided,New York,Beauty & Health,PayPal,1,386.79
+TXN-10865,2024-06-15,Jessica Anderson,jessica.anderson@domain.com,Not Provided,Houston,Fashion & Apparel,Debit Card,3,435.63
+TXN-10866,2024-07-10,Michael Smith,unspecified@customer.org,(637) 791-8459,New York,Electronics,Credit Card,9,46.05
+TXN-10867,2024-06-15,John Davis,john.davis@domain.com,Not Provided,New York,Electronics,Credit Card,11,179.76
+TXN-10868,2024-06-15,Emily Johnson,unspecified@customer.org,(713) 431-6097,Los Angeles,Electronics,Credit Card,8,370.52
+TXN-10869,2024-06-15,Jane Jones,jane.jones@domain.com,(893) 588-7755,New York,Fashion & Apparel,PayPal,10,569.08
+TXN-10870,2024-06-15,Jessica Jones,jessica.jones@domain.com,Not Provided,New York,Home & Kitchen,Credit Card,8,422.54
+TXN-10871,2024-08-10,Emily Smith,unspecified@customer.org,(643) 336-3655,Other Metro,Electronics,PayPal,1,97.44
+TXN-10872,2024-06-15,Jessica Williams,jessica.williams@domain.com,(414) 657-1188,Other Metro,Electronics,Cash on Delivery,10,242.34
+TXN-10873,2024-06-15,Jane Williams,jane.williams@domain.com,(648) 828-7818,Chicago,Home & Kitchen,Debit Card,10,487.87
+TXN-10874,2024-06-15,Michael Williams,unspecified@customer.org,(424) 842-1689,Other Metro,Fashion & Apparel,Credit Card,7,785.12
+TXN-10875,2024-06-15,Emily Williams,emily.williams@domain.com,Not Provided,Los Angeles,Electronics,Cash on Delivery,6,217.98
+TXN-10876,2024-06-15,Daniel Johnson,daniel.johnson@domain.com,(534) 562-7444,Chicago,Fashion & Apparel,Cash on Delivery,3,840.5
+TXN-10877,2024-06-15,Michael Brown,unspecified@customer.org,(647) 346-7842,New York,Home & Kitchen,Credit Card,5,785.82
+TXN-10878,2024-06-15,Jane Williams,jane.williams@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,11,253.36
+TXN-10879,2024-06-15,Chris Taylor,unspecified@customer.org,(769) 530-4786,New York,Fashion & Apparel,Credit Card,1,412.54
+TXN-10880,2024-06-15,Emily Davis,emily.davis@domain.com,(716) 674-1220,Los Angeles,Fashion & Apparel,PayPal,11,845.89
+TXN-10881,2024-06-15,Chris Miller,chris.miller@domain.com,(579) 903-7886,Houston,Electronics,PayPal,3,813.03
+TXN-10882,2024-05-20,David Brown,david.brown@domain.com,Not Provided,Other Metro,Beauty & Health,Credit Card,2,574.49
+TXN-10883,2024-06-15,Sarah Brown,sarah.brown@domain.com,Not Provided,Chicago,Fashion & Apparel,Credit Card,1,57.48
+TXN-10884,2024-06-15,Emily Taylor,emily.taylor@domain.com,(932) 853-6515,Houston,Fashion & Apparel,Cash on Delivery,2,825.76
+TXN-10885,2024-06-15,Emily Jones,emily.jones@domain.com,(696) 442-7383,Houston,Fashion & Apparel,Cash on Delivery,1,127.6
+TXN-10886,2024-06-15,Alex Miller,alex.miller@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Cash on Delivery,7,36.43
+TXN-10887,2024-06-15,Daniel Williams,daniel.williams@domain.com,Not Provided,Chicago,Fashion & Apparel,Cash on Delivery,10,616.31
+TXN-10888,2024-05-11,Sarah Anderson,sarah.anderson@domain.com,(465) 233-3511,Los Angeles,Home & Kitchen,Cash on Delivery,6,628.57
+TXN-10889,2024-06-15,Emily Jones,emily.jones@domain.com,Not Provided,Los Angeles,Beauty & Health,Credit Card,6,539.9
+TXN-10890,2024-06-15,Jessica Williams,jessica.williams@domain.com,Not Provided,Other Metro,Electronics,Cash on Delivery,5,56.39
+TXN-10891,2024-06-15,Emily Miller,emily.miller@domain.com,(406) 474-1558,Chicago,Fashion & Apparel,Credit Card,9,621.99
+TXN-10892,2024-06-15,Alex Johnson,alex.johnson@domain.com,(725) 760-9048,Other Metro,Home & Kitchen,Credit Card,6,501.86
+TXN-10893,2024-11-24,Emily Williams,emily.williams@domain.com,(513) 184-2438,New York,Electronics,PayPal,8,768.75
+TXN-10894,2024-06-15,Chris Wilson,chris.wilson@domain.com,Not Provided,Other Metro,Home & Kitchen,Cash on Delivery,5,655.68
+TXN-10895,2024-06-15,Alex Davis,alex.davis@domain.com,(437) 392-5923,Chicago,Fashion & Apparel,Debit Card,1,607.35
+TXN-10896,2024-09-20,Alex Brown,unspecified@customer.org,(505) 308-3514,Other Metro,Fashion & Apparel,Credit Card,7,43.43
+TXN-10897,2024-06-15,John Williams,john.williams@domain.com,(715) 323-1202,Houston,Fashion & Apparel,Credit Card,5,173.35
+TXN-10898,2024-06-15,Jessica Smith,jessica.smith@domain.com,(543) 268-6280,Chicago,Fashion & Apparel,Cash on Delivery,8,754.41
+TXN-10899,2024-06-15,Alex Brown,alex.brown@domain.com,(848) 152-2371,New York,Fashion & Apparel,Credit Card,9,661.53
+TXN-10900,2024-08-11,Jessica Jones,jessica.jones@domain.com,(551) 541-1024,Chicago,Electronics,Credit Card,11,252.04
+TXN-10901,2024-06-15,John Wilson,john.wilson@domain.com,(613) 358-7022,Other Metro,Home & Kitchen,Cash on Delivery,10,743.36
+TXN-10902,2024-06-15,John Brown,john.brown@domain.com,(688) 313-5275,Other Metro,Fashion & Apparel,PayPal,8,635.23
+TXN-10903,2024-06-15,Michael Anderson,michael.anderson@domain.com,Not Provided,Other Metro,Home & Kitchen,PayPal,4,376.57
+TXN-10904,2024-06-15,Michael Miller,michael.miller@domain.com,Not Provided,Chicago,Electronics,PayPal,10,722.35
+TXN-10905,2024-06-15,Daniel Wilson,unspecified@customer.org,Not Provided,Los Angeles,Electronics,Cash on Delivery,9,156.3
+TXN-10906,2024-06-15,Alex Wilson,alex.wilson@domain.com,Not Provided,Chicago,Electronics,Debit Card,9,273.47
+TXN-10907,2024-06-15,Chris Miller,chris.miller@domain.com,(831) 232-3427,Chicago,Home & Kitchen,Credit Card,2,372.73
+TXN-10908,2024-06-15,Chris Jones,chris.jones@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,7,53.01
+TXN-10909,2024-03-20,Sarah Wilson,sarah.wilson@domain.com,(537) 839-6006,Miami,Fashion & Apparel,Credit Card,6,721.2
+TXN-10910,2024-01-14,Chris Brown,unspecified@customer.org,(723) 382-2964,Other Metro,Fashion & Apparel,PayPal,7,299.47
+TXN-10911,2024-11-04,Jane Brown,jane.brown@domain.com,(220) 863-6957,Other Metro,Beauty & Health,Cash on Delivery,1,163.18
+TXN-10912,2024-06-15,Michael Jones,michael.jones@domain.com,Not Provided,Chicago,Fashion & Apparel,Debit Card,2,723.72
+TXN-10913,2024-06-15,John Brown,john.brown@domain.com,(598) 814-3249,Los Angeles,Electronics,Credit Card,8,750.25
+TXN-10914,2024-07-04,Daniel Williams,daniel.williams@domain.com,(442) 116-2949,Los Angeles,Fashion & Apparel,Cash on Delivery,3,70.13
+TXN-10915,2024-06-15,Jessica Smith,jessica.smith@domain.com,Not Provided,Chicago,Electronics,PayPal,8,282.7
+TXN-10916,2024-06-15,Jessica Smith,jessica.smith@domain.com,Not Provided,Other Metro,Electronics,PayPal,8,153.2
+TXN-10917,2024-06-15,John Jones,john.jones@domain.com,(964) 666-3714,Los Angeles,Home & Kitchen,PayPal,4,26.68
+TXN-10918,2024-06-15,Michael Taylor,unspecified@customer.org,(306) 659-9078,Other Metro,Beauty & Health,Credit Card,3,609.86
+TXN-10919,2024-06-15,Michael Smith,michael.smith@domain.com,(810) 624-5926,Los Angeles,Electronics,Credit Card,1,123.33
+TXN-10920,2024-11-15,Emily Davis,emily.davis@domain.com,(986) 812-7138,Houston,Beauty & Health,Credit Card,4,300.72
+TXN-10921,2024-06-15,Alex Johnson,alex.johnson@domain.com,(926) 806-6585,New York,Fashion & Apparel,Credit Card,2,614.17
+TXN-10922,2024-06-15,Michael Brown,michael.brown@domain.com,Not Provided,Los Angeles,Home & Kitchen,Cash on Delivery,10,593.82
+TXN-10923,2024-06-15,David Brown,david.brown@domain.com,Not Provided,Miami,Fashion & Apparel,Debit Card,9,408.06
+TXN-10924,2024-11-06,Chris Jones,chris.jones@domain.com,Not Provided,New York,Electronics,Cash on Delivery,8,447.52
+TXN-10925,2024-06-15,Michael Davis,michael.davis@domain.com,(850) 745-1033,Chicago,Fashion & Apparel,Debit Card,11,339.9
+TXN-10926,2024-06-15,Jane Anderson,jane.anderson@domain.com,(261) 566-5957,Other Metro,Electronics,Cash on Delivery,4,444.98
+TXN-10927,2024-08-19,Daniel Williams,daniel.williams@domain.com,Not Provided,New York,Fashion & Apparel,PayPal,6,109.23
+TXN-10928,2024-06-15,Daniel Davis,daniel.davis@domain.com,Not Provided,Houston,Electronics,Credit Card,6,434.64
+TXN-10929,2024-06-15,Michael Anderson,unspecified@customer.org,(874) 954-7257,New York,Home & Kitchen,Cash on Delivery,4,794.35
+TXN-10930,2024-06-15,Chris Wilson,chris.wilson@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Cash on Delivery,8,435.63
+TXN-10931,2024-09-28,Alex Jones,alex.jones@domain.com,(661) 595-8113,Houston,Electronics,Cash on Delivery,11,14122.31
+TXN-10932,2024-06-15,Chris Miller,chris.miller@domain.com,Not Provided,Other Metro,Electronics,PayPal,8,509.0
+TXN-10933,2024-06-15,David Davis,david.davis@domain.com,Not Provided,Los Angeles,Electronics,Cash on Delivery,3,220.82
+TXN-10934,2024-06-15,Chris Williams,chris.williams@domain.com,(954) 618-1683,Chicago,Home & Kitchen,PayPal,2,671.44
+TXN-10935,2024-01-11,Chris Smith,chris.smith@domain.com,(606) 429-9894,Los Angeles,Electronics,PayPal,6,714.35
+TXN-10936,2024-06-15,Alex Wilson,alex.wilson@domain.com,(800) 639-7709,Chicago,Home & Kitchen,Credit Card,6,443.65
+TXN-10937,2024-07-25,Jessica Williams,jessica.williams@domain.com,(666) 568-7775,Other Metro,Fashion & Apparel,PayPal,11,771.08
+TXN-10938,2024-06-15,Emily Jones,emily.jones@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,7,764.9
+TXN-10939,2024-08-17,Alex Williams,unspecified@customer.org,(456) 942-8429,New York,Home & Kitchen,Cash on Delivery,5,257.19
+TXN-10940,2024-06-15,Jane Johnson,jane.johnson@domain.com,(667) 716-5598,Los Angeles,Fashion & Apparel,Credit Card,6,708.28
+TXN-10941,2024-06-15,Emily Miller,emily.miller@domain.com,Not Provided,Other Metro,Home & Kitchen,Debit Card,10,14122.31
+TXN-10942,2024-01-03,John Johnson,john.johnson@domain.com,Not Provided,Houston,Fashion & Apparel,Credit Card,4,350.74
+TXN-10943,2024-06-15,John Wilson,john.wilson@domain.com,Not Provided,Miami,Home & Kitchen,Debit Card,2,678.97
+TXN-10944,2024-02-27,Chris Williams,chris.williams@domain.com,Not Provided,Chicago,Fashion & Apparel,Credit Card,10,157.64
+TXN-10945,2024-06-15,John Brown,john.brown@domain.com,(442) 578-5296,Houston,Electronics,Debit Card,8,126.57
+TXN-10946,2024-06-15,David Smith,david.smith@domain.com,(309) 916-5991,Other Metro,Fashion & Apparel,PayPal,6,673.59
+TXN-10947,2024-06-15,Jane Davis,jane.davis@domain.com,(932) 992-2360,Chicago,Fashion & Apparel,Debit Card,6,373.85
+TXN-10948,2024-10-12,Daniel Anderson,daniel.anderson@domain.com,(498) 223-3303,Chicago,Electronics,Credit Card,2,224.24
+TXN-10949,2024-06-15,David Wilson,david.wilson@domain.com,(510) 307-2177,Los Angeles,Beauty & Health,Debit Card,9,225.73
+TXN-10950,2024-06-15,Daniel Brown,daniel.brown@domain.com,(452) 798-8083,Chicago,Fashion & Apparel,PayPal,6,452.24
+TXN-10951,2024-09-17,Michael Johnson,michael.johnson@domain.com,(674) 621-5632,Houston,Fashion & Apparel,Credit Card,8,355.63
+TXN-10952,2024-06-15,Jane Williams,jane.williams@domain.com,(557) 177-3788,Houston,Fashion & Apparel,Credit Card,11,832.02
+TXN-10953,2024-07-06,John Wilson,john.wilson@domain.com,Not Provided,Other Metro,Electronics,Cash on Delivery,6,444.98
+TXN-10954,2024-06-15,Alex Miller,alex.miller@domain.com,(900) 320-4832,New York,Beauty & Health,Debit Card,5,466.62
+TXN-10955,2024-06-15,David Brown,david.brown@domain.com,(561) 302-3534,Other Metro,Electronics,PayPal,4,573.85
+TXN-10956,2024-06-15,Emily Wilson,emily.wilson@domain.com,(451) 398-7139,Other Metro,Electronics,Cash on Delivery,3,518.28
+TXN-10957,2024-01-22,David Taylor,david.taylor@domain.com,Not Provided,Miami,Fashion & Apparel,Cash on Delivery,7,460.14
+TXN-10958,2024-06-15,Sarah Brown,sarah.brown@domain.com,(957) 720-2223,New York,Electronics,PayPal,9,588.4
+TXN-10959,2024-06-15,Jessica Smith,jessica.smith@domain.com,Not Provided,Houston,Fashion & Apparel,Cash on Delivery,10,215.42
+TXN-10960,2024-06-15,David Wilson,unspecified@customer.org,Not Provided,Chicago,Fashion & Apparel,Cash on Delivery,5,436.71
+TXN-10961,2024-08-27,Jessica Brown,unspecified@customer.org,Not Provided,Los Angeles,Electronics,PayPal,4,416.64
+TXN-10962,2024-11-24,Daniel Brown,daniel.brown@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Debit Card,1,751.31
+TXN-10963,2024-05-23,Jane Anderson,jane.anderson@domain.com,(564) 839-2598,Los Angeles,Home & Kitchen,Credit Card,10,235.53
+TXN-10964,2024-06-15,Chris Smith,chris.smith@domain.com,(755) 823-1195,Los Angeles,Fashion & Apparel,Credit Card,11,2717.4
+TXN-10965,2024-06-15,Jessica Wilson,jessica.wilson@domain.com,Not Provided,Houston,Fashion & Apparel,Credit Card,1,162.63
+TXN-10966,2024-06-15,Alex Anderson,alex.anderson@domain.com,Not Provided,Other Metro,Fashion & Apparel,Cash on Delivery,4,642.59
+TXN-10967,2024-02-23,Emily Davis,emily.davis@domain.com,(342) 343-5831,Los Angeles,Home & Kitchen,Debit Card,3,318.37
+TXN-10968,2024-06-15,Michael Miller,michael.miller@domain.com,(338) 804-5953,Other Metro,Electronics,Debit Card,10,282.74
+TXN-10969,2024-06-15,Daniel Taylor,daniel.taylor@domain.com,(309) 681-1795,Chicago,Fashion & Apparel,Debit Card,6,688.59
+TXN-10970,2024-06-15,Jane Jones,jane.jones@domain.com,Not Provided,Los Angeles,Home & Kitchen,Cash on Delivery,3,422.54
+TXN-10971,2024-06-15,David Johnson,david.johnson@domain.com,(600) 671-2989,Miami,Home & Kitchen,Credit Card,11,61.89
+TXN-10972,2024-06-15,David Jones,david.jones@domain.com,(896) 616-5848,Other Metro,Fashion & Apparel,Credit Card,7,318.1
+TXN-10973,2024-06-15,Jessica Miller,jessica.miller@domain.com,Not Provided,Chicago,Home & Kitchen,PayPal,9,501.56
+TXN-10974,2024-06-15,Emily Miller,emily.miller@domain.com,Not Provided,Miami,Home & Kitchen,PayPal,11,497.57
+TXN-10975,2024-06-15,Michael Davis,michael.davis@domain.com,(841) 182-8209,Other Metro,Beauty & Health,PayPal,4,777.53
+TXN-10976,2024-06-15,David Brown,david.brown@domain.com,(465) 382-8105,Other Metro,Electronics,Cash on Delivery,7,820.86
+TXN-10977,2024-06-15,Sarah Taylor,unspecified@customer.org,(499) 450-5282,Chicago,Electronics,Credit Card,4,790.63
+TXN-10978,2024-06-15,Chris Anderson,unspecified@customer.org,(320) 506-5340,Other Metro,Home & Kitchen,Debit Card,4,177.93
+TXN-10979,2024-06-15,Emily Anderson,emily.anderson@domain.com,(294) 787-4116,Other Metro,Electronics,PayPal,3,177.97
+TXN-10980,2024-06-15,Jane Williams,jane.williams@domain.com,(609) 497-9407,Los Angeles,Home & Kitchen,Credit Card,8,193.8
+TXN-10981,2024-09-30,Chris Smith,chris.smith@domain.com,(863) 186-5838,New York,Home & Kitchen,Credit Card,9,221.09
+TXN-10982,2024-06-15,Daniel Davis,daniel.davis@domain.com,(471) 589-1835,Los Angeles,Electronics,Credit Card,2,444.22
+TXN-10983,2024-06-15,Alex Williams,alex.williams@domain.com,(668) 319-4402,New York,Electronics,PayPal,3,265.4
+TXN-10984,2024-06-15,Jessica Williams,jessica.williams@domain.com,Not Provided,Los Angeles,Electronics,Cash on Delivery,11,571.64
+TXN-10985,2024-06-07,Daniel Wilson,daniel.wilson@domain.com,Not Provided,Other Metro,Beauty & Health,Debit Card,6,771.71
+TXN-10986,2024-01-10,Chris Williams,chris.williams@domain.com,(519) 113-7422,Houston,Home & Kitchen,Credit Card,5,798.25
+TXN-10987,2024-06-15,Chris Jones,chris.jones@domain.com,(736) 652-1168,Other Metro,Fashion & Apparel,Cash on Delivery,4,481.62
+TXN-10988,2024-06-15,Emily Miller,emily.miller@domain.com,(437) 248-5880,Houston,Home & Kitchen,Credit Card,7,38.56
+TXN-10989,2024-06-15,Emily Jones,emily.jones@domain.com,(679) 976-5258,Other Metro,Fashion & Apparel,Cash on Delivery,1,121.42
+TXN-10990,2024-09-06,Jessica Davis,jessica.davis@domain.com,Not Provided,Chicago,Electronics,Debit Card,11,498.4
+TXN-10991,2024-06-15,Jane Williams,jane.williams@domain.com,Not Provided,Other Metro,Electronics,PayPal,11,444.98
+TXN-10992,2024-03-05,Jessica Wilson,jessica.wilson@domain.com,(533) 616-1730,Other Metro,Electronics,Credit Card,5,615.71
+TXN-10993,2024-06-15,Jane Smith,jane.smith@domain.com,(832) 898-2271,Chicago,Fashion & Apparel,Credit Card,11,138.3
+TXN-10994,2024-06-15,Daniel Jones,unspecified@customer.org,(540) 440-7992,Miami,Fashion & Apparel,Cash on Delivery,5,520.04
+TXN-10995,2024-06-15,David Jones,david.jones@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,9,297.86
+TXN-10996,2024-06-15,Jane Brown,jane.brown@domain.com,(822) 852-2075,Los Angeles,Electronics,PayPal,2,164.59
+TXN-10997,2024-06-15,Emily Wilson,emily.wilson@domain.com,(815) 399-5842,Other Metro,Fashion & Apparel,Credit Card,1,172.29
+TXN-10998,2024-03-06,Chris Anderson,chris.anderson@domain.com,(556) 253-7019,Los Angeles,Electronics,PayPal,9,350.05
+TXN-10999,2024-08-05,Jane Williams,jane.williams@domain.com,(268) 401-9344,Other Metro,Electronics,PayPal,9,627.0
+TXN-11000,2024-06-15,Chris Miller,chris.miller@domain.com,(300) 566-1868,Los Angeles,Electronics,PayPal,8,537.07
+TXN-11001,2024-06-15,Daniel Wilson,daniel.wilson@domain.com,Not Provided,New York,Beauty & Health,Credit Card,8,106.66
+TXN-11002,2024-07-07,Daniel Wilson,daniel.wilson@domain.com,(397) 375-2195,Chicago,Fashion & Apparel,PayPal,6,646.8
+TXN-11003,2024-06-15,Emily Wilson,emily.wilson@domain.com,Not Provided,Los Angeles,Beauty & Health,Cash on Delivery,9,27.3
+TXN-11004,2024-06-15,Emily Anderson,emily.anderson@domain.com,(554) 935-5757,Other Metro,Fashion & Apparel,Credit Card,9,386.05
+TXN-11005,2024-02-06,Alex Brown,alex.brown@domain.com,(672) 201-8597,New York,Electronics,Credit Card,10,831.87
+TXN-11006,2024-07-21,David Miller,david.miller@domain.com,(812) 893-6477,New York,Electronics,Cash on Delivery,1,510.27
+TXN-11007,2024-06-15,Michael Brown,michael.brown@domain.com,Not Provided,Other Metro,Fashion & Apparel,PayPal,4,4982.25
+TXN-11008,2024-06-15,Jane Wilson,unspecified@customer.org,(965) 545-4903,Other Metro,Electronics,Cash on Delivery,3,585.34
+TXN-11009,2024-06-15,Emily Williams,emily.williams@domain.com,Not Provided,New York,Home & Kitchen,Cash on Delivery,4,57.33
+TXN-11010,2024-06-28,Michael Brown,michael.brown@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,5,171.33
+TXN-11011,2024-06-15,John Davis,john.davis@domain.com,(292) 300-6930,Houston,Fashion & Apparel,PayPal,4,809.78
+TXN-11012,2024-06-15,Jane Davis,jane.davis@domain.com,Not Provided,Los Angeles,Home & Kitchen,Cash on Delivery,5,384.45
+TXN-11013,2024-06-15,John Smith,unspecified@customer.org,Not Provided,Other Metro,Electronics,Credit Card,5,194.24
+TXN-11014,2024-06-15,Emily Smith,emily.smith@domain.com,(848) 259-9535,Los Angeles,Home & Kitchen,Cash on Delivery,4,162.9
+TXN-11015,2024-11-18,Michael Miller,michael.miller@domain.com,(832) 315-6238,Los Angeles,Electronics,PayPal,11,178.62
+TXN-11016,2024-04-26,Chris Davis,chris.davis@domain.com,(227) 358-9095,New York,Electronics,PayPal,11,397.27
+TXN-11017,2024-06-15,Emily Jones,emily.jones@domain.com,(748) 567-5206,New York,Beauty & Health,Debit Card,7,637.99
+TXN-11018,2024-06-15,Emily Anderson,emily.anderson@domain.com,(269) 546-9638,Chicago,Electronics,Credit Card,8,828.68
+TXN-11019,2024-06-15,Emily Anderson,emily.anderson@domain.com,Not Provided,Chicago,Electronics,PayPal,4,159.4
+TXN-11020,2024-06-15,Alex Johnson,alex.johnson@domain.com,Not Provided,Los Angeles,Home & Kitchen,Credit Card,1,310.9
+TXN-11021,2024-06-15,John Miller,john.miller@domain.com,Not Provided,Chicago,Fashion & Apparel,Cash on Delivery,8,147.78
+TXN-11022,2024-05-16,Jane Williams,jane.williams@domain.com,(909) 228-2160,New York,Fashion & Apparel,Credit Card,9,382.13
+TXN-11023,2024-06-15,Michael Johnson,michael.johnson@domain.com,(310) 582-3855,New York,Home & Kitchen,Debit Card,1,397.98
+TXN-11024,2024-06-15,David Williams,unspecified@customer.org,(228) 493-1026,Houston,Electronics,Cash on Delivery,1,148.59
+TXN-11025,2024-10-24,David Davis,david.davis@domain.com,Not Provided,New York,Beauty & Health,Cash on Delivery,10,225.55
+TXN-11026,2024-06-15,John Anderson,unspecified@customer.org,Not Provided,Chicago,Electronics,Cash on Delivery,4,271.41
+TXN-11027,2024-06-15,Alex Johnson,alex.johnson@domain.com,(224) 530-1637,Chicago,Electronics,PayPal,8,319.46
+TXN-11028,2024-06-15,John Johnson,john.johnson@domain.com,Not Provided,Miami,Fashion & Apparel,Debit Card,5,59.85
+TXN-11029,2024-06-15,Daniel Smith,daniel.smith@domain.com,Not Provided,Houston,Electronics,Debit Card,3,847.6
+TXN-11030,2024-12-04,David Williams,david.williams@domain.com,(466) 893-8599,Other Metro,Fashion & Apparel,Debit Card,6,556.41
+TXN-11031,2024-06-15,Alex Taylor,alex.taylor@domain.com,Not Provided,Los Angeles,Fashion & Apparel,PayPal,6,833.48
+TXN-11032,2024-06-15,Sarah Williams,sarah.williams@domain.com,Not Provided,Chicago,Fashion & Apparel,PayPal,10,564.63
+TXN-11033,2024-06-15,Daniel Smith,daniel.smith@domain.com,Not Provided,Chicago,Electronics,Credit Card,7,579.84
+TXN-11034,2024-11-20,David Johnson,david.johnson@domain.com,(935) 156-4146,New York,Fashion & Apparel,Debit Card,1,183.68
+TXN-11035,2024-06-15,Michael Williams,unspecified@customer.org,Not Provided,Los Angeles,Fashion & Apparel,PayPal,1,435.63
+TXN-11036,2024-06-15,Jane Miller,jane.miller@domain.com,Not Provided,Chicago,Home & Kitchen,Cash on Delivery,10,529.63
+TXN-11037,2024-03-01,Jessica Smith,jessica.smith@domain.com,Not Provided,Los Angeles,Home & Kitchen,Cash on Delivery,7,660.93
+TXN-11038,2024-02-22,Jessica Wilson,jessica.wilson@domain.com,Not Provided,Chicago,Electronics,PayPal,10,590.18
+TXN-11039,2024-08-25,David Davis,david.davis@domain.com,Not Provided,Los Angeles,Electronics,Cash on Delivery,4,372.28
+TXN-11040,2024-06-15,John Jones,john.jones@domain.com,(762) 387-1087,New York,Home & Kitchen,Credit Card,2,211.4
+TXN-11041,2024-06-15,John Miller,john.miller@domain.com,Not Provided,Other Metro,Beauty & Health,PayPal,1,547.01
+TXN-11042,2024-06-15,David Williams,david.williams@domain.com,Not Provided,Miami,Home & Kitchen,Cash on Delivery,4,422.54
+TXN-11043,2024-06-15,Michael Davis,michael.davis@domain.com,Not Provided,Other Metro,Fashion & Apparel,PayPal,5,371.61
+TXN-11044,2024-04-20,Michael Wilson,michael.wilson@domain.com,(225) 768-2067,New York,Electronics,Credit Card,8,429.57
+TXN-11045,2024-06-15,Daniel Jones,daniel.jones@domain.com,(543) 608-1551,Miami,Fashion & Apparel,Cash on Delivery,1,592.92
+TXN-11046,2024-06-15,Daniel Davis,unspecified@customer.org,Not Provided,Other Metro,Electronics,Credit Card,3,69.53
+TXN-11047,2024-06-15,David Taylor,david.taylor@domain.com,(233) 923-8141,Los Angeles,Fashion & Apparel,Debit Card,8,435.63
+TXN-11048,2024-06-15,John Brown,john.brown@domain.com,(960) 778-1894,New York,Beauty & Health,Cash on Delivery,11,386.79
+TXN-11049,2024-06-15,Jessica Jones,jessica.jones@domain.com,(921) 175-2851,Houston,Home & Kitchen,Cash on Delivery,4,98.76
+TXN-11050,2024-06-05,Jane Miller,jane.miller@domain.com,(754) 734-9981,Other Metro,Home & Kitchen,PayPal,2,20.82
+TXN-11051,2024-06-15,David Anderson,david.anderson@domain.com,(972) 266-5926,Miami,Fashion & Apparel,Debit Card,1,296.57
+TXN-11052,2024-06-15,Jane Jones,jane.jones@domain.com,(740) 173-1570,New York,Fashion & Apparel,PayPal,8,411.98
+TXN-11053,2024-06-15,John Williams,john.williams@domain.com,Not Provided,Chicago,Home & Kitchen,PayPal,7,665.19
+TXN-11054,2024-06-15,Michael Jones,michael.jones@domain.com,(356) 788-4146,Los Angeles,Electronics,Debit Card,1,675.28
+TXN-11055,2024-06-15,Jessica Anderson,jessica.anderson@domain.com,(624) 792-5937,Other Metro,Beauty & Health,Debit Card,11,217.36
+TXN-11056,2024-06-12,David Brown,david.brown@domain.com,(392) 822-6180,Houston,Electronics,Cash on Delivery,8,497.64
+TXN-11057,2024-06-15,Jessica Smith,jessica.smith@domain.com,(917) 129-5565,Miami,Home & Kitchen,Cash on Delivery,8,110.84
+TXN-11058,2024-06-15,Michael Wilson,michael.wilson@domain.com,Not Provided,Other Metro,Fashion & Apparel,PayPal,4,671.7
+TXN-11059,2024-06-15,Sarah Johnson,sarah.johnson@domain.com,(595) 419-7452,Other Metro,Home & Kitchen,Credit Card,2,747.07
+TXN-11060,2024-06-15,Chris Wilson,chris.wilson@domain.com,(752) 523-9921,Other Metro,Electronics,Credit Card,11,767.75
+TXN-11061,2024-06-15,Chris Wilson,chris.wilson@domain.com,Not Provided,Other Metro,Electronics,Cash on Delivery,6,608.95
+TXN-11062,2024-06-15,Michael Taylor,michael.taylor@domain.com,(692) 534-1201,Other Metro,Fashion & Apparel,PayPal,6,535.72
+TXN-11063,2024-06-15,Michael Anderson,michael.anderson@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,5,221.51
+TXN-11064,2024-06-15,David Williams,unspecified@customer.org,Not Provided,Houston,Home & Kitchen,Cash on Delivery,2,445.18
+TXN-11065,2024-06-15,Michael Taylor,michael.taylor@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Cash on Delivery,3,435.63
+TXN-11066,2024-06-15,Jessica Davis,jessica.davis@domain.com,(742) 608-3954,Other Metro,Fashion & Apparel,PayPal,9,14122.31
+TXN-11067,2024-06-15,David Wilson,david.wilson@domain.com,(760) 467-4362,New York,Electronics,PayPal,6,731.59
+TXN-11068,2024-06-15,Chris Taylor,unspecified@customer.org,Not Provided,Other Metro,Fashion & Apparel,PayPal,7,562.1
+TXN-11069,2024-06-15,Jane Johnson,unspecified@customer.org,Not Provided,Other Metro,Fashion & Apparel,Credit Card,4,284.62
+TXN-11070,2024-06-15,Daniel Miller,daniel.miller@domain.com,(929) 262-3503,Miami,Fashion & Apparel,PayPal,5,272.84
+TXN-11071,2024-06-15,Sarah Jones,sarah.jones@domain.com,(650) 732-4729,New York,Fashion & Apparel,Credit Card,10,312.66
+TXN-11072,2024-02-25,Daniel Miller,daniel.miller@domain.com,(657) 219-9237,Houston,Fashion & Apparel,Credit Card,5,119.66
+TXN-11073,2024-06-15,Emily Williams,emily.williams@domain.com,(902) 125-3648,Other Metro,Fashion & Apparel,Credit Card,10,435.63
+TXN-11074,2024-01-27,Jessica Williams,jessica.williams@domain.com,Not Provided,Other Metro,Home & Kitchen,Credit Card,11,422.07
+TXN-11075,2024-08-30,Michael Brown,michael.brown@domain.com,(849) 426-3926,New York,Home & Kitchen,Credit Card,4,507.03
+TXN-11076,2024-06-15,Emily Williams,unspecified@customer.org,(489) 543-4330,Chicago,Beauty & Health,PayPal,6,748.79
+TXN-11077,2024-06-15,Emily Miller,emily.miller@domain.com,Not Provided,Chicago,Electronics,Credit Card,2,482.94
+TXN-11078,2024-06-15,Sarah Taylor,unspecified@customer.org,Not Provided,Other Metro,Home & Kitchen,Cash on Delivery,6,322.77
+TXN-11079,2024-06-15,Sarah Smith,sarah.smith@domain.com,(224) 948-6156,Los Angeles,Beauty & Health,Credit Card,3,88.48
+TXN-11080,2024-06-15,Daniel Miller,unspecified@customer.org,Not Provided,New York,Fashion & Apparel,Credit Card,10,658.82
+TXN-11081,2024-06-15,Michael Jones,michael.jones@domain.com,Not Provided,Miami,Electronics,Credit Card,8,399.24
+TXN-11082,2024-01-09,Michael Brown,michael.brown@domain.com,(573) 536-8305,Miami,Home & Kitchen,PayPal,7,109.16
+TXN-11083,2024-07-26,Chris Smith,chris.smith@domain.com,(618) 302-3598,New York,Electronics,Debit Card,10,2333.45
+TXN-11084,2024-09-03,Chris Johnson,chris.johnson@domain.com,(323) 839-4351,New York,Fashion & Apparel,PayPal,2,398.67
+TXN-11085,2024-12-02,Michael Miller,michael.miller@domain.com,Not Provided,New York,Electronics,Credit Card,4,444.98
+TXN-11086,2024-06-15,David Anderson,david.anderson@domain.com,(571) 185-7909,Other Metro,Fashion & Apparel,Credit Card,5,758.84
+TXN-11087,2024-06-15,John Williams,john.williams@domain.com,Not Provided,Other Metro,Electronics,Cash on Delivery,9,110.48
+TXN-11088,2024-10-01,Chris Miller,chris.miller@domain.com,(394) 671-6729,Miami,Fashion & Apparel,Credit Card,4,443.95
+TXN-11089,2024-06-15,Sarah Miller,sarah.miller@domain.com,(636) 111-6241,Other Metro,Home & Kitchen,Cash on Delivery,2,252.64
+TXN-11090,2024-06-13,Jane Miller,jane.miller@domain.com,(556) 911-7397,Other Metro,Beauty & Health,Credit Card,4,308.88
+TXN-11091,2024-06-15,David Williams,unspecified@customer.org,(798) 310-3610,Miami,Electronics,Credit Card,7,759.68
+TXN-11092,2024-06-15,Jessica Johnson,jessica.johnson@domain.com,(413) 346-6737,Other Metro,Fashion & Apparel,Cash on Delivery,1,805.19
+TXN-11093,2024-06-15,Emily Anderson,emily.anderson@domain.com,(471) 857-4079,Miami,Fashion & Apparel,Credit Card,11,44.44
+TXN-11094,2024-06-15,David Williams,david.williams@domain.com,Not Provided,Other Metro,Electronics,PayPal,9,844.44
+TXN-11095,2024-06-15,Emily Jones,emily.jones@domain.com,Not Provided,Los Angeles,Electronics,Debit Card,3,789.28
+TXN-11096,2024-06-15,Alex Williams,alex.williams@domain.com,(716) 663-6269,Houston,Beauty & Health,Cash on Delivery,8,81.45
+TXN-11097,2024-06-15,Michael Anderson,michael.anderson@domain.com,Not Provided,Los Angeles,Home & Kitchen,PayPal,11,507.02
+TXN-11098,2024-06-15,Alex Miller,alex.miller@domain.com,(993) 457-3423,Other Metro,Fashion & Apparel,Credit Card,8,435.63
+TXN-11099,2024-06-11,Daniel Williams,daniel.williams@domain.com,Not Provided,Chicago,Electronics,Credit Card,5,359.23
+TXN-11100,2024-06-15,Chris Brown,chris.brown@domain.com,(641) 753-2934,Los Angeles,Beauty & Health,Cash on Delivery,4,386.79
+TXN-11101,2024-06-15,Chris Davis,unspecified@customer.org,(267) 230-9044,New York,Electronics,Cash on Delivery,9,216.47
+TXN-11102,2024-06-15,Emily Davis,emily.davis@domain.com,(281) 316-1334,New York,Home & Kitchen,Credit Card,3,82.59
+TXN-11103,2024-06-15,Jane Davis,jane.davis@domain.com,(294) 967-1090,Los Angeles,Beauty & Health,Credit Card,5,1846.95
+TXN-11104,2024-06-17,Daniel Davis,daniel.davis@domain.com,(740) 697-3390,Other Metro,Home & Kitchen,PayPal,11,278.13
+TXN-11105,2024-06-15,Jessica Miller,jessica.miller@domain.com,(749) 596-9296,Other Metro,Home & Kitchen,Cash on Delivery,7,613.35
+TXN-11106,2024-06-15,Jane Jones,jane.jones@domain.com,Not Provided,Other Metro,Home & Kitchen,Debit Card,1,14122.31
+TXN-11107,2024-11-09,John Miller,john.miller@domain.com,Not Provided,Miami,Beauty & Health,Cash on Delivery,10,198.16
+TXN-11108,2024-06-15,Sarah Brown,sarah.brown@domain.com,Not Provided,Other Metro,Beauty & Health,Debit Card,3,177.74
+TXN-11109,2024-06-15,Jessica Taylor,jessica.taylor@domain.com,(591) 218-2798,Other Metro,Electronics,Credit Card,7,444.98
+TXN-11110,2024-10-03,Jane Wilson,jane.wilson@domain.com,Not Provided,New York,Home & Kitchen,PayPal,4,818.9
+TXN-11111,2024-06-15,Daniel Anderson,daniel.anderson@domain.com,(569) 696-6973,Other Metro,Fashion & Apparel,Credit Card,3,685.73
+TXN-11112,2024-06-15,John Jones,john.jones@domain.com,(749) 234-6492,Los Angeles,Fashion & Apparel,PayPal,5,448.78
+TXN-11113,2024-06-15,Jessica Williams,jessica.williams@domain.com,(431) 431-7749,Chicago,Electronics,PayPal,4,279.09
+TXN-11114,2024-06-15,Jane Anderson,jane.anderson@domain.com,(365) 701-1837,New York,Beauty & Health,Cash on Delivery,3,200.48
+TXN-11115,2024-06-15,Sarah Brown,sarah.brown@domain.com,(396) 171-8716,Miami,Home & Kitchen,Credit Card,3,119.62
+TXN-11116,2024-06-15,Emily Johnson,emily.johnson@domain.com,Not Provided,New York,Home & Kitchen,Credit Card,6,127.11
+TXN-11117,2024-02-18,Michael Johnson,michael.johnson@domain.com,(904) 596-3899,Other Metro,Fashion & Apparel,Cash on Delivery,11,450.75
+TXN-11118,2024-06-15,Michael Anderson,michael.anderson@domain.com,(550) 860-4642,Miami,Fashion & Apparel,PayPal,2,628.94
+TXN-11119,2024-06-15,Chris Williams,chris.williams@domain.com,(562) 667-9783,Other Metro,Electronics,PayPal,10,444.98
+TXN-11120,2024-03-08,David Williams,david.williams@domain.com,Not Provided,Other Metro,Electronics,Cash on Delivery,9,818.28
+TXN-11121,2024-11-27,Alex Wilson,alex.wilson@domain.com,(874) 125-5547,New York,Home & Kitchen,Cash on Delivery,2,563.25
+TXN-11122,2024-06-15,Jane Taylor,jane.taylor@domain.com,(850) 313-6791,Los Angeles,Beauty & Health,Credit Card,8,14122.31
+TXN-11123,2024-06-15,John Smith,john.smith@domain.com,Not Provided,New York,Electronics,PayPal,10,296.95
+TXN-11124,2024-06-15,Jane Miller,jane.miller@domain.com,Not Provided,Other Metro,Home & Kitchen,Credit Card,10,146.53
+TXN-11125,2024-06-15,Jane Brown,jane.brown@domain.com,Not Provided,Chicago,Fashion & Apparel,PayPal,5,385.35
+TXN-11126,2024-06-15,Michael Anderson,michael.anderson@domain.com,(645) 320-1939,New York,Fashion & Apparel,Credit Card,7,509.44
+TXN-11127,2024-06-15,John Anderson,john.anderson@domain.com,(920) 944-8964,New York,Electronics,Debit Card,9,237.45
+TXN-11128,2024-06-15,David Miller,david.miller@domain.com,(976) 356-7095,New York,Beauty & Health,Debit Card,3,699.83
+TXN-11129,2024-12-21,Chris Miller,chris.miller@domain.com,(216) 788-8426,Miami,Electronics,PayPal,11,522.5
+TXN-11130,2024-06-15,Emily Smith,emily.smith@domain.com,Not Provided,New York,Beauty & Health,PayPal,4,142.08
+TXN-11131,2024-01-06,John Smith,john.smith@domain.com,(630) 125-3340,Chicago,Home & Kitchen,PayPal,4,87.89
+TXN-11132,2024-06-15,Daniel Miller,daniel.miller@domain.com,(826) 436-1689,New York,Fashion & Apparel,Credit Card,9,718.74
+TXN-11133,2024-09-11,Michael Anderson,michael.anderson@domain.com,Not Provided,Los Angeles,Electronics,Cash on Delivery,1,821.64
+TXN-11134,2024-06-15,Emily Wilson,emily.wilson@domain.com,(258) 251-6437,Chicago,Fashion & Apparel,PayPal,2,227.39
+TXN-11135,2024-06-15,Chris Smith,chris.smith@domain.com,(746) 463-1983,Chicago,Electronics,PayPal,10,179.73
+TXN-11136,2024-06-15,Chris Jones,chris.jones@domain.com,Not Provided,Los Angeles,Home & Kitchen,Credit Card,10,422.54
+TXN-11137,2024-06-15,Daniel Jones,unspecified@customer.org,Not Provided,Other Metro,Electronics,Debit Card,1,126.21
+TXN-11138,2024-06-15,Jessica Brown,jessica.brown@domain.com,(820) 158-9670,New York,Fashion & Apparel,PayPal,3,778.32
+TXN-11139,2024-06-15,David Taylor,unspecified@customer.org,(452) 733-7634,New York,Beauty & Health,PayPal,8,635.67
+TXN-11140,2024-06-15,Sarah Taylor,sarah.taylor@domain.com,Not Provided,Los Angeles,Home & Kitchen,Credit Card,8,601.98
+TXN-11141,2024-06-15,David Taylor,david.taylor@domain.com,(528) 554-2318,Miami,Home & Kitchen,Credit Card,9,666.04
+TXN-11142,2024-06-15,David Johnson,david.johnson@domain.com,Not Provided,Los Angeles,Electronics,Cash on Delivery,6,8399.65
+TXN-11143,2024-06-15,Emily Jones,emily.jones@domain.com,(293) 359-5430,Other Metro,Home & Kitchen,Debit Card,5,393.45
+TXN-11144,2024-06-15,Emily Smith,emily.smith@domain.com,Not Provided,Los Angeles,Home & Kitchen,PayPal,9,186.48
+TXN-11145,2024-06-15,Sarah Smith,sarah.smith@domain.com,Not Provided,Other Metro,Electronics,Credit Card,4,444.98
+TXN-11146,2024-06-15,David Taylor,david.taylor@domain.com,(389) 224-7149,Miami,Electronics,Credit Card,9,423.98
+TXN-11147,2024-06-15,Chris Anderson,chris.anderson@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,1,843.81
+TXN-11148,2024-11-11,Jane Wilson,jane.wilson@domain.com,Not Provided,New York,Beauty & Health,Credit Card,10,778.62
+TXN-11149,2024-06-15,Chris Williams,unspecified@customer.org,Not Provided,New York,Electronics,Cash on Delivery,10,14122.31
+TXN-11150,2024-06-12,David Miller,david.miller@domain.com,(391) 831-7630,Houston,Fashion & Apparel,Credit Card,8,560.65
+TXN-11151,2024-06-15,Daniel Miller,unspecified@customer.org,(304) 188-5696,Other Metro,Fashion & Apparel,Cash on Delivery,10,808.24
+TXN-11152,2024-06-15,Alex Brown,alex.brown@domain.com,Not Provided,Other Metro,Home & Kitchen,Credit Card,6,409.45
+TXN-11153,2024-06-15,Emily Taylor,emily.taylor@domain.com,Not Provided,New York,Fashion & Apparel,Cash on Delivery,11,585.71
+TXN-11154,2024-06-15,Jessica Jones,jessica.jones@domain.com,Not Provided,Other Metro,Electronics,PayPal,6,437.03
+TXN-11155,2024-06-15,David Anderson,david.anderson@domain.com,(359) 433-4914,Other Metro,Electronics,Credit Card,5,478.85
+TXN-11156,2024-06-15,Jane Anderson,jane.anderson@domain.com,(921) 321-4980,Los Angeles,Fashion & Apparel,Debit Card,11,322.67
+TXN-11157,2024-06-15,Daniel Williams,daniel.williams@domain.com,(325) 458-2526,Los Angeles,Electronics,PayPal,9,444.98
+TXN-11158,2024-06-15,David Williams,david.williams@domain.com,(751) 560-9471,Los Angeles,Home & Kitchen,Credit Card,3,422.54
+TXN-11159,2024-06-15,Emily Williams,emily.williams@domain.com,(978) 609-6026,Chicago,Home & Kitchen,Cash on Delivery,3,696.11
+TXN-11160,2024-07-29,Jessica Anderson,jessica.anderson@domain.com,Not Provided,Other Metro,Beauty & Health,Credit Card,9,481.54
+TXN-11161,2024-06-15,Emily Davis,emily.davis@domain.com,Not Provided,Other Metro,Beauty & Health,PayPal,11,417.65
+TXN-11162,2024-06-15,David Taylor,david.taylor@domain.com,Not Provided,Chicago,Electronics,Cash on Delivery,9,802.71
+TXN-11163,2024-06-15,Alex Smith,alex.smith@domain.com,Not Provided,Miami,Electronics,PayPal,11,59.94
+TXN-11164,2024-02-26,Daniel Brown,daniel.brown@domain.com,(546) 471-3896,New York,Beauty & Health,Debit Card,9,208.62
+TXN-11165,2024-06-15,David Taylor,david.taylor@domain.com,Not Provided,Other Metro,Beauty & Health,Cash on Delivery,6,795.07
+TXN-11166,2024-06-15,Daniel Johnson,daniel.johnson@domain.com,(711) 488-3028,Other Metro,Electronics,PayPal,6,682.47
+TXN-11167,2024-06-15,Jessica Wilson,jessica.wilson@domain.com,Not Provided,New York,Electronics,Credit Card,4,516.76
+TXN-11168,2024-06-15,Chris Smith,chris.smith@domain.com,(317) 695-2793,Houston,Fashion & Apparel,PayPal,8,569.3
+TXN-11169,2024-06-15,Michael Taylor,michael.taylor@domain.com,(299) 556-7471,Chicago,Home & Kitchen,Debit Card,3,122.46
+TXN-11170,2024-06-15,Daniel Williams,daniel.williams@domain.com,Not Provided,New York,Electronics,Credit Card,4,803.67
+TXN-11171,2024-06-15,Sarah Jones,sarah.jones@domain.com,(246) 870-8069,Miami,Fashion & Apparel,PayPal,11,798.25
+TXN-11172,2024-06-15,Sarah Davis,sarah.davis@domain.com,(415) 526-6254,New York,Fashion & Apparel,Cash on Delivery,1,717.54
+TXN-11173,2024-08-14,Emily Davis,emily.davis@domain.com,Not Provided,Houston,Fashion & Apparel,Debit Card,5,182.31
+TXN-11174,2024-06-15,Daniel Brown,daniel.brown@domain.com,(221) 319-3126,Other Metro,Fashion & Apparel,Cash on Delivery,4,363.68
+TXN-11175,2024-06-15,Chris Brown,chris.brown@domain.com,(575) 680-5690,Los Angeles,Home & Kitchen,Cash on Delivery,11,41.21
+TXN-11176,2024-10-18,Emily Jones,emily.jones@domain.com,Not Provided,Other Metro,Home & Kitchen,Credit Card,11,812.27
+TXN-11177,2024-08-13,Jessica Miller,jessica.miller@domain.com,(314) 852-7590,Other Metro,Fashion & Apparel,PayPal,4,274.27
+TXN-11178,2024-06-15,Emily Johnson,emily.johnson@domain.com,(392) 198-9116,Chicago,Fashion & Apparel,Debit Card,4,684.28
+TXN-11179,2024-06-15,Chris Brown,unspecified@customer.org,Not Provided,Miami,Beauty & Health,Credit Card,9,37.1
+TXN-11180,2024-06-15,Michael Johnson,michael.johnson@domain.com,(852) 907-4964,Other Metro,Home & Kitchen,Cash on Delivery,6,194.81
+TXN-11181,2024-06-15,Daniel Anderson,daniel.anderson@domain.com,(318) 246-3312,Los Angeles,Home & Kitchen,Credit Card,2,814.53
+TXN-11182,2024-11-02,Emily Johnson,emily.johnson@domain.com,Not Provided,Miami,Fashion & Apparel,Cash on Delivery,1,753.29
+TXN-11183,2024-06-15,Jessica Wilson,unspecified@customer.org,Not Provided,Other Metro,Electronics,Cash on Delivery,6,649.44
+TXN-11184,2024-03-01,Alex Smith,alex.smith@domain.com,Not Provided,Other Metro,Electronics,Credit Card,7,386.77
+TXN-11185,2024-06-15,Daniel Davis,daniel.davis@domain.com,Not Provided,Other Metro,Fashion & Apparel,PayPal,9,419.94
+TXN-11186,2024-06-15,David Johnson,david.johnson@domain.com,(804) 798-3812,Los Angeles,Beauty & Health,Debit Card,9,246.73
+TXN-11187,2024-06-15,Michael Davis,michael.davis@domain.com,(817) 662-4004,Los Angeles,Home & Kitchen,PayPal,11,388.81
+TXN-11188,2024-06-15,Jessica Brown,jessica.brown@domain.com,(972) 274-8979,Chicago,Fashion & Apparel,Credit Card,3,10823.75
+TXN-11189,2024-06-15,John Williams,john.williams@domain.com,(995) 572-4525,Los Angeles,Electronics,Credit Card,3,69.62
+TXN-11190,2024-06-15,Sarah Jones,sarah.jones@domain.com,(681) 151-9298,Los Angeles,Beauty & Health,Cash on Delivery,9,360.8
+TXN-11191,2024-04-10,John Wilson,john.wilson@domain.com,Not Provided,Los Angeles,Fashion & Apparel,PayPal,8,305.42
+TXN-11192,2024-06-15,Emily Davis,emily.davis@domain.com,(298) 831-1243,Miami,Fashion & Apparel,Credit Card,1,469.52
+TXN-11193,2024-06-15,Chris Taylor,chris.taylor@domain.com,Not Provided,Houston,Home & Kitchen,Credit Card,9,39.25
+TXN-11194,2024-06-15,Jessica Anderson,jessica.anderson@domain.com,(500) 408-6937,Miami,Beauty & Health,Credit Card,9,686.39
+TXN-11195,2024-06-15,Daniel Johnson,daniel.johnson@domain.com,Not Provided,Los Angeles,Home & Kitchen,PayPal,9,493.29
+TXN-11196,2024-07-15,Jane Smith,jane.smith@domain.com,(908) 430-6023,Los Angeles,Fashion & Apparel,Cash on Delivery,3,703.27
+TXN-11197,2024-05-25,Emily Jones,emily.jones@domain.com,(930) 151-4605,Other Metro,Home & Kitchen,Credit Card,5,312.87
+TXN-11198,2024-06-15,Michael Williams,michael.williams@domain.com,(375) 610-7162,New York,Fashion & Apparel,Credit Card,1,520.61
+TXN-11199,2024-06-15,Alex Davis,alex.davis@domain.com,(579) 791-4058,Other Metro,Home & Kitchen,Credit Card,11,336.42
+TXN-11200,2024-06-15,Alex Johnson,alex.johnson@domain.com,Not Provided,Other Metro,Electronics,PayPal,8,499.31
+TXN-11201,2024-06-15,Emily Brown,emily.brown@domain.com,Not Provided,Houston,Home & Kitchen,Credit Card,7,445.23
+TXN-11202,2024-11-30,Chris Smith,chris.smith@domain.com,(356) 113-1076,New York,Fashion & Apparel,Credit Card,2,231.93
+TXN-11203,2024-06-15,Michael Brown,michael.brown@domain.com,(872) 641-1164,Miami,Home & Kitchen,Credit Card,10,308.72
+TXN-11204,2024-06-15,Chris Wilson,chris.wilson@domain.com,(888) 814-5953,Other Metro,Home & Kitchen,Cash on Delivery,5,422.54
+TXN-11205,2024-06-15,Chris Wilson,chris.wilson@domain.com,Not Provided,Chicago,Home & Kitchen,Credit Card,8,504.6
+TXN-11206,2024-06-15,Sarah Brown,sarah.brown@domain.com,(338) 341-3363,Los Angeles,Electronics,PayPal,11,195.36
+TXN-11207,2024-06-15,John Davis,john.davis@domain.com,(482) 828-8906,Chicago,Fashion & Apparel,Credit Card,5,744.37
+TXN-11208,2024-06-15,Jane Johnson,jane.johnson@domain.com,Not Provided,Other Metro,Electronics,Debit Card,3,53.78
+TXN-11209,2024-06-15,Daniel Wilson,daniel.wilson@domain.com,Not Provided,Houston,Beauty & Health,Credit Card,10,67.13
+TXN-11210,2024-07-22,Jessica Brown,jessica.brown@domain.com,(420) 617-8467,New York,Electronics,Cash on Delivery,4,526.62
+TXN-11211,2024-06-15,Alex Taylor,alex.taylor@domain.com,(993) 131-5731,Other Metro,Electronics,PayPal,8,305.84
+TXN-11212,2024-06-15,Emily Miller,emily.miller@domain.com,(719) 598-6041,Los Angeles,Home & Kitchen,Cash on Delivery,2,55.92
+TXN-11213,2024-06-15,Chris Johnson,chris.johnson@domain.com,(305) 359-4271,Los Angeles,Electronics,Credit Card,2,141.01
+TXN-11214,2024-08-20,John Jones,john.jones@domain.com,(740) 238-9027,Los Angeles,Beauty & Health,Cash on Delivery,6,265.94
+TXN-11215,2024-06-15,Chris Jones,chris.jones@domain.com,(898) 237-3040,Chicago,Home & Kitchen,Credit Card,7,787.66
+TXN-11216,2024-06-15,Daniel Jones,daniel.jones@domain.com,(313) 284-4176,Chicago,Beauty & Health,PayPal,5,517.7
+TXN-11217,2024-10-06,Emily Wilson,emily.wilson@domain.com,(938) 228-9748,Other Metro,Home & Kitchen,Cash on Delivery,7,603.2
+TXN-11218,2024-06-15,Daniel Brown,daniel.brown@domain.com,(503) 104-9591,Chicago,Home & Kitchen,Credit Card,10,376.31
+TXN-11219,2024-06-15,John Johnson,john.johnson@domain.com,Not Provided,Houston,Fashion & Apparel,Credit Card,2,553.7
+TXN-11220,2024-06-15,Michael Davis,michael.davis@domain.com,(439) 410-5887,Other Metro,Beauty & Health,Cash on Delivery,8,208.53
+TXN-11221,2024-06-15,David Williams,david.williams@domain.com,(388) 801-6221,Chicago,Electronics,PayPal,8,301.16
+TXN-11222,2024-06-15,Emily Anderson,emily.anderson@domain.com,(885) 829-2547,Chicago,Home & Kitchen,Credit Card,5,643.68
+TXN-11223,2024-11-04,John Williams,john.williams@domain.com,(600) 673-3529,Chicago,Electronics,Cash on Delivery,7,428.23
+TXN-11224,2024-06-15,Jessica Jones,jessica.jones@domain.com,(363) 355-5090,New York,Electronics,Credit Card,9,444.98
+TXN-11225,2024-06-15,Jane Jones,jane.jones@domain.com,(734) 194-5000,Other Metro,Home & Kitchen,PayPal,2,342.14
+TXN-11226,2024-06-15,Daniel Wilson,daniel.wilson@domain.com,(547) 371-9522,Other Metro,Beauty & Health,Debit Card,8,744.36
+TXN-11227,2024-05-01,Alex Wilson,alex.wilson@domain.com,(248) 424-8655,Other Metro,Fashion & Apparel,Cash on Delivery,4,243.69
+TXN-11228,2024-06-15,Sarah Jones,sarah.jones@domain.com,Not Provided,Chicago,Beauty & Health,Credit Card,6,138.44
+TXN-11229,2024-06-15,Sarah Anderson,sarah.anderson@domain.com,(702) 621-7517,Other Metro,Home & Kitchen,Cash on Delivery,7,261.74
+TXN-11230,2024-06-15,Alex Smith,unspecified@customer.org,Not Provided,Miami,Beauty & Health,Cash on Delivery,3,386.79
+TXN-11231,2024-06-15,Emily Miller,emily.miller@domain.com,(231) 654-9126,Los Angeles,Beauty & Health,PayPal,10,14122.31
+TXN-11232,2024-06-15,Daniel Williams,daniel.williams@domain.com,(689) 375-1232,Other Metro,Fashion & Apparel,Debit Card,2,50.92
+TXN-11233,2024-06-15,Alex Taylor,unspecified@customer.org,Not Provided,Miami,Electronics,Credit Card,7,726.28
+TXN-11234,2024-06-15,Sarah Williams,sarah.williams@domain.com,Not Provided,New York,Fashion & Apparel,Debit Card,10,406.76
+TXN-11235,2024-08-10,Jane Miller,jane.miller@domain.com,Not Provided,Los Angeles,Fashion & Apparel,PayPal,11,309.75
+TXN-11236,2024-10-17,Jessica Williams,jessica.williams@domain.com,(764) 831-7898,New York,Electronics,Cash on Delivery,3,72.66
+TXN-11237,2024-06-15,Michael Jones,michael.jones@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,9,261.1
+TXN-11238,2024-06-15,Daniel Anderson,daniel.anderson@domain.com,Not Provided,Other Metro,Beauty & Health,Cash on Delivery,10,386.79
+TXN-11239,2024-06-15,Michael Jones,unspecified@customer.org,(625) 386-2568,Chicago,Fashion & Apparel,Cash on Delivery,7,380.02
+TXN-11240,2024-06-15,Emily Davis,emily.davis@domain.com,Not Provided,Los Angeles,Beauty & Health,Cash on Delivery,4,617.27
+TXN-11241,2024-06-15,Jane Johnson,jane.johnson@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,4,373.35
+TXN-11242,2024-06-15,Emily Davis,emily.davis@domain.com,Not Provided,New York,Electronics,Credit Card,4,377.67
+TXN-11243,2024-07-29,Emily Smith,emily.smith@domain.com,Not Provided,Chicago,Electronics,PayPal,11,76.18
+TXN-11244,2024-06-15,Jessica Williams,jessica.williams@domain.com,Not Provided,Miami,Fashion & Apparel,PayPal,9,486.66
+TXN-11245,2024-06-15,John Anderson,john.anderson@domain.com,Not Provided,Chicago,Home & Kitchen,Debit Card,6,627.37
+TXN-11246,2024-06-15,David Wilson,david.wilson@domain.com,Not Provided,Chicago,Electronics,Credit Card,3,444.98
+TXN-11247,2024-06-15,Michael Davis,michael.davis@domain.com,Not Provided,New York,Electronics,Debit Card,11,736.05
+TXN-11248,2024-06-15,Chris Taylor,chris.taylor@domain.com,(773) 458-7176,Los Angeles,Home & Kitchen,Cash on Delivery,8,225.35
+TXN-11249,2024-06-15,Sarah Brown,sarah.brown@domain.com,(291) 460-8488,Houston,Fashion & Apparel,Debit Card,3,474.63
+TXN-11250,2024-06-15,Michael Anderson,michael.anderson@domain.com,Not Provided,Miami,Home & Kitchen,PayPal,11,663.13
+TXN-11251,2024-06-15,Michael Miller,michael.miller@domain.com,(432) 314-8409,Los Angeles,Electronics,PayPal,1,444.98
+TXN-11252,2024-12-01,Sarah Smith,sarah.smith@domain.com,(837) 765-3469,Chicago,Fashion & Apparel,PayPal,6,502.96
+TXN-11253,2024-06-15,Emily Johnson,emily.johnson@domain.com,Not Provided,Chicago,Fashion & Apparel,Credit Card,10,684.82
+TXN-11254,2024-06-15,Sarah Davis,sarah.davis@domain.com,(359) 531-9031,New York,Beauty & Health,Credit Card,1,87.36
+TXN-11255,2024-06-15,Sarah Taylor,sarah.taylor@domain.com,Not Provided,Houston,Beauty & Health,PayPal,5,70.99
+TXN-11256,2024-06-15,David Miller,david.miller@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Cash on Delivery,4,136.85
+TXN-11257,2024-04-13,Alex Smith,alex.smith@domain.com,Not Provided,New York,Home & Kitchen,Credit Card,9,820.33
+TXN-11258,2024-06-15,Emily Davis,emily.davis@domain.com,(357) 797-9934,New York,Home & Kitchen,PayPal,10,130.9
+TXN-11259,2024-06-15,Daniel Johnson,unspecified@customer.org,(751) 314-9680,Other Metro,Electronics,Credit Card,8,737.65
+TXN-11260,2024-04-20,Michael Miller,michael.miller@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,2,435.37
+TXN-11261,2024-08-14,Emily Miller,emily.miller@domain.com,Not Provided,New York,Fashion & Apparel,Credit Card,6,435.63
+TXN-11262,2024-01-31,Alex Anderson,alex.anderson@domain.com,(438) 349-6050,Chicago,Fashion & Apparel,Credit Card,5,607.47
+TXN-11263,2024-06-15,John Brown,unspecified@customer.org,Not Provided,Los Angeles,Beauty & Health,Debit Card,9,750.23
+TXN-11264,2024-06-15,Chris Anderson,chris.anderson@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Credit Card,11,435.63
+TXN-11265,2024-10-27,Jane Johnson,unspecified@customer.org,(458) 123-9047,Los Angeles,Fashion & Apparel,Credit Card,11,584.05
+TXN-11266,2024-06-15,Alex Davis,alex.davis@domain.com,(914) 581-4921,Los Angeles,Fashion & Apparel,Cash on Delivery,9,34.63
+TXN-11267,2024-03-09,Chris Smith,chris.smith@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,7,674.72
+TXN-11268,2024-06-15,Daniel Taylor,daniel.taylor@domain.com,(516) 200-6315,Los Angeles,Fashion & Apparel,Credit Card,11,457.63
+TXN-11269,2024-06-15,Michael Davis,michael.davis@domain.com,(881) 584-5390,Chicago,Electronics,Debit Card,3,444.98
+TXN-11270,2024-06-15,John Smith,john.smith@domain.com,(510) 420-1671,Other Metro,Electronics,Credit Card,8,550.63
+TXN-11271,2024-06-15,Sarah Brown,unspecified@customer.org,Not Provided,Los Angeles,Electronics,Credit Card,11,616.14
+TXN-11272,2024-06-15,Sarah Miller,sarah.miller@domain.com,(880) 474-4045,Houston,Beauty & Health,Credit Card,2,386.79
+TXN-11273,2024-07-19,Jane Taylor,unspecified@customer.org,Not Provided,Houston,Fashion & Apparel,Credit Card,11,182.23
+TXN-11274,2024-06-15,Emily Anderson,emily.anderson@domain.com,(826) 257-5395,Los Angeles,Electronics,Cash on Delivery,2,600.93
+TXN-11275,2024-05-11,Daniel Brown,daniel.brown@domain.com,Not Provided,Chicago,Fashion & Apparel,Cash on Delivery,11,95.6
+TXN-11276,2024-06-15,Alex Williams,alex.williams@domain.com,(282) 665-3486,New York,Home & Kitchen,Credit Card,3,446.41
+TXN-11277,2024-06-15,Jane Brown,jane.brown@domain.com,Not Provided,Miami,Home & Kitchen,Credit Card,6,223.73
+TXN-11278,2024-06-15,Chris Johnson,chris.johnson@domain.com,Not Provided,Houston,Beauty & Health,Cash on Delivery,7,40.42
+TXN-11279,2024-06-15,Jessica Johnson,jessica.johnson@domain.com,(628) 251-4901,Other Metro,Fashion & Apparel,Debit Card,8,594.15
+TXN-11280,2024-09-21,Daniel Smith,daniel.smith@domain.com,Not Provided,Houston,Electronics,Cash on Delivery,3,388.88
+TXN-11281,2024-06-15,Alex Taylor,alex.taylor@domain.com,(542) 978-7482,Los Angeles,Fashion & Apparel,Credit Card,4,707.22
+TXN-11282,2024-06-15,John Wilson,john.wilson@domain.com,Not Provided,Los Angeles,Electronics,Credit Card,1,558.59
+TXN-11283,2024-06-15,Emily Miller,unspecified@customer.org,(910) 558-5167,Miami,Electronics,Debit Card,3,240.34
+TXN-11284,2024-06-15,Daniel Smith,unspecified@customer.org,Not Provided,New York,Electronics,Cash on Delivery,1,725.68
+TXN-11285,2024-06-15,Michael Wilson,michael.wilson@domain.com,(372) 228-7146,Chicago,Home & Kitchen,PayPal,2,365.72
+TXN-11286,2024-06-15,Jessica Jones,jessica.jones@domain.com,Not Provided,Other Metro,Electronics,Credit Card,1,384.24
+TXN-11287,2024-09-01,Chris Davis,chris.davis@domain.com,Not Provided,Chicago,Home & Kitchen,Credit Card,11,798.08
+TXN-11288,2024-06-15,Chris Taylor,chris.taylor@domain.com,(743) 145-3715,Houston,Beauty & Health,Cash on Delivery,4,76.43
+TXN-11289,2024-06-15,Emily Johnson,emily.johnson@domain.com,(893) 535-4212,New York,Home & Kitchen,Credit Card,11,634.25
+TXN-11290,2024-06-15,Alex Brown,alex.brown@domain.com,Not Provided,Chicago,Electronics,Debit Card,8,432.4
+TXN-11291,2024-10-15,Chris Anderson,chris.anderson@domain.com,(254) 675-1557,Houston,Electronics,Debit Card,10,466.3
+TXN-11292,2024-11-03,Alex Smith,alex.smith@domain.com,Not Provided,Los Angeles,Electronics,Credit Card,5,733.59
+TXN-11293,2024-06-15,Emily Davis,emily.davis@domain.com,(481) 800-8767,Other Metro,Fashion & Apparel,PayPal,8,575.7
+TXN-11294,2024-01-07,Michael Smith,michael.smith@domain.com,(755) 391-8604,Other Metro,Beauty & Health,Cash on Delivery,5,764.95
+TXN-11295,2024-11-12,Jessica Johnson,jessica.johnson@domain.com,(533) 408-8695,Other Metro,Electronics,PayPal,10,426.9
+TXN-11296,2024-06-15,Michael Brown,michael.brown@domain.com,Not Provided,Chicago,Electronics,Credit Card,10,455.62
+TXN-11297,2024-11-16,Michael Davis,unspecified@customer.org,Not Provided,Houston,Home & Kitchen,Credit Card,11,135.3
+TXN-11298,2024-05-07,Michael Davis,michael.davis@domain.com,Not Provided,Houston,Fashion & Apparel,Cash on Delivery,10,349.63
+TXN-11299,2024-06-15,Sarah Johnson,sarah.johnson@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Credit Card,4,763.45
+TXN-11300,2024-06-15,Alex Johnson,alex.johnson@domain.com,Not Provided,Other Metro,Home & Kitchen,Credit Card,1,733.5
+TXN-11301,2024-12-13,Daniel Brown,daniel.brown@domain.com,(321) 596-4651,Other Metro,Electronics,Debit Card,5,175.77
+TXN-11302,2024-01-27,Daniel Miller,daniel.miller@domain.com,(457) 892-7309,Los Angeles,Beauty & Health,Cash on Delivery,11,499.3
+TXN-11303,2024-06-15,Jessica Taylor,jessica.taylor@domain.com,Not Provided,Other Metro,Home & Kitchen,PayPal,1,376.78
+TXN-11304,2024-06-15,Emily Johnson,emily.johnson@domain.com,(909) 159-2949,New York,Fashion & Apparel,Debit Card,2,325.63
+TXN-11305,2024-06-15,Jessica Wilson,jessica.wilson@domain.com,Not Provided,Other Metro,Home & Kitchen,PayPal,4,283.43
+TXN-11306,2024-06-15,Jane Davis,jane.davis@domain.com,(393) 691-3489,Other Metro,Electronics,Debit Card,4,702.98
+TXN-11307,2024-06-15,Jane Davis,jane.davis@domain.com,Not Provided,Other Metro,Home & Kitchen,Debit Card,10,687.0
+TXN-11308,2024-08-18,Chris Wilson,chris.wilson@domain.com,Not Provided,Houston,Beauty & Health,Credit Card,9,367.37
+TXN-11309,2024-06-15,Emily Williams,emily.williams@domain.com,Not Provided,Other Metro,Beauty & Health,Credit Card,11,803.11
+TXN-11310,2024-06-15,Michael Anderson,michael.anderson@domain.com,Not Provided,New York,Electronics,PayPal,11,444.98
+TXN-11311,2024-06-15,Jane Wilson,jane.wilson@domain.com,(500) 217-2868,Chicago,Fashion & Apparel,Cash on Delivery,8,830.88
+TXN-11312,2024-06-15,Daniel Taylor,daniel.taylor@domain.com,Not Provided,Chicago,Home & Kitchen,Cash on Delivery,5,705.55
+TXN-11313,2024-06-15,Chris Miller,chris.miller@domain.com,(894) 125-1010,Houston,Fashion & Apparel,Cash on Delivery,4,599.59
+TXN-11314,2024-06-15,Jessica Brown,jessica.brown@domain.com,Not Provided,Chicago,Home & Kitchen,Cash on Delivery,10,22.96
+TXN-11315,2024-06-19,John Smith,john.smith@domain.com,(325) 483-3808,Other Metro,Fashion & Apparel,PayPal,8,435.63
+TXN-11316,2024-06-15,David Taylor,david.taylor@domain.com,(628) 137-1638,Chicago,Electronics,Credit Card,7,327.94
+TXN-11317,2024-06-15,Jessica Smith,unspecified@customer.org,(773) 612-8246,Los Angeles,Fashion & Apparel,Debit Card,10,62.96
+TXN-11318,2024-06-15,Jane Davis,jane.davis@domain.com,(649) 360-2660,New York,Fashion & Apparel,Credit Card,5,65.15
+TXN-11319,2024-06-15,Emily Anderson,emily.anderson@domain.com,(964) 139-6038,Other Metro,Home & Kitchen,Cash on Delivery,5,757.93
+TXN-11320,2024-07-05,Sarah Anderson,sarah.anderson@domain.com,(671) 848-6534,Los Angeles,Electronics,Cash on Delivery,9,137.34
+TXN-11321,2024-06-15,Daniel Miller,daniel.miller@domain.com,(721) 367-9134,New York,Fashion & Apparel,Cash on Delivery,2,435.63
+TXN-11322,2024-11-12,Chris Williams,chris.williams@domain.com,Not Provided,New York,Home & Kitchen,Cash on Delivery,11,329.41
+TXN-11323,2024-05-31,David Anderson,david.anderson@domain.com,(693) 281-7332,Chicago,Electronics,Cash on Delivery,2,276.39
+TXN-11324,2024-06-15,David Wilson,david.wilson@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,3,589.58
+TXN-11325,2024-06-15,Daniel Smith,daniel.smith@domain.com,Not Provided,New York,Home & Kitchen,Cash on Delivery,1,826.85
+TXN-11326,2024-06-15,John Anderson,john.anderson@domain.com,(770) 129-7006,Other Metro,Electronics,PayPal,7,553.94
+TXN-11327,2024-06-15,John Davis,john.davis@domain.com,Not Provided,New York,Electronics,Credit Card,3,676.81
+TXN-11328,2024-06-15,Michael Davis,michael.davis@domain.com,(808) 927-1881,Chicago,Home & Kitchen,Cash on Delivery,9,359.73
+TXN-11329,2024-06-15,John Jones,john.jones@domain.com,(788) 187-9075,Other Metro,Fashion & Apparel,Debit Card,1,348.25
+TXN-11330,2024-06-15,David Davis,david.davis@domain.com,Not Provided,New York,Home & Kitchen,Cash on Delivery,7,120.75
+TXN-11331,2024-06-15,Michael Brown,michael.brown@domain.com,Not Provided,Houston,Fashion & Apparel,Credit Card,1,85.67
+TXN-11332,2024-06-15,Jane Smith,jane.smith@domain.com,(579) 208-8751,Other Metro,Home & Kitchen,PayPal,10,747.25
+TXN-11333,2024-06-15,Daniel Anderson,daniel.anderson@domain.com,(459) 223-1753,Los Angeles,Fashion & Apparel,Debit Card,4,435.63
+TXN-11334,2024-06-15,Jane Davis,jane.davis@domain.com,(376) 148-4281,Other Metro,Beauty & Health,Credit Card,11,53.02
+TXN-11335,2024-06-15,David Wilson,david.wilson@domain.com,(318) 325-7272,Los Angeles,Electronics,Cash on Delivery,6,792.52
+TXN-11336,2024-06-15,John Wilson,john.wilson@domain.com,Not Provided,Other Metro,Fashion & Apparel,Debit Card,7,388.31
+TXN-11337,2024-06-15,Michael Johnson,michael.johnson@domain.com,(730) 449-5117,Houston,Electronics,Credit Card,7,388.83
+TXN-11338,2024-06-15,David Brown,david.brown@domain.com,Not Provided,New York,Electronics,Cash on Delivery,3,457.36
+TXN-11339,2024-10-20,Daniel Wilson,daniel.wilson@domain.com,(612) 688-1259,Other Metro,Home & Kitchen,Credit Card,9,346.75
+TXN-11340,2024-06-15,Alex Taylor,alex.taylor@domain.com,(361) 689-5217,Other Metro,Electronics,Debit Card,2,689.88
+TXN-11341,2024-06-15,Sarah Williams,sarah.williams@domain.com,(413) 607-8195,Other Metro,Beauty & Health,Credit Card,6,409.42
+TXN-11342,2024-10-26,Jane Taylor,jane.taylor@domain.com,Not Provided,Chicago,Electronics,Credit Card,9,699.01
+TXN-11343,2024-06-15,Alex Miller,alex.miller@domain.com,Not Provided,Other Metro,Electronics,Debit Card,8,716.77
+TXN-11344,2024-06-15,Jessica Johnson,unspecified@customer.org,(877) 569-8516,Los Angeles,Electronics,Cash on Delivery,6,812.24
+TXN-11345,2024-06-15,Chris Wilson,chris.wilson@domain.com,Not Provided,Houston,Beauty & Health,Cash on Delivery,4,457.56
+TXN-11346,2024-11-05,Jessica Anderson,jessica.anderson@domain.com,(646) 819-6786,Los Angeles,Home & Kitchen,Credit Card,1,405.39
+TXN-11347,2024-04-06,Emily Davis,emily.davis@domain.com,Not Provided,Miami,Home & Kitchen,PayPal,1,209.06
+TXN-11348,2024-06-15,Sarah Anderson,sarah.anderson@domain.com,Not Provided,Chicago,Electronics,Debit Card,10,183.51
+TXN-11349,2024-06-15,John Wilson,john.wilson@domain.com,(922) 199-1805,Chicago,Fashion & Apparel,Credit Card,9,449.56
+TXN-11350,2024-06-15,David Johnson,david.johnson@domain.com,(433) 165-1229,Los Angeles,Home & Kitchen,Cash on Delivery,6,602.16
+TXN-11351,2024-06-15,Jessica Smith,jessica.smith@domain.com,(567) 258-9126,Chicago,Electronics,PayPal,7,797.45
+TXN-11352,2024-09-26,Alex Brown,alex.brown@domain.com,(215) 510-4345,New York,Fashion & Apparel,Credit Card,8,260.35
+TXN-11353,2024-06-15,Sarah Williams,sarah.williams@domain.com,Not Provided,New York,Fashion & Apparel,PayPal,9,535.31
+TXN-11354,2024-06-15,Jane Brown,jane.brown@domain.com,Not Provided,Other Metro,Home & Kitchen,Cash on Delivery,11,719.63
+TXN-11355,2024-10-23,Daniel Jones,daniel.jones@domain.com,(695) 962-9842,Los Angeles,Electronics,Cash on Delivery,5,158.34
+TXN-11356,2024-06-15,Jessica Johnson,jessica.johnson@domain.com,Not Provided,Chicago,Home & Kitchen,Credit Card,1,298.37
+TXN-11357,2024-06-15,Michael Wilson,unspecified@customer.org,(682) 127-5881,Los Angeles,Fashion & Apparel,Credit Card,9,479.24
+TXN-11358,2024-05-25,Alex Brown,alex.brown@domain.com,Not Provided,Other Metro,Home & Kitchen,Credit Card,7,422.54
+TXN-11359,2024-02-18,Alex Johnson,unspecified@customer.org,Not Provided,Miami,Electronics,Credit Card,5,88.2
+TXN-11360,2024-12-07,Alex Anderson,alex.anderson@domain.com,(809) 567-1387,Chicago,Fashion & Apparel,Credit Card,11,558.37
+TXN-11361,2024-06-15,Chris Wilson,chris.wilson@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,10,184.34
+TXN-11362,2024-06-15,Michael Wilson,michael.wilson@domain.com,(951) 843-7988,New York,Electronics,Credit Card,6,388.56
+TXN-11363,2024-06-15,David Wilson,david.wilson@domain.com,(760) 221-6445,Chicago,Electronics,Cash on Delivery,1,279.07
+TXN-11364,2024-06-15,David Miller,david.miller@domain.com,Not Provided,Other Metro,Home & Kitchen,Credit Card,1,219.28
+TXN-11365,2024-06-15,John Davis,john.davis@domain.com,(454) 422-6534,Los Angeles,Fashion & Apparel,PayPal,2,429.1
+TXN-11366,2024-06-15,Jessica Brown,jessica.brown@domain.com,(575) 700-2256,Houston,Electronics,Cash on Delivery,11,652.91
+TXN-11367,2024-06-15,Jane Miller,jane.miller@domain.com,Not Provided,Other Metro,Home & Kitchen,Cash on Delivery,7,540.19
+TXN-11368,2024-06-15,Jane Anderson,jane.anderson@domain.com,(838) 266-5090,Los Angeles,Electronics,PayPal,1,226.87
+TXN-11369,2024-06-15,Emily Smith,unspecified@customer.org,(292) 233-7962,Miami,Electronics,PayPal,6,444.98
+TXN-11370,2024-06-15,Jessica Wilson,jessica.wilson@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,11,553.38
+TXN-11371,2024-06-15,Emily Miller,unspecified@customer.org,Not Provided,Chicago,Home & Kitchen,PayPal,5,716.26
+TXN-11372,2024-06-15,Michael Anderson,unspecified@customer.org,(863) 575-3250,Other Metro,Electronics,PayPal,8,424.18
+TXN-11373,2024-06-15,Chris Williams,chris.williams@domain.com,Not Provided,Chicago,Electronics,Debit Card,5,350.75
+TXN-11374,2024-06-15,Sarah Anderson,sarah.anderson@domain.com,Not Provided,Other Metro,Fashion & Apparel,PayPal,2,488.09
+TXN-11375,2024-06-15,Jessica Miller,unspecified@customer.org,(850) 545-1303,New York,Fashion & Apparel,Credit Card,1,685.3
+TXN-11376,2024-06-16,Alex Williams,unspecified@customer.org,Not Provided,New York,Home & Kitchen,Cash on Delivery,8,152.56
+TXN-11377,2024-06-15,Emily Taylor,emily.taylor@domain.com,Not Provided,Miami,Home & Kitchen,Credit Card,4,656.68
+TXN-11378,2024-06-15,Sarah Smith,sarah.smith@domain.com,(423) 518-1977,Miami,Fashion & Apparel,Debit Card,5,340.42
+TXN-11379,2024-06-15,Jessica Smith,jessica.smith@domain.com,(863) 546-1096,Other Metro,Fashion & Apparel,Credit Card,5,744.57
+TXN-11380,2024-06-15,Jessica Davis,jessica.davis@domain.com,(293) 489-7690,Other Metro,Fashion & Apparel,Debit Card,7,346.95
+TXN-11381,2024-06-22,Alex Wilson,alex.wilson@domain.com,(389) 627-8597,Chicago,Electronics,Credit Card,3,7649.6
+TXN-11382,2024-06-15,David Wilson,david.wilson@domain.com,(541) 826-6479,New York,Fashion & Apparel,Cash on Delivery,10,723.26
+TXN-11383,2024-06-15,Chris Williams,chris.williams@domain.com,Not Provided,Other Metro,Fashion & Apparel,Debit Card,6,542.39
+TXN-11384,2024-11-15,Sarah Smith,sarah.smith@domain.com,Not Provided,New York,Fashion & Apparel,Cash on Delivery,3,635.73
+TXN-11385,2024-11-10,Alex Williams,alex.williams@domain.com,(731) 199-9016,Los Angeles,Fashion & Apparel,Debit Card,1,381.45
+TXN-11386,2024-06-15,Chris Johnson,chris.johnson@domain.com,(924) 756-7754,New York,Fashion & Apparel,Credit Card,2,544.89
+TXN-11387,2024-06-15,Jessica Taylor,jessica.taylor@domain.com,(532) 712-5012,Other Metro,Fashion & Apparel,Credit Card,7,697.8
+TXN-11388,2024-06-15,Emily Miller,emily.miller@domain.com,(777) 873-8400,New York,Fashion & Apparel,Cash on Delivery,5,281.83
+TXN-11389,2024-11-02,David Taylor,david.taylor@domain.com,Not Provided,Miami,Fashion & Apparel,Debit Card,8,115.71
+TXN-11390,2024-06-15,Michael Taylor,michael.taylor@domain.com,(387) 238-1142,Los Angeles,Fashion & Apparel,Debit Card,8,82.07
+TXN-11391,2024-06-15,David Jones,david.jones@domain.com,(351) 616-7276,Chicago,Fashion & Apparel,Cash on Delivery,4,723.51
+TXN-11392,2024-06-15,Sarah Johnson,sarah.johnson@domain.com,(222) 731-8160,Other Metro,Fashion & Apparel,Credit Card,3,364.23
+TXN-11393,2024-06-15,Chris Williams,chris.williams@domain.com,(755) 807-2730,Los Angeles,Fashion & Apparel,PayPal,1,530.66
+TXN-11394,2024-06-15,Daniel Wilson,daniel.wilson@domain.com,Not Provided,Chicago,Electronics,Cash on Delivery,6,259.0
+TXN-11395,2024-06-15,Emily Brown,unspecified@customer.org,(697) 885-2977,Other Metro,Fashion & Apparel,Credit Card,4,126.14
+TXN-11396,2024-06-15,Alex Johnson,alex.johnson@domain.com,(586) 720-5462,New York,Electronics,Credit Card,4,496.38
+TXN-11397,2024-06-15,Chris Taylor,chris.taylor@domain.com,Not Provided,Other Metro,Fashion & Apparel,Debit Card,4,516.21
+TXN-11398,2024-06-15,John Davis,john.davis@domain.com,(912) 199-8604,Los Angeles,Fashion & Apparel,Credit Card,9,725.23
+TXN-11399,2024-06-15,Alex Anderson,alex.anderson@domain.com,Not Provided,Chicago,Electronics,PayPal,10,56.26
+TXN-11400,2024-06-15,Jane Johnson,jane.johnson@domain.com,(390) 556-3433,Houston,Fashion & Apparel,Debit Card,6,435.63
+TXN-11401,2024-09-12,John Miller,john.miller@domain.com,Not Provided,Chicago,Fashion & Apparel,Debit Card,6,28.42
+TXN-11402,2024-06-15,Emily Davis,emily.davis@domain.com,Not Provided,Other Metro,Electronics,PayPal,6,97.09
+TXN-11403,2024-06-15,David Wilson,david.wilson@domain.com,(720) 205-8986,Other Metro,Electronics,Cash on Delivery,1,532.35
+TXN-11404,2024-06-15,Emily Jones,emily.jones@domain.com,Not Provided,New York,Electronics,Credit Card,9,601.66
+TXN-11405,2024-06-15,Michael Taylor,michael.taylor@domain.com,(323) 554-5109,Other Metro,Beauty & Health,Cash on Delivery,3,421.14
+TXN-11406,2024-06-15,Chris Taylor,chris.taylor@domain.com,(419) 626-9724,Los Angeles,Fashion & Apparel,Credit Card,10,285.68
+TXN-11407,2024-06-15,Sarah Anderson,unspecified@customer.org,(624) 551-3407,Houston,Fashion & Apparel,Credit Card,6,129.29
+TXN-11408,2024-06-15,David Davis,david.davis@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Cash on Delivery,10,580.62
+TXN-11409,2024-06-15,Alex Brown,alex.brown@domain.com,Not Provided,Los Angeles,Fashion & Apparel,Cash on Delivery,4,819.11
+TXN-11410,2024-06-15,Daniel Davis,daniel.davis@domain.com,Not Provided,Houston,Home & Kitchen,Cash on Delivery,10,388.32
+TXN-11411,2024-06-15,Jane Jones,jane.jones@domain.com,(779) 350-3450,Miami,Home & Kitchen,PayPal,10,30.0
+TXN-11412,2024-06-15,Alex Smith,alex.smith@domain.com,Not Provided,Chicago,Fashion & Apparel,PayPal,6,279.45
+TXN-11413,2024-06-15,Sarah Smith,sarah.smith@domain.com,(220) 726-7353,Other Metro,Beauty & Health,PayPal,2,538.59
+TXN-11414,2024-06-15,Jessica Anderson,jessica.anderson@domain.com,(947) 418-8004,Chicago,Electronics,Cash on Delivery,2,264.51
+TXN-11415,2024-06-15,Sarah Taylor,unspecified@customer.org,(457) 550-8977,New York,Beauty & Health,Debit Card,9,807.04
+TXN-11416,2024-06-15,Michael Anderson,unspecified@customer.org,(687) 259-7142,Los Angeles,Beauty & Health,PayPal,2,727.35
+TXN-11417,2024-06-15,Chris Brown,chris.brown@domain.com,(366) 551-8305,Other Metro,Home & Kitchen,Credit Card,8,661.48
+TXN-11418,2024-06-15,John Taylor,john.taylor@domain.com,Not Provided,New York,Electronics,Cash on Delivery,7,227.91
+TXN-11419,2024-06-15,Michael Johnson,michael.johnson@domain.com,Not Provided,Chicago,Electronics,Cash on Delivery,8,492.64
+TXN-11420,2024-06-15,John Johnson,john.johnson@domain.com,Not Provided,New York,Fashion & Apparel,Credit Card,11,752.85
+TXN-11421,2024-06-15,Emily Smith,emily.smith@domain.com,Not Provided,Houston,Fashion & Apparel,PayPal,3,76.63
+TXN-11422,2024-06-15,John Johnson,john.johnson@domain.com,(236) 840-6776,New York,Electronics,Debit Card,11,586.88
+TXN-11423,2024-06-15,Jane Jones,jane.jones@domain.com,Not Provided,New York,Home & Kitchen,Cash on Delivery,2,423.0
+TXN-11424,2024-01-15,Chris Anderson,unspecified@customer.org,(479) 845-8189,Miami,Electronics,Credit Card,7,444.98
+TXN-11425,2024-12-02,Sarah Johnson,sarah.johnson@domain.com,Not Provided,Other Metro,Beauty & Health,Debit Card,4,142.56
+TXN-11426,2024-09-08,Jessica Anderson,jessica.anderson@domain.com,(377) 861-7003,Los Angeles,Fashion & Apparel,PayPal,9,776.59
+TXN-11427,2024-06-15,Sarah Brown,sarah.brown@domain.com,Not Provided,Chicago,Home & Kitchen,Cash on Delivery,4,644.22
+TXN-11428,2024-06-15,David Williams,david.williams@domain.com,Not Provided,Other Metro,Fashion & Apparel,PayPal,4,497.46
+TXN-11429,2024-09-16,Alex Miller,alex.miller@domain.com,(766) 178-1679,New York,Home & Kitchen,PayPal,9,663.6
+TXN-11430,2024-02-23,Emily Smith,emily.smith@domain.com,(723) 656-9200,Chicago,Fashion & Apparel,PayPal,11,182.36
+TXN-11431,2024-06-15,David Miller,unspecified@customer.org,Not Provided,New York,Home & Kitchen,Credit Card,10,93.5
+TXN-11432,2024-11-10,John Jones,john.jones@domain.com,Not Provided,Houston,Home & Kitchen,Cash on Delivery,2,769.02
+TXN-11433,2024-12-05,Jessica Davis,jessica.davis@domain.com,(412) 628-1418,Houston,Fashion & Apparel,Debit Card,11,340.32
+TXN-11434,2024-06-15,Emily Jones,emily.jones@domain.com,(827) 849-5147,New York,Fashion & Apparel,Debit Card,8,673.18
+TXN-11435,2024-06-15,John Taylor,john.taylor@domain.com,Not Provided,Chicago,Beauty & Health,Credit Card,2,304.3
+TXN-11436,2024-06-15,John Davis,john.davis@domain.com,(697) 517-8155,Other Metro,Home & Kitchen,Debit Card,6,511.29
+TXN-11437,2024-06-08,Jane Brown,jane.brown@domain.com,(723) 542-7394,Chicago,Electronics,PayPal,8,197.21
+TXN-11438,2024-06-15,Daniel Johnson,daniel.johnson@domain.com,(403) 798-3934,Other Metro,Electronics,Cash on Delivery,9,444.98
+TXN-11439,2024-06-15,Michael Brown,unspecified@customer.org,Not Provided,Miami,Home & Kitchen,PayPal,2,776.32
+TXN-11440,2024-06-15,Jessica Taylor,jessica.taylor@domain.com,Not Provided,Chicago,Beauty & Health,Debit Card,9,701.9
+TXN-11441,2024-12-02,Sarah Miller,sarah.miller@domain.com,(809) 568-5228,New York,Beauty & Health,PayPal,9,71.2
+TXN-11442,2024-06-15,Emily Smith,emily.smith@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,8,57.15
+TXN-11443,2024-03-31,Jane Williams,jane.williams@domain.com,(803) 359-2074,Houston,Fashion & Apparel,Credit Card,11,223.17
+TXN-11444,2024-06-15,Jane Miller,jane.miller@domain.com,Not Provided,Chicago,Electronics,Debit Card,7,846.74
+TXN-11445,2024-06-15,Jane Williams,jane.williams@domain.com,Not Provided,Chicago,Electronics,Credit Card,8,693.93
+TXN-11446,2024-06-15,Sarah Johnson,sarah.johnson@domain.com,Not Provided,Other Metro,Electronics,Cash on Delivery,2,545.33
+TXN-11447,2024-10-28,Sarah Taylor,sarah.taylor@domain.com,(510) 484-4872,Houston,Electronics,Cash on Delivery,7,696.37
+TXN-11448,2024-05-24,Michael Davis,michael.davis@domain.com,Not Provided,New York,Electronics,PayPal,4,73.28
+TXN-11449,2024-01-04,Chris Smith,chris.smith@domain.com,(831) 378-3801,Other Metro,Home & Kitchen,PayPal,9,454.53
+TXN-11450,2024-06-15,Jane Miller,jane.miller@domain.com,(543) 870-1768,Other Metro,Electronics,Debit Card,10,97.07
+TXN-11451,2024-06-15,Sarah Anderson,sarah.anderson@domain.com,Not Provided,Chicago,Electronics,Credit Card,2,609.58
+TXN-11452,2024-02-26,Daniel Anderson,daniel.anderson@domain.com,(604) 595-8353,Los Angeles,Home & Kitchen,Debit Card,9,49.72
+TXN-11453,2024-05-20,Alex Brown,alex.brown@domain.com,(695) 313-2335,New York,Electronics,PayPal,4,444.98
+TXN-11454,2024-04-19,Michael Taylor,michael.taylor@domain.com,(472) 906-8177,New York,Fashion & Apparel,Cash on Delivery,1,490.95
+TXN-11455,2024-06-15,Sarah Brown,sarah.brown@domain.com,(261) 185-4060,Other Metro,Electronics,Cash on Delivery,1,458.46
+TXN-11456,2024-06-15,Alex Wilson,alex.wilson@domain.com,(677) 691-1019,Chicago,Home & Kitchen,Credit Card,11,28.61
+TXN-11457,2024-06-15,Emily Wilson,emily.wilson@domain.com,Not Provided,Houston,Fashion & Apparel,Cash on Delivery,1,459.97
+TXN-11458,2024-01-09,Sarah Johnson,sarah.johnson@domain.com,Not Provided,Miami,Electronics,Credit Card,5,271.67
+TXN-11459,2024-06-15,Michael Davis,michael.davis@domain.com,Not Provided,Houston,Electronics,Cash on Delivery,10,783.0
+TXN-11460,2024-06-15,David Davis,david.davis@domain.com,(477) 356-8471,Miami,Fashion & Apparel,Debit Card,10,409.61
+TXN-11461,2024-01-31,David Taylor,david.taylor@domain.com,(773) 480-1312,Other Metro,Fashion & Apparel,Debit Card,3,219.49
+TXN-11462,2024-06-15,Emily Miller,emily.miller@domain.com,Not Provided,Miami,Electronics,Debit Card,8,54.74
+TXN-11463,2024-06-15,David Taylor,david.taylor@domain.com,Not Provided,Los Angeles,Electronics,Debit Card,4,297.53
+TXN-11464,2024-06-15,Chris Davis,chris.davis@domain.com,Not Provided,Los Angeles,Electronics,Credit Card,8,491.12
+TXN-11465,2024-06-15,David Davis,david.davis@domain.com,(774) 586-8573,Los Angeles,Electronics,PayPal,4,454.21
+TXN-11466,2024-06-15,Jane Wilson,jane.wilson@domain.com,Not Provided,New York,Fashion & Apparel,PayPal,4,592.79
+TXN-11467,2024-06-15,John Smith,unspecified@customer.org,Not Provided,Los Angeles,Fashion & Apparel,Credit Card,2,438.89
+TXN-11468,2024-06-15,Sarah Jones,sarah.jones@domain.com,(219) 576-8097,Chicago,Electronics,Cash on Delivery,4,24.51
+TXN-11469,2024-06-15,Jessica Jones,unspecified@customer.org,(755) 242-3548,New York,Electronics,Credit Card,9,680.34
+TXN-11470,2024-06-18,Jessica Anderson,jessica.anderson@domain.com,Not Provided,New York,Beauty & Health,PayPal,1,783.11
+TXN-11471,2024-06-15,Daniel Miller,unspecified@customer.org,(841) 734-2993,Other Metro,Home & Kitchen,PayPal,4,823.77
+TXN-11472,2024-06-15,Emily Davis,emily.davis@domain.com,(606) 982-9445,Other Metro,Electronics,Cash on Delivery,10,709.74
+TXN-11473,2024-06-15,Jessica Wilson,jessica.wilson@domain.com,(206) 914-5272,New York,Home & Kitchen,Credit Card,2,155.04
+TXN-11474,2024-06-15,John Smith,john.smith@domain.com,(581) 937-7022,Other Metro,Fashion & Apparel,Credit Card,7,276.87
+TXN-11475,2024-06-15,Chris Miller,chris.miller@domain.com,(414) 361-8058,Los Angeles,Home & Kitchen,Credit Card,8,645.53
+TXN-11476,2024-05-10,Emily Williams,emily.williams@domain.com,Not Provided,Other Metro,Home & Kitchen,Credit Card,6,547.8
+TXN-11477,2024-06-15,Chris Wilson,chris.wilson@domain.com,Not Provided,New York,Electronics,Debit Card,6,444.98
+TXN-11478,2024-07-08,Michael Davis,michael.davis@domain.com,(262) 786-8158,Other Metro,Fashion & Apparel,Debit Card,8,686.33
+TXN-11479,2024-06-15,Jessica Taylor,jessica.taylor@domain.com,Not Provided,Other Metro,Electronics,Cash on Delivery,10,511.72
+TXN-11480,2024-06-15,Alex Anderson,alex.anderson@domain.com,(493) 424-7336,New York,Fashion & Apparel,Credit Card,7,79.67
+TXN-11481,2024-04-19,Daniel Smith,daniel.smith@domain.com,(664) 195-5899,Chicago,Home & Kitchen,Credit Card,8,422.54
+TXN-11482,2024-06-15,Emily Jones,emily.jones@domain.com,(698) 105-6825,Chicago,Fashion & Apparel,Cash on Delivery,8,734.92
+TXN-11483,2024-06-15,Alex Davis,alex.davis@domain.com,(584) 534-7078,Miami,Electronics,PayPal,4,843.77
+TXN-11484,2024-06-15,Jessica Jones,jessica.jones@domain.com,(516) 686-9679,New York,Home & Kitchen,PayPal,2,676.78
+TXN-11485,2024-06-15,Alex Williams,alex.williams@domain.com,(341) 350-4817,Other Metro,Home & Kitchen,PayPal,4,278.35
+TXN-11486,2024-06-15,David Miller,david.miller@domain.com,(852) 116-7750,Other Metro,Electronics,Cash on Delivery,10,817.83
+TXN-11487,2024-06-15,Michael Davis,michael.davis@domain.com,Not Provided,Chicago,Electronics,Credit Card,4,343.23
+TXN-11488,2024-06-15,Alex Smith,alex.smith@domain.com,Not Provided,Other Metro,Fashion & Apparel,Credit Card,6,435.63
+TXN-11489,2024-06-15,Michael Anderson,michael.anderson@domain.com,(240) 639-7510,Chicago,Electronics,Credit Card,3,67.49
+TXN-11490,2024-06-15,David Johnson,david.johnson@domain.com,(320) 851-1606,Los Angeles,Home & Kitchen,PayPal,11,342.64
+TXN-11491,2024-05-29,Michael Anderson,michael.anderson@domain.com,Not Provided,Los Angeles,Electronics,PayPal,1,232.4
+TXN-11492,2024-06-15,Emily Miller,emily.miller@domain.com,(584) 856-6085,Miami,Home & Kitchen,Credit Card,3,177.17
+TXN-11493,2024-12-03,Alex Miller,alex.miller@domain.com,Not Provided,Other Metro,Home & Kitchen,PayPal,11,309.8
+TXN-11494,2024-06-15,Chris Williams,chris.williams@domain.com,(888) 469-4739,Chicago,Beauty & Health,Cash on Delivery,5,448.71
+TXN-11495,2024-08-13,John Johnson,john.johnson@domain.com,(334) 957-2878,New York,Home & Kitchen,Debit Card,5,41.31
+TXN-11496,2024-06-15,Michael Smith,michael.smith@domain.com,(410) 498-2396,Los Angeles,Beauty & Health,Debit Card,6,677.74
+TXN-11497,2024-06-15,David Williams,david.williams@domain.com,(625) 105-6209,Miami,Home & Kitchen,Cash on Delivery,9,49.93
+TXN-11498,2024-06-15,Michael Miller,michael.miller@domain.com,(830) 894-6603,Other Metro,Fashion & Apparel,Cash on Delivery,5,679.83
+TXN-11499,2024-06-15,Chris Anderson,chris.anderson@domain.com,(210) 274-7017,Other Metro,Fashion & Apparel,Credit Card,1,39.15
+TXN-11500,2024-10-11,Emily Jones,unspecified@customer.org,(433) 547-1583,Los Angeles,Electronics,Credit Card,6,315.98

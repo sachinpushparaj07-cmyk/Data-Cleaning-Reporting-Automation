@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data Cleaning & Reporting Automation Suite</title>
+  <meta name="description" content="Automated data preprocessing, deduplication, imputation, and interactive reporting pipeline dashboard.">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- SheetJS -->
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark-theme">
+  <div class="app-layout">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-icon">
+          <i class="fa-solid fa-broom-ball"></i>
+        </div>
+        <div class="brand-text">
+          <h2>CleanPulse</h2>
+          <span>Automation & Reports</span>
+        </div>
+      </div>
+
+      <!-- Pipeline Filters -->
+      <div class="sidebar-group">
+        <div class="group-title">
+          <span><i class="fa-solid fa-filter"></i> Cohort Slicers</span>
+          <button id="reset-filters-btn" class="sub-link">Reset</button>
+        </div>
+
+        <div class="control-item">
+          <label for="category-slicer">Product Category</label>
+          <select id="category-slicer" class="custom-select">
+            <option value="all">All Harmonized Categories</option>
+          </select>
+        </div>
+
+        <div class="control-item">
+          <label for="city-slicer">Metro Area (Standardized)</label>
+          <select id="city-slicer" class="custom-select">
+            <option value="all">All Cities</option>
+          </select>
+        </div>
+
+        <div class="control-item">
+          <label for="payment-slicer">Payment Method</label>
+          <select id="payment-slicer" class="custom-select">
+            <option value="all">All Channels</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Pipeline Automation Execution Box -->
+      <div class="sidebar-group pipeline-box">
+        <div class="group-title">
+          <span><i class="fa-solid fa-gears"></i> Automated Pipeline</span>
+        </div>
+        <p class="pipeline-desc">Rules: Deduplication, Email/Phone formatting, negative inversion, IQR anomaly capping.</p>
+        
+        <div class="health-chip">
+          <i class="fa-solid fa-shield-halved"></i>
+          <span>Data Quality: <strong id="health-score-val">100.0%</strong></span>
+        </div>
+
+        <div class="export-actions">
+          <button id="export-cleaned-btn" class="btn btn-primary">
+            <i class="fa-solid fa-file-excel"></i> Export Cleaned Excel
+          </button>
+          <button id="export-audit-btn" class="btn btn-secondary">
+            <i class="fa-solid fa-clipboard-check"></i> Export Audit Log (CSV)
+          </button>
+        </div>
+      </div>
+
+      <div class="sidebar-footer">
+        <div class="live-status">
+          <span class="pulsing-dot"></span>
+          <span id="sidebar-record-count">1,500 Validated Records</span>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+      <!-- Topbar -->
+      <header class="topbar">
+        <div>
+          <h1 class="main-title">Data Cleaning & Reporting Automation</h1>
+          <p class="main-subtitle">Automated pipeline resolving duplicates, missing values, anomalies, and generating visual reports</p>
+        </div>
+        <div class="top-controls">
+          <div class="search-wrap">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <input type="text" id="global-search" placeholder="Search customer, email, transaction...">
+          </div>
+          <button id="theme-toggle" class="icon-btn" title="Toggle Theme">
+            <i class="fa-solid fa-sun"></i>
+          </button>
+        </div>
+      </header>
+
+      <!-- KPI Executive Summary Row -->
+      <section class="kpi-grid">
+        <div class="kpi-card purple">
+          <div class="kpi-top">
+            <span>Cleaned Transaction Volume</span>
+            <div class="icon-circle"><i class="fa-solid fa-circle-check"></i></div>
+          </div>
+          <h2 class="kpi-number" id="kpi-clean-count">1,500</h2>
+          <div class="kpi-sub positive">
+            <i class="fa-solid fa-trash-can"></i>
+            <span id="kpi-dups-removed">65 Duplicates Purged</span>
+          </div>
+        </div>
+
+        <div class="kpi-card blue">
+          <div class="kpi-top">
+            <span>Missing Values Handled</span>
+            <div class="icon-circle"><i class="fa-solid fa-screwdriver-wrench"></i></div>
+          </div>
+          <h2 class="kpi-number" id="kpi-missing-count">485</h2>
+          <div class="kpi-sub neutral">
+            <i class="fa-solid fa-calculator"></i>
+            <span>Standardized & Imputed</span>
+          </div>
+        </div>
+
+        <div class="kpi-card teal">
+          <div class="kpi-top">
+            <span>Total Harmonized Revenue</span>
+            <div class="icon-circle"><i class="fa-solid fa-dollar-sign"></i></div>
+          </div>
+          <h2 class="kpi-number" id="kpi-total-revenue">$0</h2>
+          <div class="kpi-sub positive">
+            <i class="fa-solid fa-arrow-trend-up"></i>
+            <span>Anomalies Capped</span>
+          </div>
+        </div>
+
+        <div class="kpi-card emerald">
+          <div class="kpi-top">
+            <span>Data Health Index</span>
+            <div class="icon-circle"><i class="fa-solid fa-heart-pulse"></i></div>
+          </div>
+          <h2 class="kpi-number" id="kpi-health-score">98.1% → 100%</h2>
+          <div class="kpi-sub highlight">
+            <i class="fa-solid fa-badge-check"></i>
+            <span>Production Ready</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Audit Log Timeline Card -->
+      <section class="panel-card">
+        <div class="panel-header">
+          <div>
+            <h3>Automated Pipeline Audit Trail</h3>
+            <p>Step-by-step transformations and affected row diagnostics</p>
+          </div>
+          <span class="badge-status"><i class="fa-solid fa-robot"></i> Pipeline Automated</span>
+        </div>
+        <div class="audit-list" id="audit-trail-container">
+          <!-- Dynamically populated -->
+        </div>
+      </section>
+
+      <!-- Charts Row: Visual Summaries -->
+      <section class="charts-row">
+        <div class="panel-card flex-1">
+          <div class="panel-header">
+            <div>
+              <h3>Category Revenue & Order Distribution</h3>
+              <p>Harmonized vertical revenue shares</p>
+            </div>
+          </div>
+          <div class="canvas-wrap">
+            <canvas id="categoryChart"></canvas>
+          </div>
+        </div>
+
+        <div class="panel-card flex-1">
+          <div class="panel-header">
+            <div>
+              <h3>Regional Order Volume</h3>
+              <p>Standardized metro market breakdown</p>
+            </div>
+          </div>
+          <div class="canvas-wrap">
+            <canvas id="cityChart"></canvas>
+          </div>
+        </div>
+      </section>
+
+      <!-- Cleaned Data Table -->
+      <section class="panel-card">
+        <div class="panel-header flex-between">
+          <div>
+            <h3>Cleaned & Harmonized Records</h3>
+            <p id="table-record-info">Showing records</p>
+          </div>
+          <div class="pagination">
+            <button id="prev-page-btn" class="nav-btn"><i class="fa-solid fa-chevron-left"></i></button>
+            <span id="page-display">Page 1 of 1</span>
+            <button id="next-page-btn" class="nav-btn"><i class="fa-solid fa-chevron-right"></i></button>
+          </div>
+        </div>
+
+        <div class="table-container">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th data-sort="TransactionID">ID <i class="fa-solid fa-sort"></i></th>
+                <th data-sort="Date">Date <i class="fa-solid fa-sort"></i></th>
+                <th data-sort="CustomerName">Customer <i class="fa-solid fa-sort"></i></th>
+                <th data-sort="Email">Email <i class="fa-solid fa-sort"></i></th>
+                <th>Phone</th>
+                <th data-sort="City">City <i class="fa-solid fa-sort"></i></th>
+                <th data-sort="Category">Category <i class="fa-solid fa-sort"></i></th>
+                <th>Payment</th>
+                <th data-sort="Quantity" class="align-right">Qty <i class="fa-solid fa-sort"></i></th>
+                <th data-sort="Amount" class="align-right">Clean Amount <i class="fa-solid fa-sort"></i></th>
+              </tr>
+            </thead>
+            <tbody id="cleaned-table-body">
+              <!-- Dynamically populated -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div id="toast" class="toast">
+    <i class="fa-solid fa-circle-check"></i>
+    <span id="toast-text">Loaded</span>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

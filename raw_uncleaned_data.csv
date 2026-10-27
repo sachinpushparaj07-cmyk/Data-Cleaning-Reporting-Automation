@@ -1,0 +1,1566 @@
+TransactionID,CustomerName,Email,Phone,Date,Category,City,PaymentMethod,Quantity,Amount
+TXN-10001,Alex Brown,alex.brown@domain.com,,2024/09/14,Beauty & Health,New York,CC,-6,196.24
+TXN-10002,Daniel Williams,daniel.williams@domain.com,220.940.6393,09/21/2024,Fashion,NY,COD,3,587.91
+TXN-10003,Emily Johnson,emily.johnson@domain.com,N/A,2024/07/08,Electronics,chicago,Cash on Delivery,9,640.28
+TXN-10004,Jessica Wilson, JESSICA.WILSON@DOMAIN.COM ,N/A,2024-05-14,fashion,Miami,CC,3,294.65
+TXN-10005,John Williams,john.williams@domain.com,597.970.7938,2024/02/11,Fashion,los angeles,CC,5,46.09
+TXN-10006,Michael Miller,michael.miller@domain.com,+1 (845) 895-4627,,Home,Miami,Debit Card,5,312.63
+TXN-10007,Chris Anderson,,+1 (763) 367-4581,01/02/2024,fashion,los angeles,PayPal,5,47.43
+TXN-10008,Alex Wilson,alex.wilson@domain.com,,2024/09/15,Electronics,Chicago,COD,7,202.8
+TXN-10009,Alex Johnson,alex.johnson@domain.com,+1 (350) 514-5061,2024-02-29,ELECTRONICS,new york,PayPal,9,97.28
+TXN-10010,Chris Miller, CHRIS.MILLER@DOMAIN.COM ,,12/03/2024,Home,Chicago,Cash on Delivery,5,561.13
+TXN-10011,Michael Smith,michael.smith@domain.com,7625376895,01/27/2024,Electronics,New York,PayPal,3,555.44
+TXN-10012,David Miller,missing,,2024/06/09,fashion,los angeles,credit card,8,329.33
+TXN-10013,Daniel Johnson,daniel.johnson@domain.com,+1 (445) 275-8206,2024/01/13,elec,NY,COD,3,436.26
+TXN-10014,Alex Miller,alex.miller@domain.com,,2024-09-20,Fashion,NY,PayPal,3,821.16
+TXN-10015,Daniel Williams,daniel.williams@domain.com,990.226.8560,04/05/2024,Home & Kitchen,new york,PayPal,5,171.78
+TXN-10016,Daniel Williams,,,01/23/2024,Home,Los Angeles,paypal,10,547.13
+TXN-10017,Emily Wilson,emily.wilson@domain.com,N/A,2024-11-18,elec,new york,Cash on Delivery,-2,771.44
+TXN-10018,John Taylor, JOHN.TAYLOR@DOMAIN.COM ,N/A,2024-08-04,elec,New York,Cash on Delivery,3,474.82
+TXN-10019,Chris Davis,chris.davis@domain.com,9284415492,2024-01-19,Apparel,Los Angeles,CC,4,815.59
+TXN-10020,Jessica Brown,jessica.brown@domain.com,,11-Jun-2024,Home & Kitchen,Chicago,credit card,1,605.84
+TXN-10021,Jessica Johnson,jessica.johnson@domain.com,N/A,10/18/2024,ELECTRONICS,NY,PayPal,3,419.78
+TXN-10022,Daniel Brown,,N/A,2024/06/21,Fashion,chicago,credit card,4,287.83
+TXN-10023,Jessica Smith,jessica.smith@domain.com,,01/08/2024,fashion,New York,Credit Card,9,
+TXN-10024,John Jones,john.jones@domain.com,+1 (757) 646-4324,2024/01/10,Electronics,Miami,paypal,2,477.82
+TXN-10025,Daniel Anderson,daniel.anderson@domain.com,,2024-12-16,Beauty & Health,New York,CC,1,481.01
+TXN-10026,Emily Smith,emily.smith@domain.com,N/A,09-Aug-2024,elec,Miami,CC,5,-131.23
+TXN-10027,Alex Miller,alex.miller@domain.com,N/A,30-Jan-2024,Home,Los Angeles,credit card,1,599.04
+TXN-10028,Sarah Jones,sarah.jones@domain.com,5736199472,17-Dec-2024,fashion,Los Angeles,Debit Card,2,827.68
+TXN-10029,John Jones,john.jones@domain.com,3203137493,2024/11/14,Home & Kitchen,Chicago,credit card,8,249.81
+TXN-10030,Daniel Wilson,daniel.wilson@domain.com,+1 (562) 850-2531,2024-04-28,Fashion,chicago,PayPal,9,488.09
+TXN-10031,Daniel Williams,daniel.williams@domain.com,568.847.7738,11/15/2024,Home & Kitchen,N.Y.,Debit Card,5,
+TXN-10032,Chris Davis,N/A,+1 (239) 328-6342,2024/04/03,fashion,N.Y.,CC,5,701.32
+TXN-10033,Emily Smith,emily.smith@domain.com,,2024/05/17,Home,LA,Cash on Delivery,9,
+TXN-10034,Michael Smith,michael.smith@domain.com,,23-Nov-2024,Fashion,chicago,paypal,11,187.35
+TXN-10035,Daniel Anderson,daniel.anderson@domain.com,222.674.3190,2024/11/04,Electronics,N.Y.,Debit Card,10,470.56
+TXN-10036,Alex Brown,alex.brown@domain.com,N/A,2024/08/03,ELECTRONICS,new york,PayPal,-2,681.76
+TXN-10037,Emily Taylor,emily.taylor@domain.com,545.401.9554,2024/04/20,Electronics,Houston,Credit Card,8,793.66
+TXN-10038,Sarah Williams,sarah.williams@domain.com,+1 (606) 868-6732,01-Jan-2024,Apparel,Houston,Credit Card,10,208.74
+TXN-10039,Michael Brown,michael.brown@domain.com,+1 (409) 574-9609,,Home & Kitchen,New York,PayPal,2,278.52
+TXN-10040,Jessica Smith,jessica.smith@domain.com,,2024-10-31,Electronics,NY,Debit Card,2,714.35
+TXN-10041,Sarah Williams,sarah.williams@domain.com,N/A,10/14/2024,Apparel,new york,CC,8,358.63
+TXN-10042,john  WILSON ,john.wilson@domain.com,651.599.9356,01/07/2024,elec,NY,Credit Card,3,-192.55
+TXN-10043,David Brown,david.brown@domain.com,9333258083,2024/12/07,Electronics,chicago,COD,1,740.83
+TXN-10044,Jane Anderson,jane.anderson@domain.com,+1 (203) 765-9633,2024-02-03,fashion,Miami,COD,11,432.9
+TXN-10045,Jane Anderson,jane.anderson@domain.com,,18-Oct-2024,fashion,NY,Cash on Delivery,7,343.12
+TXN-10046,Chris Miller,chris.miller@domain.com,443.590.8101,07/19/2024,Home & Kitchen,new york,CC,8,305.84
+TXN-10047,jane  JONES , JANE.JONES@DOMAIN.COM ,6969145107,20-Sep-2024,Beauty & Health,Houston,Cash on Delivery,9,566.79
+TXN-10048,Daniel Davis,daniel.davis@domain.com,8879392521,2024-08-02,Home,new york,PayPal,1,735.5
+TXN-10049,Jane Williams,jane.williams@domain.com,696.615.6468,04/17/2024,ELECTRONICS,Miami,Cash on Delivery,2,14119.35
+TXN-10050,Emily Smith,emily.smith@domain.com,558.439.4760,11/19/2024,Beauty & Health,Chicago,PayPal,9,-54.94
+TXN-10051,Daniel Jones,,N/A,14-Dec-2024,ELECTRONICS,Chicago,Debit Card,9,709.43
+TXN-10052,David Jones,david.jones@domain.com,,2024-04-29,Beauty & Health,new york,Credit Card,3,512.14
+TXN-10053,Jane Taylor,jane.taylor@domain.com,N/A,2024-06-24,Home,Chicago,credit card,3,842.92
+TXN-10054,Chris Smith,chris.smith@domain.com,5447925286,06-Jul-2024,Home & Kitchen,NY,PayPal,11,
+TXN-10055,Jane Davis,N/A,8995472007,2024-03-14,Fashion,NY,PayPal,4,303.75
+TXN-10056,John Miller, JOHN.MILLER@DOMAIN.COM ,4848159954,,elec,N.Y.,Credit Card,10,288.6
+TXN-10057,Michael Anderson,michael.anderson@domain.com,,2024/10/29,elec,new york,COD,10,820.55
+TXN-10058,John Anderson,john.anderson@domain.com,5086199782,06/22/2024,Beauty & Health,los angeles,Credit Card,3,539.76
+TXN-10059,Emily Brown,emily.brown@domain.com,+1 (925) 600-1116,2024-03-12,fashion,chicago,COD,9,345.77
+TXN-10060,Sarah Williams,sarah.williams@domain.com,509.185.3720,2024-08-12,elec,NY,credit card,6,88.48
+TXN-10061,Alex Smith,alex.smith@domain.com,558.322.1552,12/13/2024,ELECTRONICS,chicago,PayPal,6,528.17
+TXN-10062,daniel  JOHNSON ,daniel.johnson@domain.com,9327303356,,fashion,New York,Cash on Delivery,10,562.21
+TXN-10063,John Jones,john.jones@domain.com,731.251.2712,04/26/2024,ELECTRONICS,NY,COD,3,744.94
+TXN-10064,David Smith,david.smith@domain.com,N/A,04/20/2024,ELECTRONICS,Los Angeles,paypal,9,318.16
+TXN-10065,John Wilson,john.wilson@domain.com,N/A,2024-12-15,Apparel,Los Angeles,PayPal,4,226.43
+TXN-10066,David Smith,david.smith@domain.com,,01-Jan-2024,elec,Chicago,CC,10,169.41
+TXN-10067,Jane Anderson,jane.anderson@domain.com,627.393.7294,01/08/2024,Home & Kitchen,Houston,CC,2,626.59
+TXN-10068,Daniel Johnson,daniel.johnson@domain.com,N/A,07/10/2024,elec,LA,Debit Card,9,739.14
+TXN-10069,Emily Miller,emily.miller@domain.com,+1 (478) 950-2388,03/16/2024,fashion,Houston,CC,1,597.24
+TXN-10070,Michael Wilson,michael.wilson@domain.com,649.553.2177,2024-10-30,Apparel,los angeles,CC,11,415.66
+TXN-10071,Alex Jones,alex.jones@domain.com,,2024/08/26,Home & Kitchen,Houston,Cash on Delivery,4,278.39
+TXN-10072,Alex Wilson,alex.wilson@domain.com,,2024/08/01,Electronics,Houston,CC,8,196.0
+TXN-10073,David Brown,david.brown@domain.com,,2024/05/29,elec,new york,Cash on Delivery,9,211.1
+TXN-10074,David Johnson,david.johnson@domain.com,N/A,2024-08-19,elec,Los Angeles,PayPal,4,179.25
+TXN-10075,David Wilson,david.wilson@domain.com,+1 (580) 157-8426,10/17/2024,Beauty & Health,los angeles,COD,9,296.86
+TXN-10076,John Wilson,john.wilson@domain.com,N/A,2024/08/18,elec,chicago,paypal,1,
+TXN-10077,Jane Anderson,jane.anderson@domain.com,N/A,2024/04/10,fashion,new york,COD,8,792.39
+TXN-10078,Alex Brown, ALEX.BROWN@DOMAIN.COM ,+1 (329) 565-8373,2024/04/19,Apparel,NY,PayPal,5,165.12
+TXN-10079,jessica  BROWN ,jessica.brown@domain.com,,02/12/2024,elec,Chicago,Cash on Delivery,9,322.78
+TXN-10080,Jessica Davis,jessica.davis@domain.com,+1 (389) 593-7406,10-Apr-2024,ELECTRONICS,los angeles,CC,5,164.21
+TXN-10081,Sarah Davis, SARAH.DAVIS@DOMAIN.COM ,604.345.5837,,Electronics,Miami,Cash on Delivery,4,220.2
+TXN-10082,David Brown,david.brown@domain.com,963.693.5839,01/21/2024,Home,Los Angeles,PayPal,1,812.93
+TXN-10083,Alex Johnson,alex.johnson@domain.com,,2024-05-31,ELECTRONICS,Miami,credit card,3,632.13
+TXN-10084,David Jones,david.jones@domain.com,+1 (749) 722-7511,11/24/2024,elec,Houston,paypal,9,
+TXN-10085,Emily Wilson,emily.wilson@domain.com,3827645583,2024/11/29,Home,Los Angeles,CC,3,155.86
+TXN-10086,Daniel Davis,daniel.davis@domain.com,N/A,11-Aug-2024,Fashion,Miami,credit card,2,645.15
+TXN-10087,Michael Davis,michael.davis@domain.com,N/A,2024/10/07,Home,new york,COD,3,153.5
+TXN-10088,Daniel Johnson,daniel.johnson@domain.com,212.492.3547,2024/02/23,fashion,Chicago,CC,3,188.06
+TXN-10089,David Taylor,david.taylor@domain.com,N/A,2024-02-26,Fashion,Chicago,Debit Card,10,
+TXN-10090,Chris Johnson, CHRIS.JOHNSON@DOMAIN.COM ,5132161867,2024/06/21,Beauty & Health,LA,paypal,11,
+TXN-10091,John Smith,john.smith@domain.com,323.174.4471,2024-09-15,ELECTRONICS,Houston,CC,3,506.22
+TXN-10092,David Jones,david.jones@domain.com,N/A,2024-11-21,Home,Houston,Debit Card,-4,526.49
+TXN-10093,Sarah Davis,sarah.davis@domain.com,7816556347,03/24/2024,Fashion,Chicago,Cash on Delivery,2,135.57
+TXN-10094,alex  JONES ,alex.jones@domain.com,9294042938,2024-12-10,fashion,los angeles,Credit Card,10,310.09
+TXN-10095,John Wilson,john.wilson@domain.com,809.593.4648,2024/04/07,ELECTRONICS,New York,COD,11,560.31
+TXN-10096,Alex Jones,alex.jones@domain.com,8277031781,06/16/2024,ELECTRONICS,LA,Cash on Delivery,1,483.12
+TXN-10097,Emily Davis,emily.davis@domain.com,N/A,2024/03/25,elec,los angeles,COD,4,348.66
+TXN-10098,Michael Williams,michael.williams@domain.com,8187123307,2024-02-01,elec,N.Y.,PayPal,5,439.32
+TXN-10099,Sarah Taylor, SARAH.TAYLOR@DOMAIN.COM ,N/A,13-May-2024,ELECTRONICS,Houston,COD,8,840.09
+TXN-10100,david  WILSON ,david.wilson@domain.com,,17-Apr-2024,Home & Kitchen,LA,Credit Card,3,230.8
+TXN-10101,Emily Smith,emily.smith@domain.com,N/A,2024/05/21,Home & Kitchen,Miami,CC,1,655.83
+TXN-10102,Jane Wilson,jane.wilson@domain.com,+1 (901) 646-6661,03/23/2024,Beauty & Health,Miami,PayPal,7,22602.649999999998
+TXN-10103,Alex Anderson,alex.anderson@domain.com,+1 (636) 928-3723,11/29/2024,Home & Kitchen,New York,COD,6,73.53
+TXN-10104,Michael Johnson,michael.johnson@domain.com,N/A,03/16/2024,Beauty & Health,new york,PayPal,3,519.6
+TXN-10105,Alex Davis,alex.davis@domain.com,361.446.5005,2024/03/01,ELECTRONICS,N.Y.,COD,1,773.13
+TXN-10106,John Miller,missing,+1 (754) 503-5987,2024/09/21,ELECTRONICS,Miami,paypal,-9,532.17
+TXN-10107,John Wilson,john.wilson@domain.com,+1 (308) 367-7588,12/12/2024,Electronics,N.Y.,credit card,2,233.81
+TXN-10108,David Williams,david.williams@domain.com,854.140.6889,02-Nov-2024,Apparel,NY,paypal,3,436.79
+TXN-10109,Sarah Williams, SARAH.WILLIAMS@DOMAIN.COM ,+1 (467) 518-3282,06-May-2024,Home & Kitchen,chicago,paypal,4,697.88
+TXN-10110,Sarah Taylor,sarah.taylor@domain.com,N/A,06/15/2024,elec,new york,CC,4,377.34
+TXN-10111,John Smith,john.smith@domain.com,6339368069,07-Mar-2024,Apparel,Houston,paypal,-3,102.42
+TXN-10112,Daniel Jones,daniel.jones@domain.com,+1 (907) 885-7139,2024/04/18,Home & Kitchen,new york,CC,6,469.37
+TXN-10113,Daniel Johnson, DANIEL.JOHNSON@DOMAIN.COM ,,04/20/2024,ELECTRONICS,Los Angeles,Cash on Delivery,9,353.48
+TXN-10114,david  WILSON ,david.wilson@domain.com,,02-Sep-2024,ELECTRONICS,Houston,COD,6,
+TXN-10115,Emily Miller,emily.miller@domain.com,6988534536,08/06/2024,Electronics,New York,Credit Card,9,519.76
+TXN-10116,john  WILSON ,john.wilson@domain.com,6791214420,11/18/2024,Beauty & Health,new york,CC,3,545.01
+TXN-10117,Jane Wilson,,N/A,2024-05-07,fashion,Miami,CC,4,722.11
+TXN-10118,Chris Williams,chris.williams@domain.com,N/A,05/23/2024,Home & Kitchen,Chicago,Debit Card,7,80.51
+TXN-10119,Alex Miller,alex.miller@domain.com,+1 (432) 769-1436,01-Aug-2024,elec,NY,PayPal,4,437.56
+TXN-10120,Emily Jones,emily.jones@domain.com,975.565.7046,06-May-2024,fashion,New York,Cash on Delivery,2,354.03
+TXN-10121,Chris Johnson,chris.johnson@domain.com,N/A,04/09/2024,Home & Kitchen,Houston,paypal,5,380.07
+TXN-10122,John Anderson,N/A,8058128122,,ELECTRONICS,chicago,PayPal,2,318.84
+TXN-10123,Alex Anderson,alex.anderson@domain.com,365.558.4893,2024/08/03,Electronics,N.Y.,paypal,8,633.04
+TXN-10124,Michael Anderson,michael.anderson@domain.com,+1 (252) 685-4748,04/20/2024,fashion,New York,PayPal,11,-513.96
+TXN-10125,Alex Smith,alex.smith@domain.com,,2024-06-01,Home & Kitchen,N.Y.,Cash on Delivery,5,205.31
+TXN-10126,Michael Anderson,michael.anderson@domain.com,N/A,23-Jul-2024,elec,Miami,Cash on Delivery,8,577.46
+TXN-10127,Sarah Anderson,sarah.anderson@domain.com,N/A,2024-11-16,elec,Los Angeles,PayPal,2,
+TXN-10128,Emily Anderson,emily.anderson@domain.com,772.221.7420,03/18/2024,Electronics,Miami,paypal,11,400.64
+TXN-10129,Jane Miller,jane.miller@domain.com,+1 (895) 931-8866,30-Sep-2024,ELECTRONICS,Miami,paypal,6,-197.58
+TXN-10130,Jane Smith,jane.smith@domain.com,6947057976,2024-02-08,Apparel,Chicago,credit card,10,
+TXN-10131,Chris Johnson,chris.johnson@domain.com,+1 (354) 988-5444,04-Sep-2024,ELECTRONICS,new york,Credit Card,4,844.4
+TXN-10132,Alex Taylor,alex.taylor@domain.com,+1 (892) 190-2105,,Home,new york,paypal,5,165.43
+TXN-10133,Michael Taylor,michael.taylor@domain.com,604.561.3179,2024-04-25,ELECTRONICS,Los Angeles,Credit Card,9,174.49
+TXN-10134,Michael Wilson,missing,,09-Mar-2024,fashion,Los Angeles,Credit Card,9,-655.4
+TXN-10135,Daniel Wilson,daniel.wilson@domain.com,,12/08/2024,Fashion,los angeles,COD,11,289.99
+TXN-10136,Chris Miller,chris.miller@domain.com,N/A,2024/02/17,Beauty & Health,Chicago,credit card,3,127.85
+TXN-10137,Chris Davis,chris.davis@domain.com,+1 (366) 608-2661,05/20/2024,Electronics,new york,credit card,7,832.18
+TXN-10138,Emily Brown,missing,9588273972,16-Jun-2024,Beauty & Health,N.Y.,Cash on Delivery,3,276.33
+TXN-10139,Emily Davis,emily.davis@domain.com,N/A,2024/04/22,Apparel,LA,COD,9,274.62
+TXN-10140,John Johnson,john.johnson@domain.com,5906907358,05/07/2024,Electronics,NY,Debit Card,8,842.0
+TXN-10141,Daniel Jones,daniel.jones@domain.com,+1 (667) 524-4802,2024/10/17,fashion,N.Y.,CC,11,476.17
+TXN-10142,Jessica Miller, JESSICA.MILLER@DOMAIN.COM ,+1 (613) 408-3849,09-Apr-2024,Apparel,Miami,COD,11,738.86
+TXN-10143,Sarah Brown,sarah.brown@domain.com,336.263.1082,10/14/2024,Fashion,Miami,paypal,6,-104.57
+TXN-10144,Jessica Brown, JESSICA.BROWN@DOMAIN.COM ,,30-May-2024,elec,new york,Debit Card,2,31.41
+TXN-10145,Daniel Smith,missing,+1 (702) 749-2361,03/31/2024,Electronics,LA,paypal,7,659.72
+TXN-10146,Jessica Johnson,jessica.johnson@domain.com,941.779.6738,03/03/2024,Fashion,New York,Cash on Delivery,11,517.04
+TXN-10147,Michael Miller,michael.miller@domain.com,N/A,2024-03-09,Beauty & Health,los angeles,Debit Card,10,227.46
+TXN-10148,Alex Jones,alex.jones@domain.com,,2024-03-27,Apparel,los angeles,paypal,9,14116.55
+TXN-10149,Emily Davis,emily.davis@domain.com,8373348081,05/01/2024,fashion,new york,Debit Card,7,503.18
+TXN-10150,Chris Wilson,chris.wilson@domain.com,,2024-09-02,Electronics,los angeles,paypal,7,461.98
+TXN-10151,David Taylor,david.taylor@domain.com,,26-Apr-2024,Electronics,chicago,Debit Card,9,-230.22
+TXN-10152,Jessica Williams,jessica.williams@domain.com,+1 (612) 438-1658,08/19/2024,Fashion,chicago,Credit Card,9,188.88
+TXN-10153,Jane Johnson,jane.johnson@domain.com,N/A,11/26/2024,elec,Chicago,Cash on Delivery,-9,791.31
+TXN-10154,Jessica Brown,jessica.brown@domain.com,N/A,29-Jan-2024,Apparel,Houston,PayPal,7,181.83
+TXN-10155,Daniel Jones,daniel.jones@domain.com,2589248404,04/03/2024,elec,New York,COD,3,440.86
+TXN-10156,Sarah Anderson,sarah.anderson@domain.com,,2024/07/25,Electronics,Los Angeles,Cash on Delivery,1,836.14
+TXN-10157,Sarah Miller,sarah.miller@domain.com,,08/17/2024,ELECTRONICS,Miami,CC,4,226.68
+TXN-10158,john  WILLIAMS ,john.williams@domain.com,N/A,01-Jul-2024,ELECTRONICS,Miami,credit card,3,24.44
+TXN-10159,Daniel Anderson,daniel.anderson@domain.com,908.290.2338,2024-09-02,elec,Chicago,Cash on Delivery,11,800.14
+TXN-10160,david  JONES ,david.jones@domain.com,N/A,08/01/2024,Home,LA,PayPal,1,25025.35
+TXN-10161,Sarah Williams,sarah.williams@domain.com,,10/22/2024,Home,Miami,paypal,7,523.68
+TXN-10162,Alex Wilson,alex.wilson@domain.com,N/A,2024-08-18,Home & Kitchen,Houston,credit card,11,698.09
+TXN-10163,Emily Johnson,missing,4953352942,2024/04/19,fashion,N.Y.,Cash on Delivery,4,212.98
+TXN-10164,Jane Miller, JANE.MILLER@DOMAIN.COM ,6522912289,2024/04/21,elec,chicago,Debit Card,10,88.29
+TXN-10165,Jessica Johnson,jessica.johnson@domain.com,724.948.4103,2024/11/28,Home & Kitchen,N.Y.,CC,2,484.45
+TXN-10166,Jessica Wilson,jessica.wilson@domain.com,3316502695,07/09/2024,fashion,Chicago,Cash on Delivery,6,157.2
+TXN-10167,Chris Anderson,chris.anderson@domain.com,N/A,10-Dec-2024,Fashion,N.Y.,paypal,10,201.11
+TXN-10168,John Miller,john.miller@domain.com,930.208.8446,20-Apr-2024,Electronics,los angeles,paypal,6,25.34
+TXN-10169,Jane Johnson,,N/A,22-Feb-2024,Beauty & Health,New York,paypal,3,251.13
+TXN-10170,Jessica Anderson,jessica.anderson@domain.com,,2024/12/06,Beauty & Health,New York,CC,3,11951.800000000001
+TXN-10171,michael  WILSON ,michael.wilson@domain.com,4436797320,06/12/2024,ELECTRONICS,Chicago,COD,3,582.83
+TXN-10172,John Taylor,john.taylor@domain.com,,25-Jan-2024,ELECTRONICS,Chicago,paypal,8,224.73
+TXN-10173,Michael Taylor,michael.taylor@domain.com,+1 (304) 792-7305,2024-09-02,Electronics,N.Y.,Debit Card,5,800.38
+TXN-10174,Daniel Taylor,daniel.taylor@domain.com,2906295059,2024/08/01,Apparel,Houston,paypal,7,
+TXN-10175,David Davis,,N/A,27-Nov-2024,Home & Kitchen,Houston,paypal,10,491.42
+TXN-10176,chris  JOHNSON ,missing,812.210.3432,2024-11-30,Electronics,LA,Credit Card,6,
+TXN-10177,Sarah Williams,sarah.williams@domain.com,+1 (708) 894-1268,26-Jan-2024,Home & Kitchen,los angeles,Cash on Delivery,1,358.43
+TXN-10178,michael  WILLIAMS ,michael.williams@domain.com,N/A,05/20/2024,Fashion,Houston,PayPal,-11,566.27
+TXN-10179,Jane Williams,jane.williams@domain.com,,2024/11/08,Home & Kitchen,Los Angeles,Debit Card,2,644.49
+TXN-10180,Sarah Wilson,sarah.wilson@domain.com,345.882.2447,07/30/2024,Fashion,New York,Credit Card,1,1840.65
+TXN-10181,Michael Jones,michael.jones@domain.com,+1 (392) 249-3806,2024-01-18,Beauty & Health,NY,paypal,4,184.42
+TXN-10182,Chris Anderson,chris.anderson@domain.com,2478376578,2024-03-25,fashion,Miami,CC,9,272.82
+TXN-10183,John Williams,,630.338.7447,10-Nov-2024,Electronics,New York,COD,8,245.34
+TXN-10184,emily  JONES ,missing,,11-Oct-2024,Fashion,N.Y.,Credit Card,5,595.86
+TXN-10185,Sarah Brown,sarah.brown@domain.com,N/A,24-Nov-2024,Apparel,N.Y.,Cash on Delivery,4,557.93
+TXN-10186,David Miller, DAVID.MILLER@DOMAIN.COM ,346.589.6308,2024/07/05,Home,New York,CC,7,533.58
+TXN-10187,Alex Jones,,547.420.5654,2024/04/15,Electronics,LA,credit card,3,70.64
+TXN-10188,John Johnson,john.johnson@domain.com,,2024/09/02,Home,chicago,PayPal,10,121.27
+TXN-10189,Daniel Anderson,daniel.anderson@domain.com,520.534.2409,11-Oct-2024,elec,Houston,PayPal,5,
+TXN-10190,Sarah Wilson,sarah.wilson@domain.com,,2024/05/02,Electronics,los angeles,Debit Card,6,
+TXN-10191,Alex Smith,alex.smith@domain.com,,13-Oct-2024,Fashion,new york,paypal,7,-231.22
+TXN-10192,Jessica Miller,jessica.miller@domain.com,,02/23/2024,Fashion,LA,COD,1,759.79
+TXN-10193,Michael Smith,michael.smith@domain.com,,2024-06-19,Fashion,Chicago,credit card,11,657.02
+TXN-10194,Daniel Williams,daniel.williams@domain.com,9793067582,06/02/2024,Electronics,new york,COD,6,54.51
+TXN-10195,Chris Brown,chris.brown@domain.com,+1 (516) 423-8833,2024-09-25,fashion,chicago,Cash on Delivery,7,271.5
+TXN-10196,Alex Johnson,alex.johnson@domain.com,+1 (253) 640-8008,07/26/2024,Apparel,LA,PayPal,10,352.58
+TXN-10197,Daniel Miller,daniel.miller@domain.com,,,ELECTRONICS,Chicago,paypal,2,
+TXN-10198,Chris Williams,chris.williams@domain.com,+1 (743) 945-6275,2024/02/08,Fashion,NY,credit card,2,410.03
+TXN-10199,David Davis,david.davis@domain.com,,2024-01-30,Home & Kitchen,New York,CC,6,143.79
+TXN-10200,David Johnson, DAVID.JOHNSON@DOMAIN.COM ,620.285.5675,20-Jun-2024,ELECTRONICS,los angeles,Credit Card,7,671.06
+TXN-10201,Jessica Taylor,N/A,,02-May-2024,ELECTRONICS,new york,COD,6,636.1
+TXN-10202,Chris Davis, CHRIS.DAVIS@DOMAIN.COM ,,22-Nov-2024,Home,Chicago,Credit Card,10,702.54
+TXN-10203,Jessica Johnson,jessica.johnson@domain.com,,02/12/2024,Fashion,New York,PayPal,9,578.08
+TXN-10204,jessica  JOHNSON ,jessica.johnson@domain.com,628.368.8876,12/03/2024,ELECTRONICS,new york,Cash on Delivery,9,113.26
+TXN-10205,David Taylor,david.taylor@domain.com,N/A,2024/12/13,ELECTRONICS,Chicago,COD,10,
+TXN-10206,Sarah Davis,missing,,03/05/2024,Electronics,Los Angeles,Credit Card,11,575.45
+TXN-10207,Alex Davis, ALEX.DAVIS@DOMAIN.COM ,6314393693,2024-05-16,fashion,Los Angeles,PayPal,7,680.88
+TXN-10208,John Anderson,john.anderson@domain.com,,2024-12-20,Electronics,Miami,credit card,1,539.32
+TXN-10209,Jessica Johnson,jessica.johnson@domain.com,,02/14/2024,Fashion,NY,PayPal,10,75.92
+TXN-10210,Chris Brown,chris.brown@domain.com,N/A,09-Mar-2024,Beauty & Health,Chicago,CC,10,
+TXN-10211,jessica  JONES , JESSICA.JONES@DOMAIN.COM ,748.173.8675,2024/09/02,Home & Kitchen,chicago,Cash on Delivery,10,534.91
+TXN-10212,Jane Brown,jane.brown@domain.com,N/A,2024-07-10,Beauty & Health,los angeles,CC,8,356.42
+TXN-10213,Alex Smith, ALEX.SMITH@DOMAIN.COM ,431.790.4655,29-Sep-2024,Beauty & Health,los angeles,Credit Card,2,743.19
+TXN-10214,Chris Taylor, CHRIS.TAYLOR@DOMAIN.COM ,2206652894,23-Nov-2024,Fashion,new york,CC,8,279.72
+TXN-10215,Michael Miller,michael.miller@domain.com,N/A,2024-06-13,Electronics,Chicago,PayPal,3,416.08
+TXN-10216,Alex Johnson, ALEX.JOHNSON@DOMAIN.COM ,,2024/12/19,Beauty & Health,NY,credit card,2,503.58
+TXN-10217,Sarah Davis,sarah.davis@domain.com,7965442045,09/28/2024,fashion,New York,Cash on Delivery,5,367.74
+TXN-10218,Jessica Jones,N/A,625.796.6953,06/05/2024,elec,Miami,CC,4,747.24
+TXN-10219,John Taylor,,,2024-04-22,Fashion,new york,Cash on Delivery,10,696.51
+TXN-10220,Chris Johnson,chris.johnson@domain.com,9965733568,11/27/2024,Electronics,Chicago,COD,1,
+TXN-10221,Alex Williams,missing,733.558.3173,2024-04-07,Home,LA,CC,9,69.99
+TXN-10222,Chris Davis,N/A,,2024/01/16,Home & Kitchen,los angeles,PayPal,-11,420.77
+TXN-10223,David Davis,david.davis@domain.com,+1 (405) 689-9518,05/19/2024,Electronics,los angeles,Cash on Delivery,3,361.3
+TXN-10224,Daniel Davis,daniel.davis@domain.com,,02-Jun-2024,elec,Miami,Cash on Delivery,3,179.37
+TXN-10225,Jessica Smith,jessica.smith@domain.com,425.769.7269,2024/11/02,elec,N.Y.,credit card,11,506.8
+TXN-10226,Alex Anderson,N/A,+1 (914) 173-3223,2024/05/24,elec,Chicago,credit card,1,25.02
+TXN-10227,David Jones, DAVID.JONES@DOMAIN.COM ,+1 (473) 653-1495,,Apparel,los angeles,CC,11,
+TXN-10228,Daniel Brown,daniel.brown@domain.com,4726875272,18-Feb-2024,fashion,New York,Credit Card,4,838.19
+TXN-10229,jessica  TAYLOR ,jessica.taylor@domain.com,347.435.3713,2024-04-30,Electronics,Chicago,Debit Card,1,108.08
+TXN-10230,Jane Taylor, JANE.TAYLOR@DOMAIN.COM ,5792292299,15-Feb-2024,Fashion,LA,credit card,6,601.72
+TXN-10231,Emily Miller,emily.miller@domain.com,8465427666,09-Mar-2024,fashion,Chicago,credit card,8,118.86
+TXN-10232,Chris Williams,chris.williams@domain.com,+1 (563) 218-4309,24-Sep-2024,Electronics,Houston,credit card,5,157.99
+TXN-10233,Sarah Wilson, SARAH.WILSON@DOMAIN.COM ,N/A,09/09/2024,Home & Kitchen,chicago,Credit Card,4,
+TXN-10234,Daniel Miller,daniel.miller@domain.com,,02/26/2024,Beauty & Health,N.Y.,credit card,10,414.57
+TXN-10235,Daniel Taylor,daniel.taylor@domain.com,676.898.3623,2024-06-23,Apparel,Houston,Cash on Delivery,8,531.87
+TXN-10236,Emily Smith,emily.smith@domain.com,+1 (724) 907-6720,2024/05/19,ELECTRONICS,Houston,COD,6,114.04
+TXN-10237,Daniel Taylor,daniel.taylor@domain.com,+1 (793) 688-6092,01-Feb-2024,Home,los angeles,COD,2,558.41
+TXN-10238,Michael Brown,michael.brown@domain.com,4363362008,30-May-2024,Apparel,New York,PayPal,-9,
+TXN-10239,Jessica Jones,jessica.jones@domain.com,5644679761,02/11/2024,fashion,Los Angeles,paypal,-10,295.7
+TXN-10240,Michael Miller,michael.miller@domain.com,7206725753,2024-03-03,Fashion,Los Angeles,credit card,10,647.64
+TXN-10241,Daniel Smith,daniel.smith@domain.com,4932499624,19-Nov-2024,elec,los angeles,COD,8,795.2
+TXN-10242,John Taylor,john.taylor@domain.com,+1 (651) 563-5573,,Apparel,Los Angeles,Cash on Delivery,4,623.31
+TXN-10243,John Johnson,john.johnson@domain.com,,08-Mar-2024,fashion,Miami,PayPal,5,304.71
+TXN-10244,michael  JONES ,michael.jones@domain.com,N/A,10/22/2024,fashion,chicago,Credit Card,11,260.91
+TXN-10245,Alex Taylor, ALEX.TAYLOR@DOMAIN.COM ,685.793.9347,2024-07-16,Beauty & Health,LA,paypal,9,356.12
+TXN-10246,Alex Brown,,+1 (383) 467-7102,17-Nov-2024,elec,N.Y.,CC,-1,95.8
+TXN-10247,John Jones,john.jones@domain.com,N/A,2024-08-03,Home,Miami,CC,2,471.34
+TXN-10248,Alex Smith,,,2024-04-18,Home & Kitchen,New York,paypal,11,139.14
+TXN-10249,Jane Wilson,jane.wilson@domain.com,592.812.8367,08/07/2024,Fashion,LA,Cash on Delivery,6,822.3
+TXN-10250,Emily Wilson, EMILY.WILSON@DOMAIN.COM ,N/A,2024-05-01,elec,LA,paypal,-7,585.46
+TXN-10251,Daniel Williams, DANIEL.WILLIAMS@DOMAIN.COM ,N/A,2024/04/02,Apparel,Houston,Credit Card,4,230.81
+TXN-10252,Michael Jones,michael.jones@domain.com,+1 (458) 423-8160,2024-10-22,elec,chicago,paypal,3,721.24
+TXN-10253,Emily Johnson,emily.johnson@domain.com,+1 (566) 206-3486,2024-11-08,Apparel,Houston,CC,3,461.13
+TXN-10254,Alex Jones,alex.jones@domain.com,N/A,08/13/2024,fashion,LA,credit card,7,479.8
+TXN-10255,Sarah Brown,sarah.brown@domain.com,,10/19/2024,fashion,LA,CC,7,266.13
+TXN-10256,Jane Johnson,jane.johnson@domain.com,500.759.8959,07-May-2024,ELECTRONICS,chicago,COD,10,235.84
+TXN-10257,Sarah Taylor,sarah.taylor@domain.com,722.196.2893,2024/03/31,fashion,N.Y.,CC,7,556.44
+TXN-10258,Michael Johnson,michael.johnson@domain.com,,18-Feb-2024,Home,Los Angeles,Debit Card,10,318.85
+TXN-10259,John Jones,john.jones@domain.com,+1 (407) 410-1148,2024-09-20,elec,chicago,paypal,8,179.77
+TXN-10260,Jessica Taylor,jessica.taylor@domain.com,N/A,14-Jun-2024,Electronics,Miami,PayPal,10,291.19
+TXN-10261,Chris Davis,chris.davis@domain.com,736.172.3970,06/01/2024,fashion,Los Angeles,PayPal,2,
+TXN-10262,Alex Wilson,alex.wilson@domain.com,N/A,10/27/2024,Electronics,new york,Debit Card,8,32.16
+TXN-10263,Jessica Johnson,jessica.johnson@domain.com,+1 (498) 936-3441,2024-01-26,Electronics,Chicago,CC,2,564.95
+TXN-10264,Sarah Brown,,N/A,2024/10/18,fashion,Houston,paypal,-7,313.87
+TXN-10265,John Williams,john.williams@domain.com,+1 (955) 275-1237,29-Jul-2024,Electronics,Los Angeles,paypal,3,337.75
+TXN-10266,Daniel Anderson,daniel.anderson@domain.com,N/A,03/22/2024,elec,Houston,Cash on Delivery,10,703.09
+TXN-10267,emily  TAYLOR , EMILY.TAYLOR@DOMAIN.COM ,+1 (661) 964-2075,2024/08/21,ELECTRONICS,N.Y.,Credit Card,9,453.04
+TXN-10268,Michael Davis,michael.davis@domain.com,371.675.6073,10/26/2024,ELECTRONICS,new york,credit card,6,
+TXN-10269,Jessica Wilson,jessica.wilson@domain.com,,07/05/2024,Home,chicago,CC,9,630.91
+TXN-10270,David Wilson,david.wilson@domain.com,,06-Apr-2024,Apparel,LA,Cash on Delivery,5,337.81
+TXN-10271,john  DAVIS , JOHN.DAVIS@DOMAIN.COM ,865.787.1752,06/14/2024,fashion,LA,Debit Card,10,506.58
+TXN-10272,Daniel Davis,daniel.davis@domain.com,5936004766,09-Jan-2024,Home,Miami,Debit Card,3,728.1
+TXN-10273,Alex Smith,alex.smith@domain.com,,2024/07/28,ELECTRONICS,LA,Cash on Delivery,4,294.66
+TXN-10274,daniel  ANDERSON ,daniel.anderson@domain.com,+1 (263) 854-9961,2024-10-30,fashion,los angeles,COD,1,545.46
+TXN-10275,Emily Smith,missing,,,Home & Kitchen,chicago,credit card,5,144.42
+TXN-10276,chris  ANDERSON ,,540.960.8422,01/25/2024,Beauty & Health,chicago,CC,5,194.46
+TXN-10277,Michael Jones, MICHAEL.JONES@DOMAIN.COM ,667.514.4543,2024/07/30,Home,chicago,COD,9,8272.6
+TXN-10278,Jane Davis,jane.davis@domain.com,N/A,2024-03-30,Apparel,New York,Cash on Delivery,1,374.86
+TXN-10279,Jessica Smith,jessica.smith@domain.com,788.565.8830,2024-03-13,Fashion,Houston,credit card,2,622.63
+TXN-10280,Chris Jones,chris.jones@domain.com,N/A,2024/09/29,fashion,los angeles,Credit Card,6,399.94
+TXN-10281,Alex Smith,alex.smith@domain.com,,2024/04/15,Fashion,NY,Debit Card,6,429.22
+TXN-10282,Jane Jones,jane.jones@domain.com,+1 (381) 973-6021,04/09/2024,elec,N.Y.,Cash on Delivery,2,145.55
+TXN-10283,Emily Brown,N/A,703.805.9314,04/27/2024,Home & Kitchen,chicago,paypal,8,
+TXN-10284,Daniel Williams,daniel.williams@domain.com,,05/28/2024,ELECTRONICS,N.Y.,PayPal,6,401.78
+TXN-10285,Jane Johnson,jane.johnson@domain.com,6154256463,2024/12/03,elec,chicago,CC,6,553.53
+TXN-10286,Chris Davis,chris.davis@domain.com,578.821.8373,2024-04-27,Beauty & Health,Los Angeles,credit card,8,222.13
+TXN-10287,Alex Wilson,alex.wilson@domain.com,N/A,15-Jul-2024,Home & Kitchen,los angeles,paypal,8,338.53
+TXN-10288,Alex Johnson,alex.johnson@domain.com,7897194110,04/13/2024,ELECTRONICS,LA,CC,1,476.4
+TXN-10289,David Anderson, DAVID.ANDERSON@DOMAIN.COM ,,08/12/2024,Electronics,Miami,PayPal,8,561.76
+TXN-10290,John Wilson,missing,+1 (768) 397-8777,2024/11/18,ELECTRONICS,New York,Debit Card,-8,21097.649999999998
+TXN-10291,Sarah Wilson,sarah.wilson@domain.com,N/A,2024-04-22,Home,Houston,Credit Card,1,281.09
+TXN-10292,John Anderson, JOHN.ANDERSON@DOMAIN.COM ,+1 (376) 316-2469,02/25/2024,Fashion,los angeles,Debit Card,11,257.61
+TXN-10293,Chris Smith,chris.smith@domain.com,+1 (206) 739-6114,2024-12-19,Home,New York,PayPal,2,193.52
+TXN-10294,Daniel Jones,daniel.jones@domain.com,9403397009,2024-11-05,Home & Kitchen,Los Angeles,Cash on Delivery,3,592.84
+TXN-10295,jane  MILLER ,jane.miller@domain.com,437.481.7895,04-Mar-2024,Apparel,chicago,PayPal,8,503.95
+TXN-10296,Daniel Davis,daniel.davis@domain.com,4355265211,08/13/2024,Home,chicago,PayPal,10,105.41
+TXN-10297,David Miller,david.miller@domain.com,,06/26/2024,fashion,los angeles,Debit Card,7,421.9
+TXN-10298,chris  DAVIS ,chris.davis@domain.com,2442075538,2024/06/25,Electronics,Chicago,COD,2,202.34
+TXN-10299,Sarah Jones,sarah.jones@domain.com,+1 (519) 182-5357,08/24/2024,Electronics,los angeles,Credit Card,-7,217.71
+TXN-10300,Alex Taylor,N/A,+1 (646) 551-2763,16-Oct-2024,Home & Kitchen,N.Y.,CC,9,729.38
+TXN-10301,jane  DAVIS , JANE.DAVIS@DOMAIN.COM ,,26-Jan-2024,Electronics,chicago,paypal,4,740.41
+TXN-10302,alex  ANDERSON ,alex.anderson@domain.com,N/A,,Apparel,New York,Debit Card,4,8985.550000000001
+TXN-10303,Jessica Johnson,jessica.johnson@domain.com,N/A,06/09/2024,Beauty & Health,new york,Credit Card,8,
+TXN-10304,jane  MILLER ,jane.miller@domain.com,N/A,2024/06/04,elec,Houston,credit card,11,502.72
+TXN-10305,Sarah Brown,sarah.brown@domain.com,+1 (385) 348-9940,04-May-2024,Fashion,Houston,PayPal,10,622.14
+TXN-10306,Sarah Taylor,sarah.taylor@domain.com,,2024/09/22,Fashion,Houston,Debit Card,11,208.19
+TXN-10307,Jessica Johnson,jessica.johnson@domain.com,8059095864,2024/07/31,Electronics,Chicago,Debit Card,1,273.78
+TXN-10308,emily  JONES ,emily.jones@domain.com,9494201946,2024-10-25,ELECTRONICS,New York,COD,4,33.38
+TXN-10309,Daniel Taylor,daniel.taylor@domain.com,N/A,2024-06-16,Home & Kitchen,Los Angeles,COD,9,212.63
+TXN-10310,john  WILLIAMS ,john.williams@domain.com,N/A,,Home,NY,COD,2,365.81
+TXN-10311,John Taylor,john.taylor@domain.com,,04/14/2024,fashion,los angeles,credit card,9,9540.3
+TXN-10312,Jessica Smith, JESSICA.SMITH@DOMAIN.COM ,N/A,2024-02-17,elec,Houston,credit card,-10,547.97
+TXN-10313,Alex Johnson,alex.johnson@domain.com,,09/22/2024,Electronics,New York,credit card,7,108.44
+TXN-10314,Daniel Williams,daniel.williams@domain.com,908.809.8709,2024-10-19,fashion,LA,credit card,10,793.98
+TXN-10315,Jane Johnson,jane.johnson@domain.com,7194294185,14-Jun-2024,Beauty & Health,new york,Cash on Delivery,2,259.74
+TXN-10316,Daniel Davis, DANIEL.DAVIS@DOMAIN.COM ,9529377620,2024/06/01,Home & Kitchen,chicago,credit card,10,327.34
+TXN-10317,Jane Anderson, JANE.ANDERSON@DOMAIN.COM ,681.555.5922,2024-06-04,Electronics,new york,credit card,11,190.89
+TXN-10318,Jessica Williams,jessica.williams@domain.com,2188116255,23-Aug-2024,Fashion,new york,paypal,5,247.49
+TXN-10319,Emily Wilson, EMILY.WILSON@DOMAIN.COM ,N/A,2024-03-16,Electronics,Houston,PayPal,3,549.66
+TXN-10320,David Johnson,david.johnson@domain.com,,,Apparel,New York,Cash on Delivery,4,
+TXN-10321,John Williams,john.williams@domain.com,N/A,08/21/2024,Home,chicago,CC,9,553.38
+TXN-10322,Jane Miller,jane.miller@domain.com,,2024-04-25,Electronics,los angeles,Cash on Delivery,9,219.16
+TXN-10323,John Anderson,john.anderson@domain.com,+1 (256) 475-5366,06/15/2024,Electronics,LA,PayPal,3,
+TXN-10324,John Johnson,john.johnson@domain.com,395.516.5759,2024/12/21,Beauty & Health,Los Angeles,Credit Card,5,397.0
+TXN-10325,Jessica Johnson,jessica.johnson@domain.com,+1 (888) 113-2232,04/27/2024,Home,los angeles,Cash on Delivery,10,686.2
+TXN-10326,Michael Wilson,michael.wilson@domain.com,+1 (696) 427-1909,,Home,Miami,CC,-3,233.98
+TXN-10327,sarah  TAYLOR ,missing,+1 (839) 127-7720,2024/03/10,Home & Kitchen,Los Angeles,Cash on Delivery,-7,848.53
+TXN-10328,Michael Johnson,michael.johnson@domain.com,,2024/06/16,elec,los angeles,credit card,9,
+TXN-10329,Daniel Wilson,daniel.wilson@domain.com,,15-Nov-2024,Fashion,new york,Credit Card,5,794.88
+TXN-10330,David Miller,david.miller@domain.com,N/A,04-May-2024,ELECTRONICS,new york,paypal,10,527.15
+TXN-10331,Daniel Williams,daniel.williams@domain.com,779.143.4052,18-Nov-2024,Home & Kitchen,new york,Cash on Delivery,2,140.29
+TXN-10332,Emily Anderson,emily.anderson@domain.com,5388971886,2024/10/13,Apparel,chicago,Credit Card,6,398.74
+TXN-10333,Emily Davis,emily.davis@domain.com,+1 (579) 464-8769,05-Jul-2024,Home & Kitchen,N.Y.,credit card,2,138.54
+TXN-10334,chris  JONES ,chris.jones@domain.com,715.256.8928,07/05/2024,fashion,LA,paypal,11,835.17
+TXN-10335,Sarah Wilson,N/A,+1 (839) 530-5537,2024-02-29,Beauty & Health,chicago,Credit Card,1,522.99
+TXN-10336,Chris Smith,chris.smith@domain.com,N/A,2024-01-02,Beauty & Health,NY,PayPal,4,
+TXN-10337,John Johnson,john.johnson@domain.com,+1 (338) 346-4219,2024/08/01,Beauty & Health,Miami,paypal,10,420.36
+TXN-10338,michael  JONES ,michael.jones@domain.com,,11/26/2024,Apparel,Houston,Credit Card,-1,534.24
+TXN-10339,Emily Williams,emily.williams@domain.com,8792657604,2024/07/07,Home,new york,Debit Card,9,579.58
+TXN-10340,Emily Williams,emily.williams@domain.com,+1 (772) 698-5865,2024/09/10,ELECTRONICS,New York,CC,5,86.47
+TXN-10341,Daniel Miller,daniel.miller@domain.com,+1 (979) 122-1565,24-May-2024,ELECTRONICS,New York,PayPal,2,390.75
+TXN-10342,Daniel Wilson,daniel.wilson@domain.com,2228853176,2024-11-15,Fashion,New York,Debit Card,9,698.58
+TXN-10343,Jane Smith,jane.smith@domain.com,4263935695,29-Jan-2024,Beauty & Health,Miami,Debit Card,6,836.5
+TXN-10344,John Miller,john.miller@domain.com,,02/21/2024,elec,New York,PayPal,11,-471.67
+TXN-10345,Michael Davis,michael.davis@domain.com,,07-Jul-2024,Fashion,NY,paypal,8,734.72
+TXN-10346,John Anderson,john.anderson@domain.com,,21-Jun-2024,ELECTRONICS,new york,credit card,1,658.8
+TXN-10347,Jessica Taylor,jessica.taylor@domain.com,,2024-05-26,Apparel,chicago,Credit Card,4,435.16
+TXN-10348,jessica  SMITH ,jessica.smith@domain.com,N/A,27-Mar-2024,Fashion,LA,COD,9,435.48
+TXN-10349,daniel  WILSON ,daniel.wilson@domain.com,8994414553,2024/04/25,Fashion,New York,COD,11,606.58
+TXN-10350,Michael Jones,michael.jones@domain.com,,03/20/2024,Home,new york,credit card,10,756.16
+TXN-10351,Jane Jones,jane.jones@domain.com,5674444231,2024-11-03,ELECTRONICS,new york,Credit Card,5,637.87
+TXN-10352,Jessica Miller,jessica.miller@domain.com,2553254629,07/15/2024,Beauty & Health,NY,Cash on Delivery,10,785.3
+TXN-10353,David Miller,david.miller@domain.com,5412702868,2024-07-11,Apparel,Los Angeles,Credit Card,7,111.44
+TXN-10354,Jessica Miller,jessica.miller@domain.com,2467214271,2024/07/28,Home & Kitchen,N.Y.,CC,8,795.44
+TXN-10355,chris  WILLIAMS ,chris.williams@domain.com,9319886266,18-Oct-2024,Apparel,Los Angeles,Debit Card,4,582.84
+TXN-10356,alex  WILSON ,N/A,,05-Oct-2024,fashion,NY,COD,-1,137.98
+TXN-10357,Sarah Davis,sarah.davis@domain.com,,30-Mar-2024,elec,chicago,credit card,8,501.26
+TXN-10358,Jessica Brown,jessica.brown@domain.com,944.354.2340,2024/04/25,fashion,los angeles,CC,1,92.81
+TXN-10359,Jessica Davis,jessica.davis@domain.com,6662008750,2024-06-21,ELECTRONICS,LA,paypal,7,544.95
+TXN-10360,David Smith,david.smith@domain.com,N/A,,elec,Miami,CC,5,122.13
+TXN-10361,Daniel Anderson,daniel.anderson@domain.com,258.991.4424,13-Aug-2024,Fashion,NY,Cash on Delivery,9,482.09
+TXN-10362,Emily Miller,emily.miller@domain.com,,11-Jun-2024,Beauty & Health,Houston,Credit Card,7,701.21
+TXN-10363,Alex Wilson,alex.wilson@domain.com,+1 (894) 944-1889,2024/05/13,Home & Kitchen,chicago,COD,8,
+TXN-10364,Michael Smith,michael.smith@domain.com,6731162115,2024-01-31,Home & Kitchen,new york,PayPal,1,194.34
+TXN-10365,Sarah Williams,sarah.williams@domain.com,+1 (732) 919-8145,2024-08-30,Electronics,los angeles,Credit Card,6,680.74
+TXN-10366,John Anderson,john.anderson@domain.com,2501803083,05/08/2024,Electronics,los angeles,CC,-8,661.19
+TXN-10367,Sarah Wilson,sarah.wilson@domain.com,3715936065,06/05/2024,Home & Kitchen,Miami,credit card,2,72.51
+TXN-10368,Alex Brown,alex.brown@domain.com,,09-Aug-2024,fashion,Los Angeles,paypal,9,35.71
+TXN-10369,Michael Wilson,michael.wilson@domain.com,6697609907,01/02/2024,elec,Houston,CC,4,246.72
+TXN-10370,John Taylor, JOHN.TAYLOR@DOMAIN.COM ,N/A,07-May-2024,Fashion,Houston,paypal,7,686.71
+TXN-10371,Jessica Brown, JESSICA.BROWN@DOMAIN.COM ,665.342.9664,09-Dec-2024,Electronics,Los Angeles,Cash on Delivery,10,462.79
+TXN-10372,Michael Smith,michael.smith@domain.com,N/A,2024-05-12,Beauty & Health,NY,CC,5,733.86
+TXN-10373,Alex Smith,alex.smith@domain.com,993.677.6756,2024/12/19,Beauty & Health,N.Y.,COD,9,326.88
+TXN-10374,Michael Smith,michael.smith@domain.com,420.361.7474,2024/05/04,Home & Kitchen,Houston,CC,8,505.35
+TXN-10375,Jessica Taylor,jessica.taylor@domain.com,+1 (727) 526-7185,2024-11-05,Fashion,new york,credit card,11,
+TXN-10376,Jessica Johnson,jessica.johnson@domain.com,,2024-08-21,Beauty & Health,Miami,CC,8,330.37
+TXN-10377,Jane Brown,jane.brown@domain.com,+1 (891) 198-5677,2024-10-23,elec,Houston,COD,11,321.45
+TXN-10378,Michael Davis,michael.davis@domain.com,9033481234,2024-04-02,fashion,New York,credit card,-10,842.52
+TXN-10379,David Johnson,david.johnson@domain.com,615.315.4850,2024-06-13,Fashion,los angeles,COD,7,659.96
+TXN-10380,David Smith,N/A,,04-Feb-2024,Home,Los Angeles,Cash on Delivery,-6,477.59
+TXN-10381,Jessica Jones,jessica.jones@domain.com,5214176828,2024-10-19,Fashion,New York,COD,2,777.96
+TXN-10382,Daniel Wilson,daniel.wilson@domain.com,770.669.5747,2024/06/15,Beauty & Health,N.Y.,COD,7,527.54
+TXN-10383,daniel  WILLIAMS ,daniel.williams@domain.com,N/A,03/01/2024,ELECTRONICS,Chicago,Debit Card,8,764.95
+TXN-10384,Jane Johnson,jane.johnson@domain.com,4428868887,13-Jul-2024,Home & Kitchen,new york,Cash on Delivery,2,-244.66
+TXN-10385,Jessica Taylor,jessica.taylor@domain.com,N/A,2024/12/21,Fashion,Chicago,COD,2,637.83
+TXN-10386,John Johnson,john.johnson@domain.com,N/A,12-Mar-2024,fashion,new york,CC,1,382.13
+TXN-10387,Jessica Jones,jessica.jones@domain.com,+1 (223) 572-8091,2024-12-13,elec,Houston,CC,2,113.87
+TXN-10388,Chris Williams,chris.williams@domain.com,,2024/10/07,Fashion,LA,COD,9,522.99
+TXN-10389,Chris Jones,chris.jones@domain.com,N/A,07-Feb-2024,Home,Miami,COD,4,833.94
+TXN-10390,Jessica Williams,jessica.williams@domain.com,+1 (225) 722-6573,23-Jul-2024,Fashion,Miami,paypal,3,58.39
+TXN-10391,Jessica Anderson,jessica.anderson@domain.com,+1 (341) 747-7319,30-Aug-2024,Home,New York,Debit Card,8,776.85
+TXN-10392,Alex Jones,alex.jones@domain.com,2115038980,04/02/2024,Fashion,Miami,PayPal,9,
+TXN-10393,David Davis,,N/A,2024/06/10,fashion,Houston,Debit Card,3,-135.62
+TXN-10394,Sarah Smith,sarah.smith@domain.com,+1 (540) 662-5746,10/03/2024,Home,chicago,CC,5,315.88
+TXN-10395,Emily Jones,emily.jones@domain.com,,03/24/2024,Fashion,los angeles,PayPal,7,506.26
+TXN-10396,John Jones,john.jones@domain.com,N/A,12-Feb-2024,Fashion,NY,Debit Card,9,424.89
+TXN-10397,michael  JOHNSON ,michael.johnson@domain.com,+1 (652) 492-3259,03-Mar-2024,Home,Miami,paypal,3,653.12
+TXN-10398,David Smith,david.smith@domain.com,4164199085,2024/04/14,Home,LA,PayPal,10,748.32
+TXN-10399,Daniel Jones,daniel.jones@domain.com,2889277041,02-Sep-2024,Home,Los Angeles,PayPal,3,762.52
+TXN-10400,Jessica Anderson,jessica.anderson@domain.com,N/A,02/13/2024,ELECTRONICS,new york,Debit Card,10,385.84
+TXN-10401,Michael Jones,michael.jones@domain.com,734.309.3093,2024/06/23,Apparel,los angeles,PayPal,1,48.44
+TXN-10402,John Miller,john.miller@domain.com,552.399.6801,,fashion,LA,Credit Card,1,332.25
+TXN-10403,John Miller,john.miller@domain.com,,08/14/2024,Apparel,NY,Cash on Delivery,4,73.01
+TXN-10404,John Williams,john.williams@domain.com,399.685.4527,2024/02/12,Beauty & Health,N.Y.,PayPal,-3,258.67
+TXN-10405,Michael Jones,,,2024/06/06,Electronics,Los Angeles,Cash on Delivery,5,
+TXN-10406,alex  MILLER ,alex.miller@domain.com,N/A,04/25/2024,Apparel,new york,COD,10,13361.25
+TXN-10407,Daniel Jones,daniel.jones@domain.com,823.731.8635,2024-04-02,Apparel,chicago,COD,8,234.36
+TXN-10408,Jane Davis,jane.davis@domain.com,987.978.2183,01-Dec-2024,elec,los angeles,COD,8,
+TXN-10409,Alex Jones,alex.jones@domain.com,736.805.2919,09/30/2024,Home,los angeles,paypal,9,
+TXN-10410,Michael Anderson,michael.anderson@domain.com,725.696.1839,2024/11/28,Electronics,Houston,Credit Card,10,23.62
+TXN-10411,John Smith,john.smith@domain.com,5192959609,2024/04/04,Beauty & Health,NY,paypal,7,28.05
+TXN-10412,Emily Brown,emily.brown@domain.com,,2024-09-24,Electronics,Houston,Cash on Delivery,9,111.7
+TXN-10413,Sarah Anderson,sarah.anderson@domain.com,,2024/01/08,Home & Kitchen,new york,Debit Card,7,647.31
+TXN-10414,David Taylor,david.taylor@domain.com,N/A,15-Jan-2024,fashion,LA,CC,9,563.29
+TXN-10415,Alex Smith,alex.smith@domain.com,,2024-07-19,elec,Los Angeles,Credit Card,3,398.16
+TXN-10416,Michael Smith,michael.smith@domain.com,+1 (983) 418-7764,07/25/2024,Electronics,chicago,CC,1,461.67
+TXN-10417,John Smith,N/A,N/A,2024/03/27,Home & Kitchen,NY,PayPal,7,449.64
+TXN-10418,Daniel Taylor,daniel.taylor@domain.com,,10/04/2024,Home,Houston,COD,4,398.59
+TXN-10419,Alex Johnson,alex.johnson@domain.com,,10-Jul-2024,elec,New York,CC,11,438.64
+TXN-10420,David Miller,david.miller@domain.com,552.476.3655,2024-04-27,Apparel,chicago,PayPal,10,54.34
+TXN-10421,Jessica Davis,jessica.davis@domain.com,,03/05/2024,Home,new york,CC,3,615.44
+TXN-10422,Chris Davis,chris.davis@domain.com,4662376487,2024/12/11,Electronics,Miami,credit card,10,227.5
+TXN-10423,Alex Johnson,alex.johnson@domain.com,+1 (401) 861-3921,2024-08-16,Apparel,chicago,Credit Card,4,671.14
+TXN-10424,David Johnson,david.johnson@domain.com,,2024/11/04,ELECTRONICS,Chicago,paypal,3,729.99
+TXN-10425,Michael Smith,michael.smith@domain.com,N/A,15-Aug-2024,Electronics,Houston,Cash on Delivery,4,692.12
+TXN-10426,Alex Brown,alex.brown@domain.com,,2024-01-10,Home,LA,paypal,3,23.13
+TXN-10427,Daniel Williams,daniel.williams@domain.com,N/A,04-Jun-2024,Apparel,NY,paypal,11,22036.7
+TXN-10428,Sarah Williams,sarah.williams@domain.com,N/A,30-Jan-2024,Home,New York,COD,11,316.26
+TXN-10429,Michael Jones,michael.jones@domain.com,N/A,2024/02/17,Beauty & Health,N.Y.,paypal,9,847.24
+TXN-10430,Emily Wilson,emily.wilson@domain.com,7015401325,2024/10/30,elec,LA,Credit Card,5,240.05
+TXN-10431,Alex Brown,alex.brown@domain.com,7389196777,2024/12/07,fashion,Chicago,Cash on Delivery,7,375.84
+TXN-10432,John Anderson,john.anderson@domain.com,626.743.9792,24-Jun-2024,Home & Kitchen,New York,credit card,11,750.28
+TXN-10433,David Taylor,david.taylor@domain.com,922.124.6783,2024/02/22,ELECTRONICS,Miami,credit card,8,
+TXN-10434,Emily Smith,emily.smith@domain.com,,06/29/2024,Fashion,Chicago,Cash on Delivery,11,
+TXN-10435,Michael Taylor, MICHAEL.TAYLOR@DOMAIN.COM ,+1 (337) 532-3517,2024-01-20,Home & Kitchen,Los Angeles,COD,6,273.42
+TXN-10436,Alex Johnson,alex.johnson@domain.com,5888214046,2024-02-26,fashion,NY,Cash on Delivery,6,266.92
+TXN-10437,alex  BROWN ,alex.brown@domain.com,+1 (953) 280-3823,15-Oct-2024,ELECTRONICS,N.Y.,paypal,1,569.29
+TXN-10438,Alex Miller,alex.miller@domain.com,4644375473,2024/05/31,Apparel,Chicago,PayPal,7,
+TXN-10439,Emily Wilson,emily.wilson@domain.com,N/A,2024-07-27,Apparel,Miami,paypal,1,-168.94
+TXN-10440,Jane Smith,jane.smith@domain.com,6276584007,02/22/2024,Fashion,new york,CC,7,759.38
+TXN-10441,John Williams,john.williams@domain.com,,,elec,Los Angeles,paypal,2,410.31
+TXN-10442,John Taylor,john.taylor@domain.com,719.258.3708,2024/12/21,elec,New York,Debit Card,6,278.44
+TXN-10443,Daniel Williams,daniel.williams@domain.com,,03/14/2024,Home,Miami,paypal,10,633.36
+TXN-10444,Jessica Brown, JESSICA.BROWN@DOMAIN.COM ,,10-Oct-2024,Apparel,new york,COD,9,835.63
+TXN-10445,Jessica Jones,jessica.jones@domain.com,2659429649,,Home,Houston,credit card,8,-383.36
+TXN-10446,Alex Miller,alex.miller@domain.com,,10/06/2024,ELECTRONICS,chicago,COD,9,768.76
+TXN-10447,Sarah Smith,N/A,N/A,09-May-2024,Fashion,new york,credit card,4,507.36
+TXN-10448,Daniel Johnson, DANIEL.JOHNSON@DOMAIN.COM ,5338245098,2024/02/09,fashion,New York,Debit Card,4,461.55
+TXN-10449,Daniel Wilson,daniel.wilson@domain.com,+1 (941) 739-3663,10/26/2024,fashion,N.Y.,PayPal,8,450.47
+TXN-10450,Michael Jones,michael.jones@domain.com,325.866.6291,11/15/2024,ELECTRONICS,N.Y.,Debit Card,2,553.21
+TXN-10451,michael  TAYLOR ,,5989337474,,Home,new york,Cash on Delivery,2,647.01
+TXN-10452,Jane Wilson,missing,2492046492,,fashion,New York,PayPal,9,8045.45
+TXN-10453,Jessica Jones,jessica.jones@domain.com,3958924273,05/14/2024,Apparel,los angeles,Cash on Delivery,11,
+TXN-10454,Jessica Williams,jessica.williams@domain.com,N/A,2024-07-11,Beauty & Health,LA,COD,1,-118.65
+TXN-10455,Michael Taylor,michael.taylor@domain.com,N/A,2024-03-11,Home & Kitchen,LA,paypal,2,66.26
+TXN-10456,David Anderson,david.anderson@domain.com,,22-Oct-2024,Electronics,Chicago,credit card,7,448.97
+TXN-10457,John Wilson,john.wilson@domain.com,,2024/11/29,Beauty & Health,N.Y.,Credit Card,9,616.69
+TXN-10458,Michael Jones,michael.jones@domain.com,2558908440,2024-06-06,Electronics,chicago,credit card,-5,239.09
+TXN-10459,Michael Johnson,michael.johnson@domain.com,327.821.6270,2024-01-30,Home,N.Y.,Cash on Delivery,8,
+TXN-10460,Chris Jones,chris.jones@domain.com,8034759915,2024-07-20,fashion,Los Angeles,paypal,10,677.12
+TXN-10461,Jane Davis,jane.davis@domain.com,430.716.4748,09/01/2024,fashion,new york,COD,7,546.43
+TXN-10462,Alex Anderson,alex.anderson@domain.com,N/A,2024/02/06,fashion,N.Y.,Credit Card,4,415.6
+TXN-10463,Chris Johnson,,220.209.9585,07-Sep-2024,elec,New York,credit card,1,251.64
+TXN-10464,Michael Jones, MICHAEL.JONES@DOMAIN.COM ,5459627471,07/05/2024,Home & Kitchen,Los Angeles,PayPal,4,20.78
+TXN-10465,Chris Brown,chris.brown@domain.com,,09/28/2024,Fashion,LA,CC,10,636.61
+TXN-10466,Alex Davis, ALEX.DAVIS@DOMAIN.COM ,+1 (424) 357-6353,2024/09/30,Fashion,New York,Cash on Delivery,9,208.41
+TXN-10467,Daniel Smith,daniel.smith@domain.com,N/A,2024-01-23,elec,los angeles,Credit Card,11,545.65
+TXN-10468,Jane Miller, JANE.MILLER@DOMAIN.COM ,562.482.3798,02/25/2024,Fashion,chicago,Debit Card,-9,380.89
+TXN-10469,Chris Brown,N/A,908.271.1908,2024/01/27,Apparel,LA,COD,4,344.84
+TXN-10470,Michael Smith,michael.smith@domain.com,+1 (665) 751-1559,2024/11/17,fashion,new york,paypal,9,-403.32
+TXN-10471,Jane Davis,jane.davis@domain.com,+1 (826) 138-7601,,Apparel,Miami,CC,4,451.62
+TXN-10472,Alex Williams,alex.williams@domain.com,,02/18/2024,elec,los angeles,credit card,5,764.71
+TXN-10473,Michael Jones, MICHAEL.JONES@DOMAIN.COM ,4926837266,2024/10/27,fashion,chicago,Cash on Delivery,11,296.12
+TXN-10474,Jessica Brown,,5614533433,03-Sep-2024,Apparel,chicago,credit card,4,272.52
+TXN-10475,Daniel Taylor,daniel.taylor@domain.com,827.404.8913,27-Feb-2024,fashion,los angeles,CC,6,641.53
+TXN-10476,Sarah Miller,sarah.miller@domain.com,9357509983,10/12/2024,elec,chicago,Credit Card,3,-612.17
+TXN-10477,David Smith,david.smith@domain.com,+1 (307) 344-7176,12/23/2024,Home,NY,CC,2,69.49
+TXN-10478,Jessica Johnson,jessica.johnson@domain.com,496.705.1568,2024/01/16,Home,chicago,PayPal,4,26.67
+TXN-10479,Jessica Williams,jessica.williams@domain.com,+1 (621) 874-3525,01/28/2024,ELECTRONICS,NY,paypal,3,690.7
+TXN-10480,Emily Taylor,N/A,,2024-12-06,elec,Houston,CC,8,761.39
+TXN-10481,Jessica Anderson,jessica.anderson@domain.com,5508212659,09-Feb-2024,elec,Houston,Cash on Delivery,4,487.21
+TXN-10482,Emily Miller,emily.miller@domain.com,N/A,2024-05-02,Fashion,los angeles,paypal,11,576.39
+TXN-10483,Daniel Miller,daniel.miller@domain.com,+1 (994) 572-4022,09/22/2024,Beauty & Health,Chicago,Cash on Delivery,5,243.69
+TXN-10484,Chris Miller,chris.miller@domain.com,8952848506,05-Nov-2024,Home & Kitchen,Miami,paypal,1,291.2
+TXN-10485,john  WILSON ,john.wilson@domain.com,699.468.7867,09/12/2024,Beauty & Health,Chicago,paypal,9,
+TXN-10486,Jessica Davis,N/A,+1 (510) 892-2561,2024-03-05,Fashion,Miami,paypal,6,471.69
+TXN-10487,Jane Williams,,+1 (229) 824-6413,2024-05-25,ELECTRONICS,Los Angeles,Cash on Delivery,9,700.2
+TXN-10488,Jessica Miller,jessica.miller@domain.com,N/A,2024/08/10,Beauty & Health,LA,COD,9,27.33
+TXN-10489,Jane Taylor,jane.taylor@domain.com,+1 (988) 411-3861,2024/03/11,Home & Kitchen,LA,PayPal,6,
+TXN-10490,Michael Jones,michael.jones@domain.com,955.967.8425,2024-07-11,ELECTRONICS,Miami,Credit Card,7,
+TXN-10491,David Jones,david.jones@domain.com,N/A,27-Sep-2024,elec,N.Y.,PayPal,5,715.67
+TXN-10492,Jessica Anderson,jessica.anderson@domain.com,9896525939,12/10/2024,Fashion,Houston,COD,5,345.73
+TXN-10493,Daniel Taylor,daniel.taylor@domain.com,+1 (917) 869-8791,26-Mar-2024,ELECTRONICS,N.Y.,PayPal,8,232.82
+TXN-10494,Alex Wilson,alex.wilson@domain.com,N/A,11/11/2024,Beauty & Health,N.Y.,credit card,7,
+TXN-10495,emily  JOHNSON , EMILY.JOHNSON@DOMAIN.COM ,938.587.5081,2024-06-26,Electronics,Houston,paypal,2,
+TXN-10496,Emily Taylor,emily.taylor@domain.com,488.682.8816,2024-12-10,Home,Chicago,paypal,11,664.21
+TXN-10497,chris  WILLIAMS ,chris.williams@domain.com,,25-Aug-2024,Home & Kitchen,New York,Credit Card,1,609.21
+TXN-10498,David Anderson,david.anderson@domain.com,,2024/09/28,fashion,Houston,credit card,11,188.05
+TXN-10499,Jessica Brown,jessica.brown@domain.com,N/A,2024-10-28,ELECTRONICS,LA,CC,7,311.51
+TXN-10500,Jane Brown,jane.brown@domain.com,682.322.2772,01/04/2024,Beauty & Health,LA,paypal,9,108.61
+TXN-10501,michael  JONES ,michael.jones@domain.com,597.745.1435,28-Aug-2024,Apparel,Miami,COD,2,100.65
+TXN-10502,David Jones,david.jones@domain.com,6756109401,2024/03/18,ELECTRONICS,new york,paypal,10,74.65
+TXN-10503,Michael Miller,,347.571.7114,05/20/2024,elec,new york,Cash on Delivery,1,165.42
+TXN-10504,Jessica Williams,jessica.williams@domain.com,,2024-12-22,elec,Houston,Cash on Delivery,2,24.75
+TXN-10505,Jane Johnson, JANE.JOHNSON@DOMAIN.COM ,4264706587,2024/01/08,Apparel,chicago,CC,10,379.46
+TXN-10506,Alex Johnson,alex.johnson@domain.com,N/A,2024-04-01,ELECTRONICS,Los Angeles,PayPal,4,732.76
+TXN-10507,Jane Taylor,missing,733.566.8120,2024/11/03,Home,Chicago,PayPal,10,492.55
+TXN-10508,Daniel Anderson, DANIEL.ANDERSON@DOMAIN.COM ,5708821676,10/21/2024,Home & Kitchen,new york,Debit Card,11,781.54
+TXN-10509,Michael Johnson,michael.johnson@domain.com,977.760.8414,13-Jan-2024,Electronics,chicago,Credit Card,5,61.93
+TXN-10510,sarah  DAVIS , SARAH.DAVIS@DOMAIN.COM ,,2024-04-29,Electronics,Los Angeles,credit card,8,611.81
+TXN-10511,Daniel Taylor,daniel.taylor@domain.com,,01/15/2024,ELECTRONICS,NY,credit card,5,87.95
+TXN-10512,jane  BROWN ,jane.brown@domain.com,464.857.4107,2024/01/19,Home,N.Y.,Debit Card,3,591.56
+TXN-10513,Chris Jones,chris.jones@domain.com,230.617.1578,2024/12/18,Apparel,Chicago,PayPal,8,193.87
+TXN-10514,David Williams,N/A,7764418457,09/15/2024,Home & Kitchen,Houston,Debit Card,8,487.45
+TXN-10515,Alex Smith,N/A,,2024/09/28,Electronics,N.Y.,COD,2,379.84
+TXN-10516,Alex Williams,alex.williams@domain.com,641.370.1343,2024/10/24,Home & Kitchen,LA,credit card,9,252.44
+TXN-10517,Chris Wilson,,N/A,01-Sep-2024,Apparel,LA,CC,1,270.53
+TXN-10518,Chris Anderson,chris.anderson@domain.com,+1 (595) 887-2361,2024-06-24,Home,los angeles,Debit Card,7,793.42
+TXN-10519,Daniel Wilson,daniel.wilson@domain.com,,09/23/2024,fashion,Miami,paypal,3,251.94
+TXN-10520,David Miller,david.miller@domain.com,7068607724,2024-01-08,Home & Kitchen,Houston,COD,5,300.66
+TXN-10521,Alex Davis,alex.davis@domain.com,,2024/12/25,elec,Chicago,paypal,6,806.25
+TXN-10522,Jane Davis,jane.davis@domain.com,N/A,03/29/2024,Home,chicago,credit card,5,839.77
+TXN-10523,Michael Smith,michael.smith@domain.com,230.928.1703,30-Aug-2024,Electronics,NY,credit card,4,655.88
+TXN-10524,Chris Johnson,chris.johnson@domain.com,N/A,2024-01-30,Home & Kitchen,Miami,Cash on Delivery,3,25760.7
+TXN-10525,Alex Wilson,alex.wilson@domain.com,810.137.6581,05/15/2024,Fashion,NY,PayPal,3,74.06
+TXN-10526,Jane Johnson, JANE.JOHNSON@DOMAIN.COM ,516.327.2496,2024/11/04,Fashion,Chicago,Credit Card,10,842.19
+TXN-10527,Alex Wilson, ALEX.WILSON@DOMAIN.COM ,460.330.9445,11/19/2024,Apparel,new york,Cash on Delivery,11,101.98
+TXN-10528,David Taylor,david.taylor@domain.com,N/A,2024/05/03,fashion,Los Angeles,COD,2,128.41
+TXN-10529,Sarah Williams,sarah.williams@domain.com,,2024/11/25,Electronics,N.Y.,Cash on Delivery,2,453.58
+TXN-10530,Jessica Anderson,jessica.anderson@domain.com,N/A,2024-09-09,Electronics,N.Y.,PayPal,6,603.46
+TXN-10531,David Wilson,david.wilson@domain.com,,21-Apr-2024,Fashion,N.Y.,Cash on Delivery,5,474.03
+TXN-10532,Sarah Miller,sarah.miller@domain.com,N/A,11-Oct-2024,Home,Miami,COD,2,354.68
+TXN-10533,Chris Smith,,957.589.2795,2024/10/07,fashion,Houston,Credit Card,5,80.64
+TXN-10534,Alex Wilson,alex.wilson@domain.com,,2024-07-03,Home & Kitchen,Los Angeles,Debit Card,3,741.91
+TXN-10535,Daniel Davis, DANIEL.DAVIS@DOMAIN.COM ,7411897212,29-Aug-2024,Home,New York,paypal,5,298.14
+TXN-10536,Emily Brown,emily.brown@domain.com,,2024-06-03,Beauty & Health,new york,Debit Card,10,158.69
+TXN-10537,Chris Davis,,+1 (614) 698-2184,2024/06/12,Beauty & Health,LA,PayPal,-1,791.03
+TXN-10538,Daniel Smith,daniel.smith@domain.com,927.173.5681,11/08/2024,Apparel,chicago,Cash on Delivery,1,435.78
+TXN-10539,David Taylor,david.taylor@domain.com,+1 (762) 519-6840,,elec,Houston,Cash on Delivery,9,202.43
+TXN-10540,Jessica Brown,jessica.brown@domain.com,,2024/11/27,Apparel,new york,Credit Card,11,236.74
+TXN-10541,Alex Miller,alex.miller@domain.com,808.197.1289,21-Apr-2024,ELECTRONICS,N.Y.,credit card,4,354.29
+TXN-10542,Emily Johnson,emily.johnson@domain.com,,2024/01/25,Electronics,Los Angeles,Debit Card,4,400.69
+TXN-10543,Jane Davis,missing,654.812.7848,10/05/2024,Electronics,Miami,paypal,2,740.86
+TXN-10544,Daniel Johnson,daniel.johnson@domain.com,+1 (716) 983-4956,2024/08/28,Electronics,N.Y.,Debit Card,9,611.12
+TXN-10545,Michael Davis,michael.davis@domain.com,,09/16/2024,Fashion,Chicago,Cash on Delivery,11,622.55
+TXN-10546,Jane Wilson,jane.wilson@domain.com,747.211.1182,25-Aug-2024,Home & Kitchen,los angeles,paypal,10,185.18
+TXN-10547,John Johnson,,4951836134,05/13/2024,Home,Chicago,Debit Card,4,796.27
+TXN-10548,Sarah Wilson,sarah.wilson@domain.com,4847099339,12/22/2024,Fashion,Houston,Credit Card,1,705.26
+TXN-10549,emily  BROWN ,emily.brown@domain.com,6749526582,2024-07-10,Home,Miami,credit card,7,299.68
+TXN-10550,David Taylor,david.taylor@domain.com,5031612210,2024/08/16,Electronics,Chicago,Cash on Delivery,4,221.6
+TXN-10551,Chris Davis,chris.davis@domain.com,,06/07/2024,Beauty & Health,Chicago,CC,4,95.4
+TXN-10552,Chris Jones, CHRIS.JONES@DOMAIN.COM ,,17-Dec-2024,Home,New York,paypal,5,823.28
+TXN-10553,daniel  SMITH ,daniel.smith@domain.com,N/A,,Beauty & Health,los angeles,PayPal,6,461.69
+TXN-10554,Emily Davis,emily.davis@domain.com,+1 (724) 729-8407,06/04/2024,elec,N.Y.,paypal,9,584.39
+TXN-10555,Michael Smith,michael.smith@domain.com,606.206.5268,16-Jan-2024,elec,New York,Debit Card,11,
+TXN-10556,Chris Smith, CHRIS.SMITH@DOMAIN.COM ,,2024/02/08,Apparel,Chicago,credit card,3,40.03
+TXN-10557,Michael Davis,michael.davis@domain.com,,13-Mar-2024,fashion,new york,Cash on Delivery,1,375.52
+TXN-10558,Michael Anderson,michael.anderson@domain.com,239.281.2513,01/24/2024,ELECTRONICS,Los Angeles,credit card,9,64.71
+TXN-10559,Alex Williams,alex.williams@domain.com,673.322.1863,09/13/2024,Fashion,LA,Cash on Delivery,5,270.48
+TXN-10560,Emily Davis,emily.davis@domain.com,+1 (529) 219-2607,2024/04/12,Beauty & Health,Houston,credit card,2,207.95
+TXN-10561,Chris Smith,chris.smith@domain.com,+1 (500) 932-8017,2024-05-10,Home & Kitchen,los angeles,Debit Card,8,814.75
+TXN-10562,Chris Anderson,chris.anderson@domain.com,N/A,10/20/2024,ELECTRONICS,Houston,Cash on Delivery,11,82.38
+TXN-10563,Alex Davis,alex.davis@domain.com,N/A,2024-05-30,Apparel,Houston,CC,8,213.72
+TXN-10564,Chris Wilson,chris.wilson@domain.com,+1 (280) 346-4646,2024-01-10,Electronics,Chicago,CC,9,24.13
+TXN-10565,John Wilson,john.wilson@domain.com,N/A,11/19/2024,Home,LA,Credit Card,9,459.56
+TXN-10566,alex  SMITH ,alex.smith@domain.com,N/A,2024/08/04,elec,NY,Credit Card,-1,220.93
+TXN-10567,Chris Miller,,+1 (294) 855-6054,2024/03/15,fashion,chicago,Debit Card,7,424.89
+TXN-10568,Sarah Williams,sarah.williams@domain.com,4188854954,2024/11/27,Beauty & Health,N.Y.,paypal,2,278.7
+TXN-10569,David Taylor,david.taylor@domain.com,,2024-03-22,Fashion,new york,COD,7,-754.64
+TXN-10570,Alex Johnson,,552.490.1347,19-Jan-2024,Apparel,chicago,PayPal,2,310.5
+TXN-10571,Jessica Johnson,jessica.johnson@domain.com,891.101.4359,09-Aug-2024,Beauty & Health,Chicago,CC,8,545.48
+TXN-10572,David Jones,david.jones@domain.com,+1 (673) 289-1418,09/18/2024,ELECTRONICS,Miami,Credit Card,8,190.67
+TXN-10573,Jessica Taylor,jessica.taylor@domain.com,+1 (438) 971-3500,11/10/2024,ELECTRONICS,N.Y.,Debit Card,7,177.52
+TXN-10574,Jane Smith,missing,2233202983,2024-10-20,Fashion,Los Angeles,credit card,7,481.83
+TXN-10575,Jessica Brown,jessica.brown@domain.com,577.487.3256,2024-08-07,elec,Miami,PayPal,-6,55.3
+TXN-10576,Emily Smith,emily.smith@domain.com,639.441.2442,01-Jan-2024,fashion,N.Y.,Credit Card,2,648.05
+TXN-10577,Jessica Miller,,5751544649,2024-01-26,elec,chicago,PayPal,8,288.44
+TXN-10578,Jessica Jones,jessica.jones@domain.com,457.627.2373,06-Oct-2024,Apparel,los angeles,Cash on Delivery,5,150.88
+TXN-10579,emily  SMITH ,emily.smith@domain.com,+1 (332) 711-2004,2024-07-14,Fashion,N.Y.,paypal,5,64.57
+TXN-10580,Alex Jones,alex.jones@domain.com,+1 (481) 392-2292,24-Apr-2024,ELECTRONICS,NY,Debit Card,11,528.89
+TXN-10581,Alex Jones,alex.jones@domain.com,+1 (485) 797-8108,2024/01/08,Apparel,new york,paypal,8,438.1
+TXN-10582,Jessica Brown,,370.683.5786,2024-03-22,fashion,N.Y.,PayPal,3,413.16
+TXN-10583,Emily Taylor,emily.taylor@domain.com,+1 (987) 241-5885,2024-05-17,Fashion,Chicago,CC,6,87.81
+TXN-10584,emily  TAYLOR ,,5961835835,2024-08-23,Fashion,Chicago,COD,10,619.18
+TXN-10585,John Jones,john.jones@domain.com,830.260.4934,2024/08/26,Electronics,Houston,COD,6,616.66
+TXN-10586,John Jones,john.jones@domain.com,,2024/06/11,ELECTRONICS,LA,PayPal,11,756.8
+TXN-10587,Daniel Miller,daniel.miller@domain.com,5708868928,,fashion,los angeles,credit card,11,187.67
+TXN-10588,Daniel Miller,,+1 (691) 995-6465,31-Jan-2024,Home & Kitchen,NY,Credit Card,8,120.3
+TXN-10589,Michael Johnson,michael.johnson@domain.com,462.105.4360,2024/12/15,Fashion,new york,Cash on Delivery,9,-286.92
+TXN-10590,David Jones,david.jones@domain.com,,2024/08/11,ELECTRONICS,LA,Debit Card,11,828.99
+TXN-10591,Sarah Johnson,sarah.johnson@domain.com,,13-Sep-2024,fashion,Los Angeles,Cash on Delivery,1,596.88
+TXN-10592,John Williams,john.williams@domain.com,8122859117,2024-08-03,Apparel,new york,PayPal,4,419.49
+TXN-10593,Alex Jones,alex.jones@domain.com,N/A,,Fashion,new york,PayPal,6,331.66
+TXN-10594,Michael Johnson,michael.johnson@domain.com,+1 (248) 882-7728,04-Nov-2024,fashion,LA,Cash on Delivery,3,448.82
+TXN-10595,Alex Smith,alex.smith@domain.com,3353769066,2024-01-27,elec,NY,COD,4,162.17
+TXN-10596,Emily Wilson,emily.wilson@domain.com,+1 (585) 372-7969,2024-04-16,ELECTRONICS,N.Y.,credit card,2,158.92
+TXN-10597,David Jones,david.jones@domain.com,N/A,2024/12/10,fashion,LA,paypal,3,846.8
+TXN-10598,David Johnson,david.johnson@domain.com,3779318735,2024-08-07,Home,Miami,paypal,5,35.23
+TXN-10599,Emily Miller,emily.miller@domain.com,888.397.9598,10/28/2024,Apparel,LA,Debit Card,1,373.66
+TXN-10600,john  JONES ,john.jones@domain.com,N/A,2024-07-12,Electronics,NY,CC,3,277.85
+TXN-10601,Chris Taylor, CHRIS.TAYLOR@DOMAIN.COM ,4495458097,2024-11-26,ELECTRONICS,los angeles,COD,5,170.44
+TXN-10602,Sarah Brown,sarah.brown@domain.com,+1 (306) 970-3669,02/24/2024,Fashion,NY,COD,3,414.73
+TXN-10603,John Brown,john.brown@domain.com,,2024-01-26,Apparel,chicago,Debit Card,7,849.04
+TXN-10604,Daniel Brown,daniel.brown@domain.com,335.504.4024,2024-08-15,ELECTRONICS,NY,paypal,10,698.08
+TXN-10605,Sarah Miller,sarah.miller@domain.com,,03/08/2024,Home & Kitchen,New York,Credit Card,6,186.72
+TXN-10606,daniel  WILLIAMS ,daniel.williams@domain.com,811.749.9086,12/20/2024,Home & Kitchen,Los Angeles,Debit Card,8,436.3
+TXN-10607,Daniel Wilson,daniel.wilson@domain.com,3022402157,2024/03/19,Apparel,New York,Cash on Delivery,3,803.8
+TXN-10608,Sarah Taylor,sarah.taylor@domain.com,8959719198,2024-11-09,ELECTRONICS,Chicago,Credit Card,2,62.55
+TXN-10609,Chris Miller,chris.miller@domain.com,,2024-01-05,fashion,New York,Credit Card,11,369.94
+TXN-10610,Emily Johnson,emily.johnson@domain.com,573.769.7710,2024-01-27,elec,New York,COD,9,544.19
+TXN-10611,David Wilson, DAVID.WILSON@DOMAIN.COM ,,12/19/2024,Electronics,chicago,paypal,4,40.47
+TXN-10612,Michael Smith,michael.smith@domain.com,5914272238,03/22/2024,ELECTRONICS,new york,COD,9,713.89
+TXN-10613,Jane Anderson,jane.anderson@domain.com,997.449.2019,05-Oct-2024,Apparel,N.Y.,Debit Card,9,593.46
+TXN-10614,Chris Wilson,chris.wilson@domain.com,+1 (250) 843-3431,06-Nov-2024,fashion,N.Y.,PayPal,1,279.92
+TXN-10615,Jane Brown,jane.brown@domain.com,,2024/05/25,ELECTRONICS,Miami,Credit Card,10,252.78
+TXN-10616,Michael Johnson,michael.johnson@domain.com,,07-Apr-2024,Electronics,N.Y.,credit card,3,65.93
+TXN-10617,Jane Jones,,,01/28/2024,Home & Kitchen,Houston,PayPal,8,284.17
+TXN-10618,Jane Anderson,jane.anderson@domain.com,620.404.9481,23-Dec-2024,Home & Kitchen,los angeles,Debit Card,5,276.14
+TXN-10619,John Williams,john.williams@domain.com,214.127.1387,07-Apr-2024,Electronics,Los Angeles,Debit Card,-4,763.32
+TXN-10620,David Johnson,david.johnson@domain.com,,08/23/2024,fashion,New York,paypal,8,589.31
+TXN-10621,Chris Johnson,chris.johnson@domain.com,,05/25/2024,elec,los angeles,Debit Card,7,23932.3
+TXN-10622,Alex Wilson,alex.wilson@domain.com,8737037143,23-Jul-2024,elec,new york,Debit Card,4,297.09
+TXN-10623,Chris Williams,missing,+1 (883) 577-5158,2024/06/25,Fashion,NY,Debit Card,9,696.34
+TXN-10624,Jane Johnson,jane.johnson@domain.com,9333161097,10/23/2024,ELECTRONICS,Houston,PayPal,9,52.47
+TXN-10625,michael  WILLIAMS ,michael.williams@domain.com,588.180.5497,04/30/2024,Electronics,new york,Debit Card,5,63.72
+TXN-10626,Michael Johnson,michael.johnson@domain.com,482.410.6435,12/06/2024,fashion,Miami,PayPal,8,481.58
+TXN-10627,Daniel Williams,daniel.williams@domain.com,,04/19/2024,fashion,new york,Debit Card,-11,826.61
+TXN-10628,Alex Smith,alex.smith@domain.com,+1 (331) 192-4593,23-Mar-2024,ELECTRONICS,Miami,credit card,11,754.61
+TXN-10629,David Smith, DAVID.SMITH@DOMAIN.COM ,322.973.4683,,Apparel,Miami,paypal,8,
+TXN-10630,Sarah Brown,sarah.brown@domain.com,760.177.1471,2024-06-24,fashion,N.Y.,Debit Card,11,482.27
+TXN-10631,Daniel Taylor,daniel.taylor@domain.com,N/A,03/26/2024,ELECTRONICS,los angeles,credit card,1,536.52
+TXN-10632,David Johnson,david.johnson@domain.com,+1 (310) 683-5864,17-Sep-2024,elec,los angeles,Debit Card,6,647.37
+TXN-10633,Jessica Wilson,N/A,557.803.9839,12/12/2024,Apparel,chicago,COD,5,138.57
+TXN-10634,Jessica Williams,jessica.williams@domain.com,,2024-09-25,elec,new york,Debit Card,11,549.85
+TXN-10635,John Johnson, JOHN.JOHNSON@DOMAIN.COM ,+1 (599) 605-4238,09/04/2024,ELECTRONICS,New York,CC,1,91.87
+TXN-10636,Jane Smith,jane.smith@domain.com,8146444044,06-Dec-2024,fashion,NY,credit card,2,714.94
+TXN-10637,Jane Williams,N/A,8871668055,2024-12-15,Apparel,Chicago,credit card,4,231.03
+TXN-10638,Michael Miller,N/A,4825729607,,Home,Los Angeles,COD,7,
+TXN-10639,Michael Anderson,michael.anderson@domain.com,N/A,01-Oct-2024,fashion,Chicago,Cash on Delivery,-5,778.4
+TXN-10640,John Miller, JOHN.MILLER@DOMAIN.COM ,N/A,2024-01-08,Beauty & Health,N.Y.,credit card,10,
+TXN-10641,John Williams,john.williams@domain.com,898.661.8876,19-Aug-2024,Fashion,New York,CC,6,50.09
+TXN-10642,Jessica Jones,jessica.jones@domain.com,951.761.7282,05/17/2024,Beauty & Health,los angeles,credit card,10,52.31
+TXN-10643,Sarah Anderson,sarah.anderson@domain.com,+1 (288) 199-3040,09/25/2024,ELECTRONICS,Miami,PayPal,1,781.64
+TXN-10644,John Jones,,+1 (240) 886-5392,14-Jul-2024,elec,chicago,CC,2,652.65
+TXN-10645,Daniel Taylor, DANIEL.TAYLOR@DOMAIN.COM ,7429016080,2024/02/16,ELECTRONICS,N.Y.,paypal,4,105.33
+TXN-10646,Jane Taylor,jane.taylor@domain.com,,22-Jul-2024,Home & Kitchen,Chicago,credit card,9,793.25
+TXN-10647,Jane Miller,jane.miller@domain.com,+1 (772) 973-8597,12/04/2024,Electronics,chicago,credit card,-10,286.41
+TXN-10648,Daniel Anderson,daniel.anderson@domain.com,+1 (715) 848-8717,2024-09-04,Electronics,Chicago,credit card,5,-185.66
+TXN-10649,Alex Miller,alex.miller@domain.com,,26-Oct-2024,elec,N.Y.,Debit Card,3,793.03
+TXN-10650,Chris Smith,chris.smith@domain.com,+1 (817) 783-9187,19-Feb-2024,elec,NY,PayPal,1,596.52
+TXN-10651,Daniel Williams,,+1 (586) 493-5778,29-May-2024,Fashion,los angeles,PayPal,3,79.28
+TXN-10652,Chris Davis,,N/A,2024/05/13,Home,chicago,COD,3,466.01
+TXN-10653,Michael Anderson,N/A,N/A,2024-07-02,Home,Los Angeles,COD,10,77.75
+TXN-10654,Alex Brown,alex.brown@domain.com,4622843563,02/09/2024,Electronics,Miami,Cash on Delivery,4,400.16
+TXN-10655,John Taylor, JOHN.TAYLOR@DOMAIN.COM ,372.400.5695,2024/11/29,fashion,chicago,PayPal,2,
+TXN-10656,michael  MILLER ,michael.miller@domain.com,6961542186,2024-02-08,Apparel,NY,Debit Card,5,592.52
+TXN-10657,Jessica Williams,jessica.williams@domain.com,+1 (692) 778-1390,18-Jul-2024,Beauty & Health,Chicago,PayPal,3,581.41
+TXN-10658,Michael Wilson,michael.wilson@domain.com,+1 (575) 508-7854,30-Oct-2024,Home & Kitchen,New York,Credit Card,9,807.57
+TXN-10659,Emily Davis,emily.davis@domain.com,7995811599,2024-11-30,ELECTRONICS,Houston,Credit Card,7,604.2
+TXN-10660,David Williams,david.williams@domain.com,841.594.4340,12-Aug-2024,ELECTRONICS,N.Y.,PayPal,11,347.97
+TXN-10661,daniel  TAYLOR , DANIEL.TAYLOR@DOMAIN.COM ,N/A,2024-04-30,Fashion,los angeles,COD,10,818.11
+TXN-10662,Michael Wilson,missing,8554347161,2024/12/04,Electronics,N.Y.,credit card,3,
+TXN-10663,Sarah Anderson,sarah.anderson@domain.com,295.206.1631,2024-02-01,Apparel,Houston,COD,7,578.6
+TXN-10664,Jessica Davis,jessica.davis@domain.com,,2024/02/21,elec,Chicago,Credit Card,10,556.02
+TXN-10665,Alex Anderson,alex.anderson@domain.com,428.249.2624,06/22/2024,fashion,los angeles,PayPal,8,658.58
+TXN-10666,Alex Williams,N/A,,2024-06-18,fashion,Miami,Cash on Delivery,1,837.93
+TXN-10667,David Brown,,,12-May-2024,fashion,Houston,CC,8,785.53
+TXN-10668,Jane Johnson,jane.johnson@domain.com,,2024/10/28,Fashion,los angeles,credit card,10,201.8
+TXN-10669,chris  JONES , CHRIS.JONES@DOMAIN.COM ,+1 (207) 804-4462,01/11/2024,Fashion,Los Angeles,Debit Card,3,211.86
+TXN-10670,Sarah Jones,sarah.jones@domain.com,,2024-08-31,Apparel,chicago,paypal,2,69.78
+TXN-10671,David Davis,david.davis@domain.com,7817475887,2024/01/04,Home & Kitchen,LA,COD,6,651.47
+TXN-10672,Jessica Wilson,N/A,N/A,2024/04/21,elec,NY,paypal,1,303.53
+TXN-10673,Sarah Davis,sarah.davis@domain.com,333.213.2464,01-Apr-2024,Fashion,chicago,COD,8,713.07
+TXN-10674,Jessica Smith,jessica.smith@domain.com,718.347.3415,2024/09/24,Home,new york,PayPal,10,-311.5
+TXN-10675,Michael Johnson,michael.johnson@domain.com,7967936873,12/13/2024,Apparel,los angeles,credit card,6,34.6
+TXN-10676,David Anderson,david.anderson@domain.com,+1 (492) 433-8210,16-Nov-2024,elec,NY,credit card,4,464.57
+TXN-10677,emily  SMITH , EMILY.SMITH@DOMAIN.COM ,+1 (374) 805-7051,2024/03/15,ELECTRONICS,new york,Debit Card,8,794.17
+TXN-10678,Alex Williams,alex.williams@domain.com,+1 (555) 170-5401,04/11/2024,Home,Houston,credit card,3,439.98
+TXN-10679,Chris Smith,chris.smith@domain.com,N/A,2024-10-28,Home & Kitchen,los angeles,Debit Card,9,792.5
+TXN-10680,David Wilson,david.wilson@domain.com,,05-May-2024,Fashion,LA,COD,8,718.95
+TXN-10681,Daniel Anderson,daniel.anderson@domain.com,,07/12/2024,elec,New York,CC,9,465.94
+TXN-10682,Emily Brown,emily.brown@domain.com,6602374920,2024-07-15,Beauty & Health,los angeles,COD,4,321.57
+TXN-10683,Alex Taylor,alex.taylor@domain.com,,2024/06/15,Apparel,LA,Credit Card,4,-321.07
+TXN-10684,Emily Brown,emily.brown@domain.com,,15-Mar-2024,Apparel,NY,Credit Card,4,165.11
+TXN-10685,Sarah Jones, SARAH.JONES@DOMAIN.COM ,,2024-05-24,elec,new york,PayPal,5,507.98
+TXN-10686,Jane Smith,jane.smith@domain.com,N/A,2024-04-29,ELECTRONICS,N.Y.,Cash on Delivery,10,186.22
+TXN-10687,jessica  WILSON , JESSICA.WILSON@DOMAIN.COM ,N/A,01-Jan-2024,Fashion,Houston,Cash on Delivery,5,44.29
+TXN-10688,Alex Davis,alex.davis@domain.com,,08-Jan-2024,Beauty & Health,Houston,Debit Card,11,240.51
+TXN-10689,jane  MILLER ,jane.miller@domain.com,N/A,,Apparel,Los Angeles,Debit Card,9,386.15
+TXN-10690,Chris Jones,chris.jones@domain.com,5385236060,2024-08-16,Apparel,LA,Credit Card,10,520.36
+TXN-10691,Alex Miller,alex.miller@domain.com,+1 (680) 978-5171,2024/05/10,fashion,NY,COD,10,184.41
+TXN-10692,sarah  BROWN ,sarah.brown@domain.com,6326444491,2024/07/16,Home,New York,credit card,1,46.67
+TXN-10693,jane  JOHNSON ,jane.johnson@domain.com,+1 (933) 807-7153,05/02/2024,ELECTRONICS,LA,CC,11,411.63
+TXN-10694,David Anderson,david.anderson@domain.com,5065298274,2024/07/17,Electronics,Houston,Credit Card,2,30.67
+TXN-10695,John Smith,john.smith@domain.com,693.538.3697,2024-01-16,Fashion,N.Y.,Debit Card,4,576.04
+TXN-10696,Michael Johnson,michael.johnson@domain.com,2312321575,2024-08-18,fashion,Miami,Debit Card,7,
+TXN-10697,Sarah Johnson,sarah.johnson@domain.com,,01/10/2024,Home & Kitchen,New York,COD,10,386.06
+TXN-10698,Alex Smith, ALEX.SMITH@DOMAIN.COM ,,2024-08-26,Apparel,LA,Credit Card,2,
+TXN-10699,Daniel Smith,daniel.smith@domain.com,,18-Jan-2024,Fashion,Chicago,Cash on Delivery,9,59.3
+TXN-10700,Alex Taylor,alex.taylor@domain.com,N/A,2024-08-20,fashion,chicago,Credit Card,5,371.66
+TXN-10701,Michael Wilson,michael.wilson@domain.com,,2024-07-13,Home,Houston,Cash on Delivery,5,
+TXN-10702,Emily Taylor,emily.taylor@domain.com,9256271540,17-Oct-2024,fashion,Los Angeles,paypal,10,781.41
+TXN-10703,Michael Johnson,michael.johnson@domain.com,4395645275,04-Nov-2024,ELECTRONICS,N.Y.,Cash on Delivery,2,526.81
+TXN-10704,David Brown,david.brown@domain.com,5575258699,01-Aug-2024,Apparel,Houston,credit card,4,213.61
+TXN-10705,john  TAYLOR ,john.taylor@domain.com,N/A,2024-10-18,Electronics,Los Angeles,Credit Card,4,819.44
+TXN-10706,Emily Jones,emily.jones@domain.com,+1 (585) 307-4228,2024-05-11,Electronics,N.Y.,Cash on Delivery,1,44.56
+TXN-10707,Michael Johnson,,710.802.1948,,Fashion,Miami,credit card,-6,242.75
+TXN-10708,david  WILSON ,david.wilson@domain.com,+1 (346) 165-2061,17-Apr-2024,Electronics,NY,Cash on Delivery,1,445.73
+TXN-10709,sarah  JONES ,sarah.jones@domain.com,8965807793,2024/11/18,Electronics,Miami,paypal,9,26522.3
+TXN-10710,Sarah Wilson,sarah.wilson@domain.com,2959724477,01-Jul-2024,fashion,Miami,Debit Card,7,721.18
+TXN-10711,Alex Davis,alex.davis@domain.com,,2024/10/21,fashion,los angeles,paypal,1,155.88
+TXN-10712,Jessica Jones,missing,N/A,2024/06/14,Home,Houston,COD,4,48.63
+TXN-10713,John Taylor,john.taylor@domain.com,N/A,2024-01-23,Apparel,Houston,credit card,7,549.98
+TXN-10714,Sarah Taylor,missing,624.623.1561,09/20/2024,Fashion,los angeles,paypal,9,294.27
+TXN-10715,Chris Jones,chris.jones@domain.com,+1 (602) 166-8213,01/23/2024,Home,Houston,Credit Card,11,739.64
+TXN-10716,Emily Johnson,emily.johnson@domain.com,3136743446,05/03/2024,Apparel,los angeles,Debit Card,6,792.09
+TXN-10717,Chris Miller,chris.miller@domain.com,584.768.1264,08/19/2024,Fashion,los angeles,Cash on Delivery,11,274.68
+TXN-10718,David Miller,david.miller@domain.com,,03-Jan-2024,Beauty & Health,LA,Credit Card,11,
+TXN-10719,David Taylor,missing,2438622409,05-Sep-2024,ELECTRONICS,Houston,CC,11,114.86
+TXN-10720,Daniel Johnson,daniel.johnson@domain.com,638.156.9689,2024/02/18,ELECTRONICS,Los Angeles,CC,4,603.19
+TXN-10721,David Brown,david.brown@domain.com,N/A,2024/08/15,Electronics,new york,Cash on Delivery,9,712.59
+TXN-10722,Jessica Johnson,jessica.johnson@domain.com,N/A,2024-12-14,elec,New York,credit card,4,269.9
+TXN-10723,Alex Taylor,alex.taylor@domain.com,4654724223,05/13/2024,Electronics,new york,credit card,3,674.85
+TXN-10724,Chris Miller,chris.miller@domain.com,476.542.3930,2024/09/15,Fashion,Chicago,COD,-9,
+TXN-10725,chris  BROWN ,chris.brown@domain.com,6084828608,14-Apr-2024,Home & Kitchen,Miami,credit card,2,620.12
+TXN-10726,Jessica Johnson,jessica.johnson@domain.com,310.715.9973,2024/03/19,Beauty & Health,N.Y.,CC,9,365.88
+TXN-10727,Michael Davis,michael.davis@domain.com,718.110.8691,03/19/2024,elec,NY,credit card,-7,765.1
+TXN-10728,Alex Anderson,alex.anderson@domain.com,3847917841,2024-04-05,fashion,LA,Debit Card,1,323.79
+TXN-10729,Jane Davis,jane.davis@domain.com,+1 (290) 699-9271,10/09/2024,Fashion,LA,COD,5,76.88
+TXN-10730,Emily Jones,,+1 (843) 429-3880,2024-03-27,ELECTRONICS,Miami,credit card,7,76.03
+TXN-10731,John Smith,john.smith@domain.com,,10/26/2024,elec,los angeles,paypal,4,90.17
+TXN-10732,Daniel Miller,daniel.miller@domain.com,545.623.1135,2024-05-15,Electronics,NY,CC,4,754.78
+TXN-10733,john  JONES ,john.jones@domain.com,3879878752,10/08/2024,Electronics,NY,PayPal,2,203.65
+TXN-10734,alex  BROWN ,alex.brown@domain.com,+1 (867) 998-2285,,Home & Kitchen,chicago,CC,9,261.25
+TXN-10735,Emily Taylor,emily.taylor@domain.com,4254701027,2024-01-16,Apparel,los angeles,paypal,6,137.95
+TXN-10736,David Smith, DAVID.SMITH@DOMAIN.COM ,,2024/12/22,fashion,los angeles,credit card,4,424.68
+TXN-10737,David Wilson,david.wilson@domain.com,,2024-09-18,Home & Kitchen,new york,Credit Card,10,525.07
+TXN-10738,Michael Anderson, MICHAEL.ANDERSON@DOMAIN.COM ,300.931.1884,2024-12-15,Electronics,LA,Cash on Delivery,9,579.12
+TXN-10739,Jane Taylor,N/A,N/A,2024-10-30,Fashion,Los Angeles,Credit Card,3,
+TXN-10740,Alex Wilson,alex.wilson@domain.com,5596764072,2024-11-11,Beauty & Health,chicago,credit card,10,319.53
+TXN-10741,Michael Johnson,,+1 (570) 818-6835,01/21/2024,elec,LA,paypal,5,123.76
+TXN-10742,Jane Taylor,jane.taylor@domain.com,N/A,02-Apr-2024,Home,new york,PayPal,10,493.09
+TXN-10743,daniel  DAVIS ,daniel.davis@domain.com,+1 (411) 417-5083,22-Apr-2024,elec,los angeles,credit card,6,332.9
+TXN-10744,Alex Williams,alex.williams@domain.com,,05-Apr-2024,Beauty & Health,NY,CC,11,417.32
+TXN-10745,Sarah Johnson,sarah.johnson@domain.com,N/A,2024/12/17,Apparel,Los Angeles,COD,10,369.62
+TXN-10746,John Miller,john.miller@domain.com,216.684.9203,07/22/2024,Beauty & Health,Los Angeles,CC,9,136.89
+TXN-10747,Jessica Brown,jessica.brown@domain.com,+1 (530) 676-1941,10/29/2024,Home,Houston,Cash on Delivery,9,238.72
+TXN-10748,Alex Brown,alex.brown@domain.com,+1 (204) 824-9823,08/13/2024,Fashion,LA,Credit Card,1,
+TXN-10749,Emily Taylor,emily.taylor@domain.com,N/A,2024-01-15,Electronics,N.Y.,Debit Card,1,283.5
+TXN-10750,Alex Anderson,alex.anderson@domain.com,871.343.6022,26-Mar-2024,ELECTRONICS,LA,Debit Card,8,501.59
+TXN-10751,Jane Taylor,jane.taylor@domain.com,310.527.9162,2024-06-16,Apparel,New York,PayPal,2,832.76
+TXN-10752,Daniel Smith,daniel.smith@domain.com,862.652.3347,2024-04-10,ELECTRONICS,chicago,credit card,5,779.06
+TXN-10753,Michael Brown,michael.brown@domain.com,+1 (847) 805-9412,2024/05/08,Home,LA,CC,5,556.89
+TXN-10754,John Wilson,john.wilson@domain.com,N/A,05/31/2024,Electronics,NY,Debit Card,7,68.14
+TXN-10755,Jane Jones,jane.jones@domain.com,+1 (763) 260-3887,2024-09-23,Fashion,NY,PayPal,5,217.39
+TXN-10756,Emily Anderson,emily.anderson@domain.com,N/A,02/24/2024,ELECTRONICS,Chicago,paypal,4,-601.77
+TXN-10757,Jane Miller,jane.miller@domain.com,+1 (724) 797-9972,31-Jan-2024,Electronics,chicago,Credit Card,3,223.43
+TXN-10758,David Johnson,david.johnson@domain.com,N/A,07/20/2024,fashion,New York,credit card,3,97.35
+TXN-10759,Alex Brown,alex.brown@domain.com,N/A,18-Aug-2024,elec,Chicago,Debit Card,7,502.45
+TXN-10760,Daniel Williams,,417.207.2573,17-Feb-2024,Home,chicago,Credit Card,7,
+TXN-10761,Daniel Williams,daniel.williams@domain.com,N/A,05-Dec-2024,ELECTRONICS,los angeles,Debit Card,4,311.13
+TXN-10762,Sarah Wilson,sarah.wilson@domain.com,7705372925,21-Apr-2024,Home & Kitchen,los angeles,credit card,3,101.34
+TXN-10763,Michael Davis,michael.davis@domain.com,731.993.5137,10/23/2024,Home,chicago,CC,3,337.92
+TXN-10764,sarah  JOHNSON ,sarah.johnson@domain.com,+1 (854) 777-5951,10/28/2024,fashion,los angeles,credit card,9,107.68
+TXN-10765,David Miller,,3065435692,2024/06/17,Home & Kitchen,LA,COD,10,63.81
+TXN-10766,Sarah Williams,sarah.williams@domain.com,N/A,18-Oct-2024,Apparel,los angeles,CC,4,
+TXN-10767,Michael Williams,michael.williams@domain.com,5216418433,12-Nov-2024,Home & Kitchen,Los Angeles,Debit Card,11,674.76
+TXN-10768,Daniel Anderson,daniel.anderson@domain.com,254.800.3910,05/15/2024,ELECTRONICS,Chicago,CC,3,
+TXN-10769,Chris Johnson,chris.johnson@domain.com,946.116.9785,,Fashion,Miami,Cash on Delivery,2,347.92
+TXN-10770,John Johnson,john.johnson@domain.com,+1 (874) 619-4223,2024-04-09,Home,Miami,PayPal,10,192.87
+TXN-10771,Jane Brown,jane.brown@domain.com,616.451.1975,30-May-2024,Beauty & Health,N.Y.,paypal,2,784.61
+TXN-10772,Sarah Davis,sarah.davis@domain.com,+1 (497) 498-2041,07/21/2024,Home & Kitchen,los angeles,COD,11,112.25
+TXN-10773,David Johnson,david.johnson@domain.com,N/A,03/17/2024,elec,los angeles,Cash on Delivery,9,499.47
+TXN-10774,Michael Taylor,michael.taylor@domain.com,,05/16/2024,Home & Kitchen,Houston,COD,10,813.04
+TXN-10775,alex  DAVIS ,alex.davis@domain.com,6437678426,05/15/2024,Electronics,LA,COD,-9,449.83
+TXN-10776,Michael Smith,michael.smith@domain.com,N/A,2024/05/22,Home & Kitchen,Los Angeles,Cash on Delivery,9,253.77
+TXN-10777,Jessica Johnson,missing,+1 (268) 557-3587,,Electronics,Miami,Cash on Delivery,9,600.02
+TXN-10778,Daniel Miller,daniel.miller@domain.com,N/A,16-Feb-2024,Home & Kitchen,los angeles,CC,1,452.43
+TXN-10779,Emily Smith,emily.smith@domain.com,N/A,2024/08/22,elec,NY,Credit Card,8,320.51
+TXN-10780,John Miller, JOHN.MILLER@DOMAIN.COM ,359.958.4551,03/15/2024,elec,New York,credit card,10,295.14
+TXN-10781,Jane Wilson, JANE.WILSON@DOMAIN.COM ,,2024-01-27,Beauty & Health,Los Angeles,Cash on Delivery,3,49.64
+TXN-10782,Daniel Davis,daniel.davis@domain.com,8441299958,14-Mar-2024,fashion,NY,COD,3,601.52
+TXN-10783,Jessica Davis,jessica.davis@domain.com,385.645.7861,23-Dec-2024,Home,Houston,Cash on Delivery,7,533.92
+TXN-10784,Emily Johnson,emily.johnson@domain.com,3683653355,07/03/2024,Home,los angeles,PayPal,6,525.72
+TXN-10785,Sarah Miller, SARAH.MILLER@DOMAIN.COM ,+1 (893) 964-6489,28-Jan-2024,Apparel,los angeles,Debit Card,10,38.04
+TXN-10786,david  MILLER ,david.miller@domain.com,+1 (381) 785-3667,03/29/2024,Beauty & Health,LA,PayPal,10,84.25
+TXN-10787,jane  BROWN ,jane.brown@domain.com,618.567.2828,03/01/2024,ELECTRONICS,Los Angeles,COD,5,491.94
+TXN-10788,Michael Williams,michael.williams@domain.com,,01-Apr-2024,Fashion,Houston,CC,2,
+TXN-10789,Chris Johnson,chris.johnson@domain.com,,06/05/2024,Apparel,Chicago,Debit Card,11,159.3
+TXN-10790,Alex Anderson,alex.anderson@domain.com,4453823661,2024/10/20,fashion,LA,CC,5,793.46
+TXN-10791,Emily Williams,emily.williams@domain.com,N/A,17-May-2024,Home & Kitchen,los angeles,CC,3,540.65
+TXN-10792,Daniel Smith,daniel.smith@domain.com,250.544.8826,02/20/2024,Beauty & Health,LA,credit card,3,-203.81
+TXN-10793,John Williams,john.williams@domain.com,268.925.5158,2024-09-14,Electronics,Los Angeles,paypal,3,490.28
+TXN-10794,John Brown,john.brown@domain.com,N/A,2024-02-13,elec,Los Angeles,CC,11,
+TXN-10795,Chris Smith,chris.smith@domain.com,+1 (958) 825-8971,30-Jan-2024,Beauty & Health,NY,Cash on Delivery,5,-523.05
+TXN-10796,daniel  MILLER ,daniel.miller@domain.com,+1 (423) 654-3434,2024/11/30,Fashion,Miami,COD,7,561.57
+TXN-10797,Chris Williams,chris.williams@domain.com,+1 (501) 659-3074,2024/05/13,Home,Chicago,Debit Card,4,241.37
+TXN-10798,Chris Johnson,chris.johnson@domain.com,539.451.7953,2024/07/27,Electronics,LA,COD,-10,94.58
+TXN-10799,David Davis,david.davis@domain.com,,28-Feb-2024,elec,Chicago,credit card,8,44.71
+TXN-10800,Emily Davis,emily.davis@domain.com,,2024-11-14,Home & Kitchen,N.Y.,credit card,6,514.99
+TXN-10801,David Brown,david.brown@domain.com,+1 (556) 739-8428,,Fashion,los angeles,Debit Card,10,154.29
+TXN-10802,Jane Johnson,,574.697.1759,2024-11-22,elec,Los Angeles,PayPal,9,536.66
+TXN-10803,Michael Jones,michael.jones@domain.com,7064537559,03/28/2024,ELECTRONICS,Miami,Cash on Delivery,8,262.28
+TXN-10804,Jessica Miller,jessica.miller@domain.com,601.685.6137,2024-01-09,Fashion,LA,COD,11,251.46
+TXN-10805,Michael Williams,michael.williams@domain.com,,2024-11-06,ELECTRONICS,chicago,paypal,9,366.52
+TXN-10806,Jessica Brown,jessica.brown@domain.com,5936117764,,Fashion,LA,credit card,3,318.82
+TXN-10807,Jane Smith,jane.smith@domain.com,N/A,12-Jun-2024,Beauty & Health,los angeles,Cash on Delivery,1,691.61
+TXN-10808,Daniel Wilson, DANIEL.WILSON@DOMAIN.COM ,+1 (873) 401-6391,12/10/2024,elec,Miami,paypal,10,600.74
+TXN-10809,Jane Anderson,jane.anderson@domain.com,6705627944,08-Nov-2024,Electronics,Los Angeles,paypal,6,450.48
+TXN-10810,John Smith,john.smith@domain.com,838.304.5019,2024/06/16,Home,chicago,CC,3,458.09
+TXN-10811,Alex Anderson,alex.anderson@domain.com,+1 (680) 612-3466,09-Aug-2024,Home & Kitchen,Miami,Credit Card,6,326.19
+TXN-10812,Sarah Smith,sarah.smith@domain.com,+1 (942) 644-4651,03/01/2024,Beauty & Health,Chicago,CC,11,223.45
+TXN-10813,John Anderson,john.anderson@domain.com,,18-Sep-2024,Beauty & Health,Los Angeles,paypal,6,601.5
+TXN-10814,Alex Johnson,,N/A,03-May-2024,Beauty & Health,LA,Debit Card,2,845.73
+TXN-10815,Emily Johnson, EMILY.JOHNSON@DOMAIN.COM ,,06/01/2024,fashion,Miami,paypal,11,611.29
+TXN-10816,Michael Taylor,michael.taylor@domain.com,,,Apparel,Chicago,Cash on Delivery,6,748.84
+TXN-10817,Chris Taylor,chris.taylor@domain.com,303.530.4453,25-Jul-2024,Home,Houston,credit card,3,737.92
+TXN-10818,Jessica Taylor,jessica.taylor@domain.com,+1 (291) 905-3336,03/07/2024,Fashion,LA,Credit Card,4,566.22
+TXN-10819,Jane Miller,,,24-May-2024,Home,new york,COD,3,527.96
+TXN-10820,Sarah Brown,sarah.brown@domain.com,+1 (924) 136-6512,2024-11-01,Home,Chicago,Cash on Delivery,5,
+TXN-10821,Emily Smith,emily.smith@domain.com,3087927625,10/30/2024,Electronics,Houston,Debit Card,8,803.04
+TXN-10822,sarah  SMITH ,sarah.smith@domain.com,9602688120,2024/09/25,Apparel,Chicago,Cash on Delivery,1,377.46
+TXN-10823,Chris Taylor,chris.taylor@domain.com,916.175.4537,,fashion,los angeles,credit card,1,61.96
+TXN-10824,Emily Wilson,emily.wilson@domain.com,N/A,2024/06/10,fashion,LA,CC,2,550.95
+TXN-10825,Michael Taylor,N/A,N/A,05/30/2024,elec,Houston,PayPal,2,531.6
+TXN-10826,daniel  WILLIAMS ,daniel.williams@domain.com,,,Beauty & Health,new york,Credit Card,11,248.74
+TXN-10827,Jessica Smith,jessica.smith@domain.com,,06/02/2024,ELECTRONICS,New York,paypal,8,717.77
+TXN-10828,daniel  JONES ,daniel.jones@domain.com,+1 (437) 112-8424,31-Jul-2024,Electronics,N.Y.,PayPal,4,115.69
+TXN-10829,Sarah Davis,sarah.davis@domain.com,+1 (668) 254-2842,02-Feb-2024,fashion,chicago,CC,9,683.64
+TXN-10830,david  SMITH ,david.smith@domain.com,315.570.5444,2024/01/12,fashion,chicago,credit card,10,23.61
+TXN-10831,Chris Williams,,+1 (824) 328-7393,03-Jun-2024,Fashion,Chicago,Credit Card,6,831.95
+TXN-10832,Jane Anderson,missing,932.209.4641,2024/06/06,fashion,los angeles,paypal,-4,844.78
+TXN-10833,David Taylor,missing,580.521.8108,06/11/2024,Electronics,LA,Cash on Delivery,11,505.7
+TXN-10834,Emily Brown,emily.brown@domain.com,+1 (715) 132-4748,2024/05/13,Home,Chicago,PayPal,5,394.0
+TXN-10835,Emily Anderson,,,11/11/2024,ELECTRONICS,NY,credit card,11,112.83
+TXN-10836,Sarah Davis,sarah.davis@domain.com,N/A,2024-06-12,Electronics,Los Angeles,COD,3,527.06
+TXN-10837,Alex Anderson,alex.anderson@domain.com,,2024/10/23,Home & Kitchen,Chicago,Debit Card,8,9970.8
+TXN-10838,David Wilson,N/A,540.656.6293,2024-03-08,Fashion,LA,COD,9,822.3
+TXN-10839,Sarah Miller,sarah.miller@domain.com,+1 (898) 905-2845,02-Apr-2024,Home,Miami,Debit Card,1,384.41
+TXN-10840,Jessica Davis,jessica.davis@domain.com,N/A,2024/08/14,Beauty & Health,LA,Debit Card,8,198.08
+TXN-10841,Alex Jones,alex.jones@domain.com,N/A,2024-06-13,elec,Miami,COD,4,509.71
+TXN-10842,Jessica Davis,jessica.davis@domain.com,N/A,19-Nov-2024,Home & Kitchen,New York,COD,9,404.62
+TXN-10843,Jessica Jones,jessica.jones@domain.com,7818724573,22-Aug-2024,fashion,Los Angeles,Debit Card,10,143.71
+TXN-10844,jane  MILLER ,jane.miller@domain.com,,10/12/2024,fashion,Houston,paypal,6,814.81
+TXN-10845,Jessica Johnson,jessica.johnson@domain.com,+1 (958) 965-2040,08/31/2024,fashion,NY,PayPal,1,596.79
+TXN-10846,Emily Anderson,emily.anderson@domain.com,9786751129,2024/02/14,fashion,new york,Credit Card,9,692.41
+TXN-10847,chris  TAYLOR ,chris.taylor@domain.com,N/A,2024-01-17,Electronics,N.Y.,credit card,9,52.92
+TXN-10848,Daniel Brown,daniel.brown@domain.com,723.343.1421,02/22/2024,fashion,NY,Credit Card,5,-455.35
+TXN-10849,David Jones,david.jones@domain.com,N/A,03-Jan-2024,Fashion,NY,PayPal,11,509.24
+TXN-10850,Jessica Brown, JESSICA.BROWN@DOMAIN.COM ,N/A,07-May-2024,Fashion,New York,paypal,2,380.44
+TXN-10851,Jane Davis,,3758449334,2024-01-23,fashion,Los Angeles,PayPal,7,764.1
+TXN-10852,Michael Davis,michael.davis@domain.com,,2024-12-03,Fashion,NY,Cash on Delivery,6,329.4
+TXN-10853,Jessica Miller,jessica.miller@domain.com,562.144.7970,10/11/2024,Home & Kitchen,LA,credit card,2,125.16
+TXN-10854,Alex Jones,,+1 (995) 962-9262,31-Oct-2024,Fashion,Miami,credit card,2,151.18
+TXN-10855,Sarah Miller,sarah.miller@domain.com,802.439.5075,,Home & Kitchen,LA,PayPal,5,54.25
+TXN-10856,Michael Wilson,michael.wilson@domain.com,,08-Feb-2024,Beauty & Health,Miami,COD,4,440.28
+TXN-10857,Michael Davis,michael.davis@domain.com,,2024/06/22,elec,New York,Cash on Delivery,9,45.71
+TXN-10858,emily  JONES ,emily.jones@domain.com,,17-Jul-2024,Home & Kitchen,Los Angeles,credit card,3,27584.2
+TXN-10859,Alex Johnson,alex.johnson@domain.com,862.850.6968,2024-04-20,elec,N.Y.,paypal,10,662.6
+TXN-10860,Alex Anderson,alex.anderson@domain.com,598.173.8544,04/18/2024,elec,N.Y.,PayPal,9,419.34
+TXN-10861,Jane Wilson,jane.wilson@domain.com,N/A,2024-08-24,Electronics,New York,COD,-2,817.73
+TXN-10862,Daniel Smith,daniel.smith@domain.com,3335985492,2024-05-14,Fashion,N.Y.,paypal,3,332.51
+TXN-10863,Alex Smith, ALEX.SMITH@DOMAIN.COM ,2436184199,2024-05-09,Beauty & Health,chicago,Cash on Delivery,11,
+TXN-10864,Sarah Williams,sarah.williams@domain.com,,2024-07-17,Beauty & Health,new york,paypal,1,
+TXN-10865,Jessica Anderson,jessica.anderson@domain.com,,05/16/2024,Apparel,Houston,Debit Card,3,
+TXN-10866,Michael Smith,,+1 (637) 791-8459,2024/07/10,Electronics,New York,CC,9,46.05
+TXN-10867,John Davis,john.davis@domain.com,N/A,02/16/2024,Electronics,new york,credit card,11,179.76
+TXN-10868,Emily Johnson,missing,7134316097,17-May-2024,ELECTRONICS,Los Angeles,credit card,8,370.52
+TXN-10869,Jane Jones,jane.jones@domain.com,+1 (893) 588-7755,25-Apr-2024,Fashion,new york,paypal,10,569.08
+TXN-10870,Jessica Jones, JESSICA.JONES@DOMAIN.COM ,,,Home & Kitchen,New York,credit card,8,
+TXN-10871,Emily Smith,N/A,643.336.3655,2024/08/10,ELECTRONICS,N.Y.,paypal,1,97.44
+TXN-10872,Jessica Williams,jessica.williams@domain.com,414.657.1188,09/17/2024,Electronics,N.Y.,Cash on Delivery,10,242.34
+TXN-10873,Jane Williams,jane.williams@domain.com,648.828.7818,21-Jun-2024,Home & Kitchen,Chicago,Debit Card,10,487.87
+TXN-10874,Michael Williams,N/A,4248421689,2024-10-23,fashion,NY,CC,7,785.12
+TXN-10875,Emily Williams, EMILY.WILLIAMS@DOMAIN.COM ,N/A,04/16/2024,Electronics,los angeles,COD,6,217.98
+TXN-10876,Daniel Johnson,daniel.johnson@domain.com,5345627444,2024-04-25,fashion,Chicago,COD,3,840.5
+TXN-10877,Michael Brown,missing,+1 (647) 346-7842,,Home,New York,credit card,5,785.82
+TXN-10878,jane  WILLIAMS ,jane.williams@domain.com,N/A,12/02/2024,Apparel,N.Y.,Credit Card,11,253.36
+TXN-10879,Chris Taylor,missing,7695304786,08/15/2024,Apparel,new york,CC,-1,412.54
+TXN-10880,Emily Davis,emily.davis@domain.com,7166741220,03/22/2024,fashion,los angeles,paypal,11,845.89
+TXN-10881,Chris Miller,chris.miller@domain.com,+1 (579) 903-7886,02/28/2024,elec,Houston,paypal,3,813.03
+TXN-10882,David Brown,david.brown@domain.com,,2024/05/20,Beauty & Health,N.Y.,CC,2,574.49
+TXN-10883,Sarah Brown,sarah.brown@domain.com,,24-Oct-2024,Apparel,chicago,Credit Card,1,57.48
+TXN-10884,Emily Taylor,emily.taylor@domain.com,932.853.6515,2024-10-07,Fashion,Houston,Cash on Delivery,2,825.76
+TXN-10885,Emily Jones,emily.jones@domain.com,+1 (696) 442-7383,08/12/2024,Fashion,Houston,Cash on Delivery,1,127.6
+TXN-10886,Alex Miller,alex.miller@domain.com,,07/18/2024,fashion,Los Angeles,Cash on Delivery,7,36.43
+TXN-10887,Daniel Williams,daniel.williams@domain.com,N/A,04-Feb-2024,Apparel,chicago,COD,10,616.31
+TXN-10888,Sarah Anderson,sarah.anderson@domain.com,+1 (465) 233-3511,2024/05/11,Home & Kitchen,los angeles,Cash on Delivery,-6,628.57
+TXN-10889,Emily Jones,emily.jones@domain.com,N/A,2024-11-04,Beauty & Health,los angeles,Credit Card,6,539.9
+TXN-10890,Jessica Williams,jessica.williams@domain.com,,2024-04-16,Electronics,NY,Cash on Delivery,5,56.39
+TXN-10891,Emily Miller,emily.miller@domain.com,406.474.1558,22-May-2024,Apparel,Chicago,Credit Card,9,621.99
+TXN-10892,Alex Johnson,alex.johnson@domain.com,7257609048,26-Feb-2024,Home,LA,credit card,6,-501.86
+TXN-10893,emily  WILLIAMS ,emily.williams@domain.com,+1 (513) 184-2438,2024/11/24,Electronics,new york,paypal,8,768.75
+TXN-10894,Chris Wilson,chris.wilson@domain.com,N/A,2024-08-26,Home & Kitchen,NY,Cash on Delivery,5,655.68
+TXN-10895,Alex Davis,alex.davis@domain.com,4373925923,2024-02-05,fashion,Chicago,Debit Card,1,607.35
+TXN-10896,Alex Brown,,505.308.3514,2024/09/20,Apparel,N.Y.,Credit Card,7,43.43
+TXN-10897,John Williams,john.williams@domain.com,715.323.1202,04/16/2024,Fashion,Houston,CC,5,173.35
+TXN-10898,Jessica Smith,jessica.smith@domain.com,+1 (543) 268-6280,2024-09-19,Fashion,Chicago,Cash on Delivery,8,754.41
+TXN-10899,Alex Brown,alex.brown@domain.com,8481522371,11/22/2024,Apparel,new york,credit card,9,661.53
+TXN-10900,jessica  JONES ,jessica.jones@domain.com,5515411024,2024/08/11,elec,chicago,credit card,11,252.04
+TXN-10901,John Wilson,john.wilson@domain.com,613.358.7022,19-May-2024,Home,LA,Cash on Delivery,10,743.36
+TXN-10902,John Brown, JOHN.BROWN@DOMAIN.COM ,6883135275,20-Jun-2024,Fashion,NY,paypal,8,635.23
+TXN-10903,Michael Anderson,michael.anderson@domain.com,,04/28/2024,Home,LA,paypal,4,376.57
+TXN-10904,michael  MILLER ,michael.miller@domain.com,,11/20/2024,elec,chicago,PayPal,10,722.35
+TXN-10905,daniel  WILSON ,,,03/16/2024,elec,los angeles,COD,9,156.3
+TXN-10906,Alex Wilson,alex.wilson@domain.com,,18-Sep-2024,Electronics,Chicago,Debit Card,9,273.47
+TXN-10907,Chris Miller,chris.miller@domain.com,+1 (831) 232-3427,21-Oct-2024,Home,Chicago,credit card,2,372.73
+TXN-10908,Chris Jones,chris.jones@domain.com,,11/05/2024,Fashion,LA,Credit Card,7,53.01
+TXN-10909,Sarah Wilson, SARAH.WILSON@DOMAIN.COM ,537.839.6006,2024/03/20,fashion,Miami,CC,6,721.2
+TXN-10910,chris  BROWN ,,723.382.2964,2024/01/14,Apparel,LA,PayPal,7,299.47
+TXN-10911,jane  BROWN ,jane.brown@domain.com,2208636957,2024/11/04,Beauty & Health,LA,Cash on Delivery,1,163.18
+TXN-10912,Michael Jones,michael.jones@domain.com,N/A,07-Apr-2024,Apparel,chicago,Debit Card,2,723.72
+TXN-10913,John Brown,john.brown@domain.com,598.814.3249,11/04/2024,elec,los angeles,credit card,8,750.25
+TXN-10914,daniel  WILLIAMS ,daniel.williams@domain.com,+1 (442) 116-2949,2024/07/04,Apparel,Los Angeles,COD,3,70.13
+TXN-10915,Jessica Smith,jessica.smith@domain.com,,2024-08-10,Electronics,Chicago,PayPal,8,282.7
+TXN-10916,Jessica Smith,jessica.smith@domain.com,N/A,12-Sep-2024,ELECTRONICS,NY,paypal,8,153.2
+TXN-10917,John Jones, JOHN.JONES@DOMAIN.COM ,9646663714,12/04/2024,Home & Kitchen,Los Angeles,paypal,4,26.68
+TXN-10918,Michael Taylor,N/A,+1 (306) 659-9078,,Beauty & Health,LA,credit card,3,609.86
+TXN-10919,Michael Smith,michael.smith@domain.com,+1 (810) 624-5926,2024-02-13,elec,los angeles,Credit Card,1,123.33
+TXN-10920,Emily Davis,emily.davis@domain.com,9868127138,2024/11/15,Beauty & Health,Houston,CC,4,300.72
+TXN-10921,alex  JOHNSON ,alex.johnson@domain.com,9268066585,10/08/2024,fashion,new york,CC,2,614.17
+TXN-10922,Michael Brown,michael.brown@domain.com,,2024-01-11,Home & Kitchen,Los Angeles,COD,10,593.82
+TXN-10923,David Brown,david.brown@domain.com,N/A,2024-03-16,Fashion,Miami,Debit Card,9,408.06
+TXN-10924,Chris Jones,chris.jones@domain.com,,2024/11/06,elec,new york,COD,8,447.52
+TXN-10925,Michael Davis,michael.davis@domain.com,+1 (850) 745-1033,17-Nov-2024,fashion,Chicago,Debit Card,11,339.9
+TXN-10926,Jane Anderson,jane.anderson@domain.com,+1 (261) 566-5957,2024-11-01,Electronics,N.Y.,Cash on Delivery,4,
+TXN-10927,Daniel Williams,daniel.williams@domain.com,,2024/08/19,Apparel,new york,PayPal,6,109.23
+TXN-10928,Daniel Davis,daniel.davis@domain.com,,2024-05-23,ELECTRONICS,Houston,Credit Card,6,434.64
+TXN-10929,Michael Anderson,,+1 (874) 954-7257,10/07/2024,Home,new york,Cash on Delivery,4,794.35
+TXN-10930,Chris Wilson,chris.wilson@domain.com,N/A,,Apparel,los angeles,Cash on Delivery,8,
+TXN-10931,Alex Jones,alex.jones@domain.com,+1 (661) 595-8113,2024/09/28,elec,Houston,COD,11,28973.7
+TXN-10932,Chris Miller,chris.miller@domain.com,,01/31/2024,elec,LA,PayPal,8,509.0
+TXN-10933,David Davis,david.davis@domain.com,,02/03/2024,ELECTRONICS,los angeles,COD,3,220.82
+TXN-10934,Chris Williams,chris.williams@domain.com,9546181683,07/10/2024,Home & Kitchen,Chicago,PayPal,2,671.44
+TXN-10935,chris  SMITH ,chris.smith@domain.com,606.429.9894,2024/01/11,elec,Los Angeles,paypal,6,714.35
+TXN-10936,Alex Wilson, ALEX.WILSON@DOMAIN.COM ,+1 (800) 639-7709,2024-02-06,Home & Kitchen,Chicago,credit card,6,443.65
+TXN-10937,Jessica Williams,jessica.williams@domain.com,6665687775,2024/07/25,Apparel,N.Y.,paypal,11,771.08
+TXN-10938,Emily Jones,emily.jones@domain.com,,2024-12-15,Fashion,NY,credit card,7,764.9
+TXN-10939,Alex Williams,,456.942.8429,2024/08/17,Home & Kitchen,new york,Cash on Delivery,5,257.19
+TXN-10940,Jane Johnson, JANE.JOHNSON@DOMAIN.COM ,667.716.5598,01-Oct-2024,Apparel,los angeles,CC,6,708.28
+TXN-10941,Emily Miller,emily.miller@domain.com,N/A,17-Aug-2024,Home & Kitchen,N.Y.,Debit Card,10,20254.850000000002
+TXN-10942,John Johnson,john.johnson@domain.com,,2024/01/03,Apparel,Houston,credit card,4,350.74
+TXN-10943,John Wilson,john.wilson@domain.com,N/A,24-Jan-2024,Home,Miami,Debit Card,2,678.97
+TXN-10944,Chris Williams,chris.williams@domain.com,N/A,2024/02/27,Fashion,Chicago,Credit Card,10,157.64
+TXN-10945,John Brown,john.brown@domain.com,442.578.5296,04/21/2024,Electronics,Houston,Debit Card,8,126.57
+TXN-10946,david  SMITH ,david.smith@domain.com,309.916.5991,08/22/2024,Apparel,LA,PayPal,6,673.59
+TXN-10947,jane  DAVIS ,jane.davis@domain.com,+1 (932) 992-2360,02/01/2024,Apparel,chicago,Debit Card,6,373.85
+TXN-10948,Daniel Anderson,daniel.anderson@domain.com,+1 (498) 223-3303,2024/10/12,Electronics,Chicago,credit card,2,224.24
+TXN-10949,david  WILSON , DAVID.WILSON@DOMAIN.COM ,+1 (510) 307-2177,01/07/2024,Beauty & Health,los angeles,Debit Card,9,225.73
+TXN-10950,Daniel Brown,daniel.brown@domain.com,+1 (452) 798-8083,05/20/2024,Fashion,Chicago,paypal,6,452.24
+TXN-10951,Michael Johnson,michael.johnson@domain.com,+1 (674) 621-5632,2024/09/17,Apparel,Houston,Credit Card,8,355.63
+TXN-10952,Jane Williams,jane.williams@domain.com,+1 (557) 177-3788,2024-03-05,Fashion,Houston,credit card,11,832.02
+TXN-10953,John Wilson,john.wilson@domain.com,,2024/07/06,ELECTRONICS,LA,Cash on Delivery,6,
+TXN-10954,Alex Miller,alex.miller@domain.com,+1 (900) 320-4832,01-Oct-2024,Beauty & Health,New York,Debit Card,5,466.62
+TXN-10955,david  BROWN ,david.brown@domain.com,+1 (561) 302-3534,03/12/2024,Electronics,NY,PayPal,4,573.85
+TXN-10956,Emily Wilson,emily.wilson@domain.com,+1 (451) 398-7139,11/26/2024,ELECTRONICS,LA,Cash on Delivery,-3,518.28
+TXN-10957,david  TAYLOR ,david.taylor@domain.com,,2024/01/22,Fashion,Miami,COD,7,460.14
+TXN-10958,Sarah Brown,sarah.brown@domain.com,9577202223,16-Jul-2024,Electronics,new york,paypal,9,-588.4
+TXN-10959,Jessica Smith,jessica.smith@domain.com,N/A,07-Nov-2024,Fashion,Houston,COD,10,215.42
+TXN-10960,David Wilson,N/A,,2024-04-14,Apparel,chicago,COD,5,436.71
+TXN-10961,Jessica Brown,,,2024/08/27,elec,Los Angeles,PayPal,4,416.64
+TXN-10962,Daniel Brown,daniel.brown@domain.com,,2024/11/24,Apparel,Los Angeles,Debit Card,1,751.31
+TXN-10963,Jane Anderson,jane.anderson@domain.com,564.839.2598,2024/05/23,Home,los angeles,Credit Card,10,235.53
+TXN-10964,Chris Smith,chris.smith@domain.com,+1 (755) 823-1195,2024-07-25,Fashion,Los Angeles,CC,11,2717.4
+TXN-10965,Jessica Wilson,jessica.wilson@domain.com,N/A,05/07/2024,fashion,Houston,CC,1,-162.63
+TXN-10966,Alex Anderson,alex.anderson@domain.com,,,fashion,N.Y.,COD,4,642.59
+TXN-10967,Emily Davis,emily.davis@domain.com,+1 (342) 343-5831,2024/02/23,Home & Kitchen,Los Angeles,Debit Card,3,318.37
+TXN-10968,Michael Miller,michael.miller@domain.com,338.804.5953,2024-01-01,Electronics,LA,Debit Card,10,282.74
+TXN-10969,Daniel Taylor,daniel.taylor@domain.com,309.681.1795,2024-07-15,Fashion,Chicago,Debit Card,6,688.59
+TXN-10970,Jane Jones, JANE.JONES@DOMAIN.COM ,,02/08/2024,Home,los angeles,COD,3,
+TXN-10971,David Johnson, DAVID.JOHNSON@DOMAIN.COM ,+1 (600) 671-2989,09/09/2024,Home & Kitchen,Miami,Credit Card,11,61.89
+TXN-10972,David Jones, DAVID.JONES@DOMAIN.COM ,896.616.5848,2024-11-26,fashion,LA,CC,7,318.1
+TXN-10973,Jessica Miller,jessica.miller@domain.com,,12/05/2024,Home,Chicago,paypal,9,501.56
+TXN-10974,emily  MILLER ,emily.miller@domain.com,,29-Sep-2024,Home & Kitchen,Miami,PayPal,11,497.57
+TXN-10975,Michael Davis,michael.davis@domain.com,+1 (841) 182-8209,04/21/2024,Beauty & Health,N.Y.,paypal,-4,-777.53
+TXN-10976,David Brown,david.brown@domain.com,4653828105,06-Jul-2024,elec,N.Y.,COD,7,820.86
+TXN-10977,Sarah Taylor,N/A,4994505282,2024-04-20,elec,Chicago,Credit Card,4,790.63
+TXN-10978,chris  ANDERSON ,N/A,320.506.5340,07/12/2024,Home,N.Y.,Debit Card,4,177.93
+TXN-10979,Emily Anderson,emily.anderson@domain.com,+1 (294) 787-4116,2024-10-04,Electronics,LA,paypal,3,177.97
+TXN-10980,jane  WILLIAMS ,jane.williams@domain.com,609.497.9407,05/21/2024,Home,Los Angeles,Credit Card,8,193.8
+TXN-10981,Chris Smith,chris.smith@domain.com,863.186.5838,2024/09/30,Home & Kitchen,new york,Credit Card,-9,221.09
+TXN-10982,Daniel Davis,daniel.davis@domain.com,+1 (471) 589-1835,2024-10-17,ELECTRONICS,Los Angeles,Credit Card,2,444.22
+TXN-10983,Alex Williams,alex.williams@domain.com,668.319.4402,06/13/2024,ELECTRONICS,New York,paypal,-3,265.4
+TXN-10984,Jessica Williams,jessica.williams@domain.com,N/A,,ELECTRONICS,Los Angeles,COD,11,571.64
+TXN-10985,Daniel Wilson,daniel.wilson@domain.com,,2024/06/07,Beauty & Health,NY,Debit Card,-6,771.71
+TXN-10986,Chris Williams,chris.williams@domain.com,519.113.7422,2024/01/10,Home & Kitchen,Houston,CC,5,798.25
+TXN-10987,Chris Jones,chris.jones@domain.com,7366521168,06/19/2024,fashion,LA,Cash on Delivery,4,481.62
+TXN-10988,Emily Miller,emily.miller@domain.com,4372485880,2024-01-07,Home,Houston,Credit Card,7,38.56
+TXN-10989,Emily Jones,emily.jones@domain.com,+1 (679) 976-5258,10-Feb-2024,fashion,N.Y.,Cash on Delivery,1,121.42
+TXN-10990,Jessica Davis,jessica.davis@domain.com,N/A,2024/09/06,elec,chicago,Debit Card,11,498.4
+TXN-10991,Jane Williams,jane.williams@domain.com,,2024-07-01,elec,N.Y.,paypal,11,
+TXN-10992,Jessica Wilson,jessica.wilson@domain.com,+1 (533) 616-1730,2024/03/05,elec,LA,CC,5,615.71
+TXN-10993,Jane Smith,jane.smith@domain.com,832.898.2271,01/24/2024,Fashion,chicago,Credit Card,11,138.3
+TXN-10994,Daniel Jones,N/A,540.440.7992,01/11/2024,Apparel,Miami,COD,5,520.04
+TXN-10995,David Jones,david.jones@domain.com,N/A,2024-07-02,Apparel,LA,credit card,9,297.86
+TXN-10996,Jane Brown,jane.brown@domain.com,+1 (822) 852-2075,2024-05-06,ELECTRONICS,los angeles,paypal,2,-164.59
+TXN-10997,emily  WILSON ,emily.wilson@domain.com,815.399.5842,17-Sep-2024,Fashion,NY,CC,1,172.29
+TXN-10998,Chris Anderson,chris.anderson@domain.com,556.253.7019,2024/03/06,ELECTRONICS,los angeles,PayPal,9,350.05
+TXN-10999,Jane Williams,jane.williams@domain.com,268.401.9344,2024/08/05,ELECTRONICS,NY,PayPal,-9,627.0
+TXN-11000,Chris Miller,chris.miller@domain.com,3005661868,10/09/2024,Electronics,los angeles,PayPal,-8,537.07
+TXN-11001,Daniel Wilson, DANIEL.WILSON@DOMAIN.COM ,N/A,12-Aug-2024,Beauty & Health,New York,Credit Card,8,106.66
+TXN-11002,Daniel Wilson,daniel.wilson@domain.com,397.375.2195,2024/07/07,Fashion,chicago,PayPal,6,-646.8
+TXN-11003,Emily Wilson,emily.wilson@domain.com,N/A,13-Jun-2024,Beauty & Health,Los Angeles,COD,9,27.3
+TXN-11004,Emily Anderson,emily.anderson@domain.com,+1 (554) 935-5757,,fashion,NY,CC,9,386.05
+TXN-11005,Alex Brown,alex.brown@domain.com,+1 (672) 201-8597,2024/02/06,Electronics,New York,CC,10,831.87
+TXN-11006,david  MILLER ,david.miller@domain.com,8128936477,2024/07/21,ELECTRONICS,New York,COD,1,510.27
+TXN-11007,michael  BROWN ,michael.brown@domain.com,,06/10/2024,Apparel,N.Y.,PayPal,4,4982.25
+TXN-11008,Jane Wilson,,+1 (965) 545-4903,2024-09-08,elec,N.Y.,Cash on Delivery,3,585.34
+TXN-11009,Emily Williams,emily.williams@domain.com,N/A,2024-04-03,Home,New York,COD,4,-57.33
+TXN-11010,Michael Brown, MICHAEL.BROWN@DOMAIN.COM ,,2024/06/28,Apparel,N.Y.,Credit Card,5,171.33
+TXN-11011,John Davis,john.davis@domain.com,2923006930,2024-08-18,Apparel,Houston,PayPal,4,809.78
+TXN-11012,jane  DAVIS ,jane.davis@domain.com,,27-Jan-2024,Home & Kitchen,los angeles,COD,5,384.45
+TXN-11013,John Smith,,,19-Jun-2024,elec,N.Y.,Credit Card,5,194.24
+TXN-11014,Emily Smith,emily.smith@domain.com,+1 (848) 259-9535,04/15/2024,Home & Kitchen,los angeles,Cash on Delivery,4,162.9
+TXN-11015,Michael Miller,michael.miller@domain.com,+1 (832) 315-6238,2024/11/18,Electronics,los angeles,paypal,11,178.62
+TXN-11016,Chris Davis,chris.davis@domain.com,227.358.9095,2024/04/26,ELECTRONICS,new york,PayPal,11,397.27
+TXN-11017,Emily Jones,emily.jones@domain.com,+1 (748) 567-5206,05-Oct-2024,Beauty & Health,new york,Debit Card,7,637.99
+TXN-11018,Emily Anderson,emily.anderson@domain.com,269.546.9638,05/04/2024,Electronics,chicago,credit card,8,828.68
+TXN-11019,Emily Anderson,emily.anderson@domain.com,N/A,19-Mar-2024,ELECTRONICS,chicago,PayPal,4,159.4
+TXN-11020,alex  JOHNSON ,alex.johnson@domain.com,N/A,02/20/2024,Home & Kitchen,los angeles,credit card,1,310.9
+TXN-11021,John Miller,john.miller@domain.com,,23-May-2024,Apparel,Chicago,COD,8,147.78
+TXN-11022,Jane Williams,jane.williams@domain.com,9092282160,2024/05/16,fashion,new york,credit card,9,382.13
+TXN-11023,Michael Johnson, MICHAEL.JOHNSON@DOMAIN.COM ,+1 (310) 582-3855,2024-10-20,Home,new york,Debit Card,1,397.98
+TXN-11024,David Williams,N/A,2284931026,01/13/2024,elec,Houston,COD,1,148.59
+TXN-11025,David Davis,david.davis@domain.com,,2024/10/24,Beauty & Health,new york,Cash on Delivery,10,225.55
+TXN-11026,John Anderson,,,05/07/2024,Electronics,chicago,COD,4,271.41
+TXN-11027,Alex Johnson,alex.johnson@domain.com,224.530.1637,09-Dec-2024,Electronics,chicago,PayPal,8,319.46
+TXN-11028,John Johnson,john.johnson@domain.com,,2024-03-29,fashion,Miami,Debit Card,5,59.85
+TXN-11029,Daniel Smith,daniel.smith@domain.com,,2024-08-04,Electronics,Houston,Debit Card,3,847.6
+TXN-11030,David Williams,david.williams@domain.com,4668938599,2024/12/04,fashion,N.Y.,Debit Card,6,556.41
+TXN-11031,Alex Taylor,alex.taylor@domain.com,,11/26/2024,Fashion,los angeles,paypal,6,833.48
+TXN-11032,Sarah Williams,sarah.williams@domain.com,,2024-07-24,Apparel,chicago,paypal,10,564.63
+TXN-11033,Daniel Smith,daniel.smith@domain.com,,2024-09-07,Electronics,chicago,credit card,7,579.84
+TXN-11034,David Johnson,david.johnson@domain.com,9351564146,2024/11/20,fashion,new york,Debit Card,1,183.68
+TXN-11035,Michael Williams,,,12/16/2024,fashion,los angeles,PayPal,1,
+TXN-11036,Jane Miller,jane.miller@domain.com,,2024-01-09,Home,Chicago,COD,-10,529.63
+TXN-11037,Jessica Smith,jessica.smith@domain.com,,2024/03/01,Home,los angeles,Cash on Delivery,7,660.93
+TXN-11038,Jessica Wilson,jessica.wilson@domain.com,,2024/02/22,ELECTRONICS,chicago,paypal,10,590.18
+TXN-11039,David Davis,david.davis@domain.com,,2024/08/25,elec,los angeles,Cash on Delivery,4,372.28
+TXN-11040,John Jones,john.jones@domain.com,7623871087,05/15/2024,Home & Kitchen,New York,CC,2,211.4
+TXN-11041,John Miller,john.miller@domain.com,N/A,2024-11-18,Beauty & Health,N.Y.,paypal,1,547.01
+TXN-11042,David Williams,david.williams@domain.com,N/A,2024-06-22,Home,Miami,COD,4,
+TXN-11043,Michael Davis,michael.davis@domain.com,,04-May-2024,fashion,NY,paypal,5,371.61
+TXN-11044,michael  WILSON ,michael.wilson@domain.com,+1 (225) 768-2067,2024/04/20,elec,new york,credit card,8,-429.57
+TXN-11045,Daniel Jones,daniel.jones@domain.com,5436081551,2024-03-01,Fashion,Miami,Cash on Delivery,1,592.92
+TXN-11046,Daniel Davis,,,2024-10-24,ELECTRONICS,NY,Credit Card,3,69.53
+TXN-11047,David Taylor,david.taylor@domain.com,2339238141,,Apparel,Los Angeles,Debit Card,8,
+TXN-11048,John Brown,john.brown@domain.com,+1 (960) 778-1894,19-Jun-2024,Beauty & Health,New York,COD,11,
+TXN-11049,Jessica Jones,jessica.jones@domain.com,+1 (921) 175-2851,11/30/2024,Home & Kitchen,Houston,COD,4,98.76
+TXN-11050,Jane Miller, JANE.MILLER@DOMAIN.COM ,754.734.9981,2024/06/05,Home & Kitchen,LA,paypal,2,20.82
+TXN-11051,David Anderson,david.anderson@domain.com,972.266.5926,2024-05-24,Apparel,Miami,Debit Card,1,296.57
+TXN-11052,Jane Jones,jane.jones@domain.com,7401731570,2024-11-24,fashion,New York,paypal,8,411.98
+TXN-11053,John Williams,john.williams@domain.com,N/A,07/05/2024,Home,Chicago,paypal,7,665.19
+TXN-11054,Michael Jones,michael.jones@domain.com,3567884146,,Electronics,los angeles,Debit Card,1,675.28
+TXN-11055,Jessica Anderson,jessica.anderson@domain.com,6247925937,16-May-2024,Beauty & Health,LA,Debit Card,11,217.36
+TXN-11056,david  BROWN ,david.brown@domain.com,+1 (392) 822-6180,2024/06/12,elec,Houston,Cash on Delivery,8,497.64
+TXN-11057,Jessica Smith,jessica.smith@domain.com,9171295565,30-Oct-2024,Home,Miami,COD,8,110.84
+TXN-11058,Michael Wilson,michael.wilson@domain.com,,2024-11-17,Apparel,LA,PayPal,4,671.7
+TXN-11059,Sarah Johnson, SARAH.JOHNSON@DOMAIN.COM ,595.419.7452,05/19/2024,Home,N.Y.,credit card,2,747.07
+TXN-11060,Chris Wilson,chris.wilson@domain.com,+1 (752) 523-9921,2024-09-21,ELECTRONICS,NY,Credit Card,11,767.75
+TXN-11061,Chris Wilson,chris.wilson@domain.com,N/A,2024-09-01,ELECTRONICS,NY,COD,6,608.95
+TXN-11062,Michael Taylor,michael.taylor@domain.com,+1 (692) 534-1201,2024-06-30,fashion,NY,paypal,6,535.72
+TXN-11063,Michael Anderson,michael.anderson@domain.com,,06-May-2024,Fashion,NY,Credit Card,5,221.51
+TXN-11064,David Williams,,N/A,2024-12-23,Home,Houston,Cash on Delivery,2,445.18
+TXN-11065,Michael Taylor,michael.taylor@domain.com,,10/27/2024,fashion,Los Angeles,COD,3,
+TXN-11066,Jessica Davis,jessica.davis@domain.com,742.608.3954,08/05/2024,Fashion,N.Y.,PayPal,9,15614.2
+TXN-11067,David Wilson,david.wilson@domain.com,+1 (760) 467-4362,06/05/2024,elec,new york,paypal,6,731.59
+TXN-11068,Chris Taylor,,N/A,,Apparel,N.Y.,paypal,7,562.1
+TXN-11069,Jane Johnson,,,,Apparel,N.Y.,Credit Card,4,284.62
+TXN-11070,Daniel Miller, DANIEL.MILLER@DOMAIN.COM ,929.262.3503,23-Nov-2024,Fashion,Miami,paypal,5,272.84
+TXN-11071,sarah  JONES ,sarah.jones@domain.com,+1 (650) 732-4729,2024-04-06,Apparel,new york,CC,10,312.66
+TXN-11072,Daniel Miller,daniel.miller@domain.com,+1 (657) 219-9237,2024/02/25,Fashion,Houston,credit card,5,119.66
+TXN-11073,Emily Williams, EMILY.WILLIAMS@DOMAIN.COM ,+1 (902) 125-3648,2024-04-17,Apparel,N.Y.,CC,10,
+TXN-11074,Jessica Williams,jessica.williams@domain.com,,2024/01/27,Home,LA,Credit Card,11,422.07
+TXN-11075,Michael Brown,michael.brown@domain.com,8494263926,2024/08/30,Home,new york,credit card,4,507.03
+TXN-11076,Emily Williams,missing,489.543.4330,03-Dec-2024,Beauty & Health,Chicago,paypal,6,748.79
+TXN-11077,Emily Miller,emily.miller@domain.com,N/A,17-Jul-2024,ELECTRONICS,Chicago,credit card,2,482.94
+TXN-11078,Sarah Taylor,N/A,,09/09/2024,Home,N.Y.,Cash on Delivery,6,322.77
+TXN-11079,Sarah Smith, SARAH.SMITH@DOMAIN.COM ,2249486156,04-Feb-2024,Beauty & Health,Los Angeles,Credit Card,3,88.48
+TXN-11080,Daniel Miller,missing,,2024-03-20,Fashion,New York,CC,10,658.82
+TXN-11081,Michael Jones,michael.jones@domain.com,N/A,2024-03-23,elec,Miami,CC,8,399.24
+TXN-11082,Michael Brown,michael.brown@domain.com,5735368305,2024/01/09,Home & Kitchen,Miami,PayPal,7,109.16
+TXN-11083,Chris Smith, CHRIS.SMITH@DOMAIN.COM ,618.302.3598,2024/07/26,elec,new york,Debit Card,10,2333.4500000000003
+TXN-11084,Chris Johnson,chris.johnson@domain.com,+1 (323) 839-4351,2024/09/03,fashion,New York,PayPal,2,398.67
+TXN-11085,Michael Miller,michael.miller@domain.com,N/A,2024/12/02,Electronics,new york,credit card,4,
+TXN-11086,David Anderson,david.anderson@domain.com,+1 (571) 185-7909,11-Apr-2024,fashion,NY,CC,5,758.84
+TXN-11087,John Williams,john.williams@domain.com,N/A,08/20/2024,elec,LA,Cash on Delivery,9,110.48
+TXN-11088,Chris Miller,chris.miller@domain.com,+1 (394) 671-6729,2024/10/01,fashion,Miami,CC,4,443.95
+TXN-11089,Sarah Miller,sarah.miller@domain.com,6361116241,07-Sep-2024,Home,N.Y.,COD,2,252.64
+TXN-11090,Jane Miller,jane.miller@domain.com,+1 (556) 911-7397,2024/06/13,Beauty & Health,N.Y.,CC,4,308.88
+TXN-11091,David Williams,missing,+1 (798) 310-3610,2024-01-19,Electronics,Miami,CC,7,759.68
+TXN-11092,Jessica Johnson, JESSICA.JOHNSON@DOMAIN.COM ,4133466737,10/18/2024,Apparel,LA,COD,1,805.19
+TXN-11093,Emily Anderson,emily.anderson@domain.com,+1 (471) 857-4079,02-Feb-2024,fashion,Miami,credit card,11,44.44
+TXN-11094,David Williams,david.williams@domain.com,N/A,04/28/2024,elec,N.Y.,PayPal,9,844.44
+TXN-11095,Emily Jones, EMILY.JONES@DOMAIN.COM ,,03/10/2024,Electronics,Los Angeles,Debit Card,3,789.28
+TXN-11096,Alex Williams,alex.williams@domain.com,+1 (716) 663-6269,2024-04-25,Beauty & Health,Houston,Cash on Delivery,8,81.45
+TXN-11097,Michael Anderson,michael.anderson@domain.com,,01/05/2024,Home,Los Angeles,paypal,11,507.02
+TXN-11098,alex  MILLER , ALEX.MILLER@DOMAIN.COM ,993.457.3423,09/26/2024,fashion,LA,CC,8,
+TXN-11099,Daniel Williams,daniel.williams@domain.com,,2024/06/11,Electronics,Chicago,Credit Card,5,359.23
+TXN-11100,Chris Brown,chris.brown@domain.com,641.753.2934,22-Jun-2024,Beauty & Health,Los Angeles,Cash on Delivery,4,
+TXN-11101,Chris Davis,,267.230.9044,12-Feb-2024,ELECTRONICS,new york,COD,9,216.47
+TXN-11102,Emily Davis,emily.davis@domain.com,281.316.1334,22-Mar-2024,Home,New York,CC,3,82.59
+TXN-11103,Jane Davis, JANE.DAVIS@DOMAIN.COM ,294.967.1090,04-Jul-2024,Beauty & Health,Los Angeles,CC,5,1846.95
+TXN-11104,Daniel Davis,daniel.davis@domain.com,7406973390,2024/06/17,Home,LA,paypal,11,278.13
+TXN-11105,Jessica Miller,jessica.miller@domain.com,749.596.9296,2024-05-09,Home & Kitchen,LA,Cash on Delivery,7,613.35
+TXN-11106,Jane Jones,jane.jones@domain.com,,05/10/2024,Home,NY,Debit Card,1,14415.8
+TXN-11107,John Miller,john.miller@domain.com,,2024/11/09,Beauty & Health,Miami,COD,10,198.16
+TXN-11108,Sarah Brown,sarah.brown@domain.com,N/A,09/23/2024,Beauty & Health,NY,Debit Card,3,177.74
+TXN-11109,Jessica Taylor,jessica.taylor@domain.com,5912182798,2024-11-23,ELECTRONICS,N.Y.,Credit Card,7,
+TXN-11110,Jane Wilson,jane.wilson@domain.com,N/A,2024/10/03,Home,new york,PayPal,-4,818.9
+TXN-11111,daniel  ANDERSON ,daniel.anderson@domain.com,+1 (569) 696-6973,07/21/2024,Apparel,NY,CC,3,685.73
+TXN-11112,John Jones,john.jones@domain.com,749.234.6492,11/23/2024,Fashion,Los Angeles,PayPal,5,-448.78
+TXN-11113,Jessica Williams, JESSICA.WILLIAMS@DOMAIN.COM ,+1 (431) 431-7749,03/17/2024,Electronics,chicago,paypal,4,279.09
+TXN-11114,Jane Anderson,jane.anderson@domain.com,3657011837,09/24/2024,Beauty & Health,new york,COD,3,200.48
+TXN-11115,Sarah Brown,sarah.brown@domain.com,3961718716,2024-11-09,Home & Kitchen,Miami,credit card,3,119.62
+TXN-11116,Emily Johnson,emily.johnson@domain.com,,,Home,New York,Credit Card,6,127.11
+TXN-11117,michael  JOHNSON ,michael.johnson@domain.com,9045963899,2024/02/18,Fashion,NY,Cash on Delivery,11,450.75
+TXN-11118,Michael Anderson,michael.anderson@domain.com,+1 (550) 860-4642,2024-01-06,fashion,Miami,PayPal,2,628.94
+TXN-11119,Chris Williams,chris.williams@domain.com,5626679783,,elec,LA,PayPal,10,
+TXN-11120,David Williams,david.williams@domain.com,N/A,2024/03/08,ELECTRONICS,N.Y.,COD,9,818.28
+TXN-11121,Alex Wilson,alex.wilson@domain.com,874.125.5547,2024/11/27,Home & Kitchen,New York,Cash on Delivery,-2,563.25
+TXN-11122,Jane Taylor,jane.taylor@domain.com,8503136791,2024-05-18,Beauty & Health,los angeles,credit card,8,24951.85
+TXN-11123,John Smith,john.smith@domain.com,,01-Dec-2024,Electronics,New York,PayPal,10,296.95
+TXN-11124,Jane Miller,jane.miller@domain.com,,06/20/2024,Home & Kitchen,N.Y.,credit card,10,146.53
+TXN-11125,Jane Brown,jane.brown@domain.com,,2024-12-06,fashion,Chicago,PayPal,5,385.35
+TXN-11126,Michael Anderson,michael.anderson@domain.com,645.320.1939,,Apparel,New York,credit card,7,509.44
+TXN-11127,John Anderson,john.anderson@domain.com,+1 (920) 944-8964,07-Mar-2024,elec,New York,Debit Card,9,-237.45
+TXN-11128,David Miller,david.miller@domain.com,976.356.7095,23-May-2024,Beauty & Health,New York,Debit Card,3,699.83
+TXN-11129,Chris Miller,chris.miller@domain.com,216.788.8426,2024/12/21,Electronics,Miami,PayPal,11,522.5
+TXN-11130,Emily Smith,emily.smith@domain.com,,10/03/2024,Beauty & Health,new york,PayPal,4,142.08
+TXN-11131,John Smith,john.smith@domain.com,+1 (630) 125-3340,2024/01/06,Home & Kitchen,Chicago,paypal,4,87.89
+TXN-11132,Daniel Miller,daniel.miller@domain.com,826.436.1689,2024-01-22,fashion,New York,Credit Card,9,718.74
+TXN-11133,Michael Anderson,michael.anderson@domain.com,N/A,2024/09/11,elec,los angeles,Cash on Delivery,1,821.64
+TXN-11134,Emily Wilson,emily.wilson@domain.com,258.251.6437,,Apparel,chicago,PayPal,2,227.39
+TXN-11135,Chris Smith,chris.smith@domain.com,7464631983,,elec,Chicago,paypal,10,179.73
+TXN-11136,Chris Jones,chris.jones@domain.com,,05/19/2024,Home & Kitchen,Los Angeles,credit card,10,
+TXN-11137,Daniel Jones,N/A,N/A,2024-04-04,elec,LA,Debit Card,1,126.21
+TXN-11138,Jessica Brown,jessica.brown@domain.com,820.158.9670,2024-09-28,fashion,new york,paypal,3,778.32
+TXN-11139,David Taylor,N/A,452.733.7634,04/21/2024,Beauty & Health,New York,paypal,8,635.67
+TXN-11140,Sarah Taylor,sarah.taylor@domain.com,,2024-04-27,Home,los angeles,Credit Card,-8,601.98
+TXN-11141,David Taylor,david.taylor@domain.com,+1 (528) 554-2318,11/22/2024,Home,Miami,Credit Card,9,666.04
+TXN-11142,David Johnson,david.johnson@domain.com,,09/03/2024,elec,Los Angeles,COD,-6,8399.65
+TXN-11143,Emily Jones,emily.jones@domain.com,293.359.5430,12/09/2024,Home & Kitchen,NY,Debit Card,5,393.45
+TXN-11144,Emily Smith,emily.smith@domain.com,N/A,06/17/2024,Home & Kitchen,Los Angeles,paypal,9,186.48
+TXN-11145,Sarah Smith,sarah.smith@domain.com,,2024-08-26,ELECTRONICS,N.Y.,CC,4,
+TXN-11146,David Taylor,david.taylor@domain.com,389.224.7149,03/29/2024,ELECTRONICS,Miami,CC,9,423.98
+TXN-11147,Chris Anderson,chris.anderson@domain.com,N/A,10/08/2024,Fashion,LA,credit card,1,843.81
+TXN-11148,Jane Wilson,jane.wilson@domain.com,,2024/11/11,Beauty & Health,new york,credit card,10,778.62
+TXN-11149,Chris Williams,,,12/09/2024,ELECTRONICS,New York,Cash on Delivery,10,16017.4
+TXN-11150,David Miller,david.miller@domain.com,391.831.7630,2024/06/12,fashion,Houston,Credit Card,8,560.65
+TXN-11151,Daniel Miller,,3041885696,25-Nov-2024,fashion,LA,Cash on Delivery,10,808.24
+TXN-11152,Alex Brown,alex.brown@domain.com,,2024-09-12,Home & Kitchen,NY,Credit Card,6,409.45
+TXN-11153,Emily Taylor,emily.taylor@domain.com,,,Fashion,New York,Cash on Delivery,11,585.71
+TXN-11154,Jessica Jones, JESSICA.JONES@DOMAIN.COM ,N/A,2024-03-27,Electronics,LA,paypal,6,437.03
+TXN-11155,David Anderson,david.anderson@domain.com,359.433.4914,03/23/2024,Electronics,NY,credit card,5,478.85
+TXN-11156,Jane Anderson,jane.anderson@domain.com,921.321.4980,02/09/2024,Fashion,Los Angeles,Debit Card,11,322.67
+TXN-11157,Daniel Williams,daniel.williams@domain.com,325.458.2526,10/21/2024,ELECTRONICS,los angeles,PayPal,9,
+TXN-11158,David Williams,david.williams@domain.com,+1 (751) 560-9471,03/18/2024,Home & Kitchen,los angeles,CC,3,
+TXN-11159,Emily Williams,emily.williams@domain.com,9786096026,26-Apr-2024,Home,chicago,Cash on Delivery,3,696.11
+TXN-11160,jessica  ANDERSON ,jessica.anderson@domain.com,,2024/07/29,Beauty & Health,N.Y.,CC,9,481.54
+TXN-11161,Emily Davis,emily.davis@domain.com,,04/23/2024,Beauty & Health,NY,PayPal,11,417.65
+TXN-11162,David Taylor,david.taylor@domain.com,,09/05/2024,ELECTRONICS,chicago,COD,9,-802.71
+TXN-11163,Alex Smith,alex.smith@domain.com,,2024-10-07,ELECTRONICS,Miami,PayPal,11,59.94
+TXN-11164,Daniel Brown,daniel.brown@domain.com,5464713896,2024/02/26,Beauty & Health,New York,Debit Card,9,208.62
+TXN-11165,david  TAYLOR ,david.taylor@domain.com,N/A,12/08/2024,Beauty & Health,N.Y.,COD,6,795.07
+TXN-11166,Daniel Johnson,daniel.johnson@domain.com,711.488.3028,,Electronics,NY,paypal,6,682.47
+TXN-11167,Jessica Wilson,jessica.wilson@domain.com,N/A,,Electronics,New York,Credit Card,4,516.76
+TXN-11168,Chris Smith,chris.smith@domain.com,3176952793,08/24/2024,fashion,Houston,PayPal,8,569.3
+TXN-11169,Michael Taylor,michael.taylor@domain.com,+1 (299) 556-7471,,Home,chicago,Debit Card,3,122.46
+TXN-11170,Daniel Williams,daniel.williams@domain.com,,03/03/2024,Electronics,new york,CC,4,803.67
+TXN-11171,Sarah Jones,sarah.jones@domain.com,2468708069,2024-11-13,fashion,Miami,paypal,11,798.25
+TXN-11172,Sarah Davis,sarah.davis@domain.com,415.526.6254,02/29/2024,Fashion,new york,COD,1,717.54
+TXN-11173,Emily Davis, EMILY.DAVIS@DOMAIN.COM ,N/A,2024/08/14,Fashion,Houston,Debit Card,5,182.31
+TXN-11174,Daniel Brown, DANIEL.BROWN@DOMAIN.COM ,2213193126,,Fashion,NY,COD,4,363.68
+TXN-11175,Chris Brown,chris.brown@domain.com,5756805690,11-Feb-2024,Home & Kitchen,los angeles,COD,11,41.21
+TXN-11176,emily  JONES ,emily.jones@domain.com,N/A,2024/10/18,Home,LA,CC,11,812.27
+TXN-11177,Jessica Miller,jessica.miller@domain.com,314.852.7590,2024/08/13,Fashion,NY,PayPal,-4,274.27
+TXN-11178,Emily Johnson,emily.johnson@domain.com,+1 (392) 198-9116,2024-01-25,Apparel,chicago,Debit Card,4,684.28
+TXN-11179,Chris Brown,,N/A,31-Jul-2024,Beauty & Health,Miami,CC,9,37.1
+TXN-11180,Michael Johnson, MICHAEL.JOHNSON@DOMAIN.COM ,852.907.4964,31-May-2024,Home & Kitchen,NY,COD,6,194.81
+TXN-11181,Daniel Anderson,daniel.anderson@domain.com,+1 (318) 246-3312,09/08/2024,Home & Kitchen,los angeles,credit card,2,814.53
+TXN-11182,emily  JOHNSON ,emily.johnson@domain.com,,2024/11/02,Fashion,Miami,Cash on Delivery,-1,753.29
+TXN-11183,Jessica Wilson,,,01-Nov-2024,elec,N.Y.,COD,6,649.44
+TXN-11184,Alex Smith,alex.smith@domain.com,,2024/03/01,elec,NY,CC,7,386.77
+TXN-11185,daniel  DAVIS ,daniel.davis@domain.com,,04/24/2024,Fashion,NY,PayPal,9,419.94
+TXN-11186,David Johnson,david.johnson@domain.com,804.798.3812,09-Feb-2024,Beauty & Health,los angeles,Debit Card,9,246.73
+TXN-11187,Michael Davis, MICHAEL.DAVIS@DOMAIN.COM ,8176624004,2024-10-09,Home,los angeles,PayPal,11,388.81
+TXN-11188,jessica  BROWN , JESSICA.BROWN@DOMAIN.COM ,9722748979,2024-09-03,Apparel,Chicago,CC,3,10823.75
+TXN-11189,John Williams,john.williams@domain.com,995.572.4525,02/07/2024,elec,los angeles,CC,3,69.62
+TXN-11190,Sarah Jones,sarah.jones@domain.com,6811519298,2024-12-02,Beauty & Health,Los Angeles,COD,9,360.8
+TXN-11191,John Wilson,john.wilson@domain.com,,2024/04/10,Fashion,los angeles,paypal,8,305.42
+TXN-11192,Emily Davis, EMILY.DAVIS@DOMAIN.COM ,2988311243,12-Jul-2024,Fashion,Miami,Credit Card,1,469.52
+TXN-11193,chris  TAYLOR ,chris.taylor@domain.com,N/A,11/15/2024,Home,Houston,credit card,9,39.25
+TXN-11194,Jessica Anderson,jessica.anderson@domain.com,500.408.6937,2024-02-08,Beauty & Health,Miami,credit card,-9,686.39
+TXN-11195,Daniel Johnson,daniel.johnson@domain.com,N/A,02/22/2024,Home,los angeles,PayPal,9,493.29
+TXN-11196,Jane Smith,jane.smith@domain.com,9084306023,2024/07/15,Fashion,Los Angeles,COD,3,703.27
+TXN-11197,Emily Jones,emily.jones@domain.com,+1 (930) 151-4605,2024/05/25,Home,NY,CC,5,312.87
+TXN-11198,Michael Williams,michael.williams@domain.com,3756107162,2024-02-16,Fashion,New York,CC,1,520.61
+TXN-11199,alex  DAVIS , ALEX.DAVIS@DOMAIN.COM ,5797914058,12/21/2024,Home & Kitchen,N.Y.,CC,11,336.42
+TXN-11200,Alex Johnson,alex.johnson@domain.com,N/A,02-May-2024,ELECTRONICS,NY,paypal,8,499.31
+TXN-11201,Emily Brown,emily.brown@domain.com,N/A,2024-07-02,Home & Kitchen,Houston,credit card,7,445.23
+TXN-11202,Chris Smith,chris.smith@domain.com,3561131076,2024/11/30,Fashion,New York,credit card,2,231.93
+TXN-11203,Michael Brown,michael.brown@domain.com,872.641.1164,2024-11-25,Home & Kitchen,Miami,Credit Card,10,308.72
+TXN-11204,Chris Wilson,chris.wilson@domain.com,8888145953,,Home,LA,COD,5,
+TXN-11205,Chris Wilson,chris.wilson@domain.com,,2024-01-27,Home & Kitchen,Chicago,credit card,8,504.6
+TXN-11206,Sarah Brown,sarah.brown@domain.com,3383413363,08-Aug-2024,Electronics,Los Angeles,PayPal,11,195.36
+TXN-11207,john  DAVIS ,john.davis@domain.com,4828288906,14-Nov-2024,fashion,Chicago,Credit Card,5,744.37
+TXN-11208,Jane Johnson,jane.johnson@domain.com,N/A,2024-07-25,ELECTRONICS,N.Y.,Debit Card,3,53.78
+TXN-11209,Daniel Wilson,daniel.wilson@domain.com,N/A,2024-05-29,Beauty & Health,Houston,Credit Card,10,67.13
+TXN-11210,Jessica Brown,jessica.brown@domain.com,420.617.8467,2024/07/22,ELECTRONICS,New York,Cash on Delivery,4,526.62
+TXN-11211,alex  TAYLOR ,alex.taylor@domain.com,993.131.5731,07/27/2024,elec,LA,paypal,8,305.84
+TXN-11212,emily  MILLER ,emily.miller@domain.com,7195986041,2024-07-07,Home & Kitchen,Los Angeles,Cash on Delivery,2,55.92
+TXN-11213,Chris Johnson,chris.johnson@domain.com,305.359.4271,04/26/2024,ELECTRONICS,Los Angeles,CC,2,141.01
+TXN-11214,John Jones,john.jones@domain.com,740.238.9027,2024/08/20,Beauty & Health,Los Angeles,Cash on Delivery,6,265.94
+TXN-11215,chris  JONES ,chris.jones@domain.com,898.237.3040,16-Mar-2024,Home & Kitchen,Chicago,Credit Card,7,787.66
+TXN-11216,Daniel Jones,daniel.jones@domain.com,313.284.4176,2024-12-06,Beauty & Health,Chicago,paypal,5,517.7
+TXN-11217,Emily Wilson,emily.wilson@domain.com,938.228.9748,2024/10/06,Home & Kitchen,LA,Cash on Delivery,7,603.2
+TXN-11218,Daniel Brown,daniel.brown@domain.com,5031049591,29-Feb-2024,Home & Kitchen,chicago,Credit Card,-10,376.31
+TXN-11219,John Johnson,john.johnson@domain.com,,2024-06-03,Fashion,Houston,credit card,2,553.7
+TXN-11220,Michael Davis,michael.davis@domain.com,4394105887,01/22/2024,Beauty & Health,N.Y.,COD,8,208.53
+TXN-11221,David Williams,david.williams@domain.com,3888016221,2024-08-11,elec,Chicago,paypal,8,301.16
+TXN-11222,Emily Anderson,emily.anderson@domain.com,+1 (885) 829-2547,26-Aug-2024,Home,chicago,credit card,5,643.68
+TXN-11223,John Williams, JOHN.WILLIAMS@DOMAIN.COM ,6006733529,2024/11/04,Electronics,chicago,COD,7,428.23
+TXN-11224,jessica  JONES ,jessica.jones@domain.com,363.355.5090,2024-05-08,ELECTRONICS,New York,CC,9,
+TXN-11225,Jane Jones,jane.jones@domain.com,734.194.5000,12/03/2024,Home,LA,PayPal,2,342.14
+TXN-11226,Daniel Wilson,daniel.wilson@domain.com,+1 (547) 371-9522,2024-09-23,Beauty & Health,N.Y.,Debit Card,8,744.36
+TXN-11227,Alex Wilson,alex.wilson@domain.com,248.424.8655,2024/05/01,Fashion,N.Y.,Cash on Delivery,4,243.69
+TXN-11228,Sarah Jones,sarah.jones@domain.com,,03/04/2024,Beauty & Health,Chicago,credit card,6,138.44
+TXN-11229,Sarah Anderson,sarah.anderson@domain.com,702.621.7517,,Home,LA,COD,7,261.74
+TXN-11230,Alex Smith,N/A,,09/29/2024,Beauty & Health,Miami,COD,3,
+TXN-11231,Emily Miller,emily.miller@domain.com,231.654.9126,01/09/2024,Beauty & Health,Los Angeles,PayPal,-10,29739.5
+TXN-11232,Daniel Williams, DANIEL.WILLIAMS@DOMAIN.COM ,+1 (689) 375-1232,15-Mar-2024,fashion,LA,Debit Card,2,50.92
+TXN-11233,Alex Taylor,,N/A,28-Nov-2024,elec,Miami,Credit Card,7,726.28
+TXN-11234,Sarah Williams,sarah.williams@domain.com,,12/09/2024,Fashion,new york,Debit Card,10,406.76
+TXN-11235,jane  MILLER ,jane.miller@domain.com,,2024/08/10,Apparel,los angeles,PayPal,11,309.75
+TXN-11236,jessica  WILLIAMS ,jessica.williams@domain.com,+1 (764) 831-7898,2024/10/17,Electronics,new york,Cash on Delivery,3,72.66
+TXN-11237,Michael Jones,michael.jones@domain.com,N/A,08/03/2024,fashion,NY,credit card,9,261.1
+TXN-11238,Daniel Anderson,daniel.anderson@domain.com,,2024-03-23,Beauty & Health,NY,Cash on Delivery,10,386.79
+TXN-11239,Michael Jones,N/A,6253862568,12/14/2024,Fashion,Chicago,Cash on Delivery,7,380.02
+TXN-11240,emily  DAVIS ,emily.davis@domain.com,,2024-01-05,Beauty & Health,Los Angeles,Cash on Delivery,4,617.27
+TXN-11241,Jane Johnson,jane.johnson@domain.com,,19-Nov-2024,Fashion,LA,credit card,4,373.35
+TXN-11242,Emily Davis,emily.davis@domain.com,N/A,19-Jun-2024,ELECTRONICS,new york,CC,4,377.67
+TXN-11243,Emily Smith,emily.smith@domain.com,N/A,2024/07/29,ELECTRONICS,Chicago,paypal,11,76.18
+TXN-11244,Jessica Williams,jessica.williams@domain.com,,2024-12-02,fashion,Miami,paypal,9,486.66
+TXN-11245,John Anderson,john.anderson@domain.com,,10/17/2024,Home,chicago,Debit Card,6,627.37
+TXN-11246,David Wilson,david.wilson@domain.com,,2024-07-29,ELECTRONICS,chicago,credit card,3,
+TXN-11247,Michael Davis,michael.davis@domain.com,N/A,10/07/2024,Electronics,New York,Debit Card,11,736.05
+TXN-11248,Chris Taylor,chris.taylor@domain.com,773.458.7176,17-Jan-2024,Home & Kitchen,Los Angeles,COD,8,225.35
+TXN-11249,Sarah Brown, SARAH.BROWN@DOMAIN.COM ,+1 (291) 460-8488,06-Dec-2024,fashion,Houston,Debit Card,3,474.63
+TXN-11250,Michael Anderson,michael.anderson@domain.com,,06-Jan-2024,Home & Kitchen,Miami,paypal,11,663.13
+TXN-11251,Michael Miller,michael.miller@domain.com,432.314.8409,03/12/2024,ELECTRONICS,Los Angeles,PayPal,1,
+TXN-11252,Sarah Smith,sarah.smith@domain.com,837.765.3469,2024/12/01,Apparel,chicago,paypal,6,502.96
+TXN-11253,Emily Johnson,emily.johnson@domain.com,N/A,2024-04-25,Apparel,chicago,CC,10,684.82
+TXN-11254,sarah  DAVIS ,sarah.davis@domain.com,+1 (359) 531-9031,2024-04-18,Beauty & Health,new york,Credit Card,1,87.36
+TXN-11255,Sarah Taylor,sarah.taylor@domain.com,,2024-06-16,Beauty & Health,Houston,paypal,5,70.99
+TXN-11256,david  MILLER ,david.miller@domain.com,N/A,08/27/2024,Fashion,los angeles,Cash on Delivery,4,136.85
+TXN-11257,Alex Smith, ALEX.SMITH@DOMAIN.COM ,,2024/04/13,Home & Kitchen,New York,credit card,9,820.33
+TXN-11258,Emily Davis,emily.davis@domain.com,+1 (357) 797-9934,02-Aug-2024,Home & Kitchen,New York,paypal,10,130.9
+TXN-11259,Daniel Johnson,N/A,751.314.9680,2024-01-01,Electronics,LA,Credit Card,-8,-737.65
+TXN-11260,Michael Miller,michael.miller@domain.com,,2024/04/20,Apparel,NY,Credit Card,2,435.37
+TXN-11261,Emily Miller,emily.miller@domain.com,N/A,2024/08/14,Fashion,New York,credit card,6,
+TXN-11262,Alex Anderson,alex.anderson@domain.com,4383496050,2024/01/31,fashion,chicago,Credit Card,5,607.47
+TXN-11263,John Brown,,,12/03/2024,Beauty & Health,Los Angeles,Debit Card,9,750.23
+TXN-11264,Chris Anderson,chris.anderson@domain.com,N/A,05/24/2024,Fashion,Los Angeles,Credit Card,11,
+TXN-11265,Jane Johnson,,458.123.9047,2024/10/27,Apparel,Los Angeles,credit card,11,584.05
+TXN-11266,Alex Davis,alex.davis@domain.com,9145814921,2024-11-19,Fashion,Los Angeles,COD,9,34.63
+TXN-11267,Chris Smith,chris.smith@domain.com,,2024/03/09,fashion,N.Y.,credit card,7,674.72
+TXN-11268,Daniel Taylor,daniel.taylor@domain.com,516.200.6315,,fashion,Los Angeles,Credit Card,11,457.63
+TXN-11269,Michael Davis,michael.davis@domain.com,+1 (881) 584-5390,03/27/2024,elec,chicago,Debit Card,3,
+TXN-11270,John Smith,john.smith@domain.com,510.420.1671,2024-02-28,elec,N.Y.,credit card,8,550.63
+TXN-11271,Sarah Brown,,,12/23/2024,ELECTRONICS,Los Angeles,credit card,11,616.14
+TXN-11272,Sarah Miller,sarah.miller@domain.com,880.474.4045,11/13/2024,Beauty & Health,Houston,Credit Card,2,
+TXN-11273,Jane Taylor,,N/A,2024/07/19,fashion,Houston,credit card,11,182.23
+TXN-11274,Emily Anderson,emily.anderson@domain.com,8262575395,20-Sep-2024,ELECTRONICS,Los Angeles,Cash on Delivery,2,600.93
+TXN-11275,Daniel Brown,daniel.brown@domain.com,,2024/05/11,fashion,Chicago,Cash on Delivery,11,95.6
+TXN-11276,Alex Williams,alex.williams@domain.com,2826653486,2024-01-31,Home & Kitchen,New York,Credit Card,3,446.41
+TXN-11277,Jane Brown,jane.brown@domain.com,,2024-01-28,Home,Miami,credit card,6,223.73
+TXN-11278,Chris Johnson,chris.johnson@domain.com,N/A,,Beauty & Health,Houston,COD,7,40.42
+TXN-11279,Jessica Johnson,jessica.johnson@domain.com,+1 (628) 251-4901,15-May-2024,Fashion,NY,Debit Card,8,594.15
+TXN-11280,Daniel Smith,daniel.smith@domain.com,,2024/09/21,Electronics,Houston,Cash on Delivery,3,388.88
+TXN-11281,Alex Taylor,alex.taylor@domain.com,542.978.7482,,fashion,Los Angeles,credit card,4,707.22
+TXN-11282,John Wilson, JOHN.WILSON@DOMAIN.COM ,,03-Dec-2024,ELECTRONICS,Los Angeles,CC,1,558.59
+TXN-11283,Emily Miller,,910.558.5167,17-Nov-2024,elec,Miami,Debit Card,3,-240.34
+TXN-11284,Daniel Smith,,,2024-07-12,ELECTRONICS,new york,Cash on Delivery,1,725.68
+TXN-11285,Michael Wilson,michael.wilson@domain.com,+1 (372) 228-7146,12/16/2024,Home & Kitchen,Chicago,paypal,-2,365.72
+TXN-11286,jessica  JONES ,jessica.jones@domain.com,,02/05/2024,Electronics,LA,credit card,1,-384.24
+TXN-11287,Chris Davis,chris.davis@domain.com,N/A,2024/09/01,Home & Kitchen,Chicago,CC,11,798.08
+TXN-11288,chris  TAYLOR ,chris.taylor@domain.com,743.145.3715,09/15/2024,Beauty & Health,Houston,COD,4,-76.43
+TXN-11289,Emily Johnson,emily.johnson@domain.com,8935354212,12/02/2024,Home,new york,credit card,11,634.25
+TXN-11290,Alex Brown,alex.brown@domain.com,,07/11/2024,elec,Chicago,Debit Card,8,-432.4
+TXN-11291,Chris Anderson,chris.anderson@domain.com,2546751557,2024/10/15,ELECTRONICS,Houston,Debit Card,10,466.3
+TXN-11292,Alex Smith,alex.smith@domain.com,N/A,2024/11/03,ELECTRONICS,los angeles,CC,5,733.59
+TXN-11293,Emily Davis,emily.davis@domain.com,4818008767,03/27/2024,Fashion,N.Y.,PayPal,8,575.7
+TXN-11294,Michael Smith,michael.smith@domain.com,755.391.8604,2024/01/07,Beauty & Health,NY,Cash on Delivery,5,764.95
+TXN-11295,Jessica Johnson,jessica.johnson@domain.com,533.408.8695,2024/11/12,Electronics,LA,PayPal,10,-426.9
+TXN-11296,Michael Brown,michael.brown@domain.com,N/A,22-Feb-2024,elec,chicago,CC,10,455.62
+TXN-11297,Michael Davis,missing,,2024/11/16,Home & Kitchen,Houston,CC,11,-135.3
+TXN-11298,Michael Davis,michael.davis@domain.com,,2024/05/07,Fashion,Houston,COD,10,349.63
+TXN-11299,Sarah Johnson,sarah.johnson@domain.com,N/A,10/19/2024,Fashion,los angeles,Credit Card,4,763.45
+TXN-11300,Alex Johnson,alex.johnson@domain.com,,30-Aug-2024,Home & Kitchen,NY,CC,1,733.5
+TXN-11301,Daniel Brown,daniel.brown@domain.com,321.596.4651,2024/12/13,ELECTRONICS,NY,Debit Card,5,-175.77
+TXN-11302,Daniel Miller,daniel.miller@domain.com,457.892.7309,2024/01/27,Beauty & Health,Los Angeles,Cash on Delivery,11,499.3
+TXN-11303,Jessica Taylor,jessica.taylor@domain.com,,2024-07-13,Home & Kitchen,NY,PayPal,1,376.78
+TXN-11304,Emily Johnson,emily.johnson@domain.com,909.159.2949,11/06/2024,fashion,New York,Debit Card,2,325.63
+TXN-11305,Jessica Wilson,jessica.wilson@domain.com,N/A,24-Oct-2024,Home & Kitchen,NY,paypal,4,283.43
+TXN-11306,Jane Davis,jane.davis@domain.com,393.691.3489,14-Jan-2024,elec,N.Y.,Debit Card,4,702.98
+TXN-11307,Jane Davis,jane.davis@domain.com,,27-Jan-2024,Home & Kitchen,N.Y.,Debit Card,10,687.0
+TXN-11308,Chris Wilson,chris.wilson@domain.com,,2024/08/18,Beauty & Health,Houston,credit card,9,367.37
+TXN-11309,Emily Williams, EMILY.WILLIAMS@DOMAIN.COM ,,2024-06-13,Beauty & Health,N.Y.,CC,11,803.11
+TXN-11310,Michael Anderson,michael.anderson@domain.com,,08-Mar-2024,Electronics,new york,PayPal,11,
+TXN-11311,Jane Wilson,jane.wilson@domain.com,500.217.2868,01/31/2024,fashion,Chicago,COD,8,830.88
+TXN-11312,daniel  TAYLOR ,daniel.taylor@domain.com,,12/12/2024,Home & Kitchen,chicago,COD,5,705.55
+TXN-11313,Chris Miller,chris.miller@domain.com,+1 (894) 125-1010,02/14/2024,fashion,Houston,COD,4,599.59
+TXN-11314,Jessica Brown,jessica.brown@domain.com,,02/23/2024,Home,chicago,COD,10,22.96
+TXN-11315,John Smith,john.smith@domain.com,+1 (325) 483-3808,2024/06/19,Apparel,LA,PayPal,8,
+TXN-11316,David Taylor,david.taylor@domain.com,6281371638,2024-05-13,ELECTRONICS,Chicago,credit card,7,327.94
+TXN-11317,Jessica Smith,,+1 (773) 612-8246,09-Apr-2024,fashion,los angeles,Debit Card,10,62.96
+TXN-11318,Jane Davis, JANE.DAVIS@DOMAIN.COM ,649.360.2660,2024-11-25,Fashion,new york,Credit Card,5,65.15
+TXN-11319,Emily Anderson,emily.anderson@domain.com,9641396038,05/23/2024,Home,NY,COD,5,757.93
+TXN-11320,Sarah Anderson,sarah.anderson@domain.com,+1 (671) 848-6534,2024/07/05,ELECTRONICS,los angeles,Cash on Delivery,9,137.34
+TXN-11321,Daniel Miller,daniel.miller@domain.com,7213679134,03/28/2024,fashion,New York,COD,2,
+TXN-11322,Chris Williams,chris.williams@domain.com,,2024/11/12,Home,New York,Cash on Delivery,11,329.41
+TXN-11323,David Anderson,david.anderson@domain.com,+1 (693) 281-7332,2024/05/31,elec,Chicago,COD,2,276.39
+TXN-11324,David Wilson,david.wilson@domain.com,N/A,13-Oct-2024,Fashion,N.Y.,credit card,3,589.58
+TXN-11325,Daniel Smith,daniel.smith@domain.com,N/A,08/13/2024,Home & Kitchen,New York,Cash on Delivery,1,826.85
+TXN-11326,John Anderson,john.anderson@domain.com,770.129.7006,06/17/2024,elec,LA,PayPal,7,553.94
+TXN-11327,John Davis,john.davis@domain.com,,2024-09-18,elec,New York,CC,3,676.81
+TXN-11328,michael  DAVIS ,michael.davis@domain.com,8089271881,01/21/2024,Home,chicago,Cash on Delivery,9,359.73
+TXN-11329,John Jones,john.jones@domain.com,+1 (788) 187-9075,04-Aug-2024,fashion,N.Y.,Debit Card,1,348.25
+TXN-11330,David Davis,david.davis@domain.com,N/A,07-Jan-2024,Home,new york,Cash on Delivery,7,120.75
+TXN-11331,Michael Brown, MICHAEL.BROWN@DOMAIN.COM ,N/A,03-Jun-2024,Apparel,Houston,Credit Card,1,85.67
+TXN-11332,Jane Smith,jane.smith@domain.com,579.208.8751,09/18/2024,Home & Kitchen,N.Y.,PayPal,10,747.25
+TXN-11333,Daniel Anderson,daniel.anderson@domain.com,4592231753,03/11/2024,Apparel,los angeles,Debit Card,4,
+TXN-11334,Jane Davis,jane.davis@domain.com,+1 (376) 148-4281,13-Feb-2024,Beauty & Health,NY,credit card,11,53.02
+TXN-11335,David Wilson,david.wilson@domain.com,318.325.7272,,Electronics,los angeles,Cash on Delivery,6,792.52
+TXN-11336,John Wilson, JOHN.WILSON@DOMAIN.COM ,,03/21/2024,Fashion,LA,Debit Card,7,388.31
+TXN-11337,Michael Johnson,michael.johnson@domain.com,+1 (730) 449-5117,2024-10-11,ELECTRONICS,Houston,credit card,-7,388.83
+TXN-11338,David Brown,david.brown@domain.com,N/A,2024-12-20,Electronics,new york,Cash on Delivery,3,457.36
+TXN-11339,Daniel Wilson,daniel.wilson@domain.com,612.688.1259,2024/10/20,Home,N.Y.,credit card,9,346.75
+TXN-11340,Alex Taylor,alex.taylor@domain.com,361.689.5217,21-Jul-2024,Electronics,LA,Debit Card,2,689.88
+TXN-11341,sarah  WILLIAMS ,sarah.williams@domain.com,+1 (413) 607-8195,2024-08-05,Beauty & Health,LA,CC,-6,409.42
+TXN-11342,Jane Taylor,jane.taylor@domain.com,N/A,2024/10/26,Electronics,chicago,CC,9,699.01
+TXN-11343,Alex Miller,alex.miller@domain.com,N/A,,elec,N.Y.,Debit Card,-8,716.77
+TXN-11344,Jessica Johnson,,877.569.8516,02/03/2024,Electronics,Los Angeles,COD,6,812.24
+TXN-11345,Chris Wilson,chris.wilson@domain.com,N/A,05/18/2024,Beauty & Health,Houston,Cash on Delivery,4,-457.56
+TXN-11346,Jessica Anderson,jessica.anderson@domain.com,+1 (646) 819-6786,2024/11/05,Home,Los Angeles,Credit Card,1,405.39
+TXN-11347,Emily Davis,emily.davis@domain.com,,2024/04/06,Home,Miami,PayPal,1,209.06
+TXN-11348,Sarah Anderson,sarah.anderson@domain.com,,04/22/2024,ELECTRONICS,chicago,Debit Card,10,183.51
+TXN-11349,John Wilson,john.wilson@domain.com,+1 (922) 199-1805,05/28/2024,Fashion,Chicago,credit card,9,449.56
+TXN-11350,David Johnson, DAVID.JOHNSON@DOMAIN.COM ,+1 (433) 165-1229,02/07/2024,Home,Los Angeles,Cash on Delivery,6,602.16
+TXN-11351,Jessica Smith,jessica.smith@domain.com,567.258.9126,08/05/2024,Electronics,chicago,PayPal,7,797.45
+TXN-11352,alex  BROWN ,alex.brown@domain.com,215.510.4345,2024/09/26,Apparel,New York,Credit Card,8,260.35
+TXN-11353,Sarah Williams,sarah.williams@domain.com,,03/30/2024,fashion,new york,paypal,9,535.31
+TXN-11354,Jane Brown,jane.brown@domain.com,N/A,2024-10-26,Home,LA,COD,11,719.63
+TXN-11355,Daniel Jones,daniel.jones@domain.com,+1 (695) 962-9842,2024/10/23,elec,Los Angeles,COD,5,158.34
+TXN-11356,Jessica Johnson,jessica.johnson@domain.com,,03/04/2024,Home & Kitchen,chicago,CC,1,298.37
+TXN-11357,Michael Wilson,,+1 (682) 127-5881,2024-05-23,Apparel,los angeles,CC,9,479.24
+TXN-11358,Alex Brown,alex.brown@domain.com,N/A,2024/05/25,Home & Kitchen,LA,credit card,7,
+TXN-11359,Alex Johnson,N/A,,2024/02/18,ELECTRONICS,Miami,credit card,-5,88.2
+TXN-11360,Alex Anderson,alex.anderson@domain.com,809.567.1387,2024/12/07,fashion,Chicago,credit card,11,558.37
+TXN-11361,Chris Wilson, CHRIS.WILSON@DOMAIN.COM ,,09/16/2024,Apparel,LA,Credit Card,10,184.34
+TXN-11362,Michael Wilson,michael.wilson@domain.com,+1 (951) 843-7988,30-Jan-2024,Electronics,new york,Credit Card,6,388.56
+TXN-11363,David Wilson,david.wilson@domain.com,7602216445,2024-01-16,Electronics,chicago,Cash on Delivery,1,279.07
+TXN-11364,David Miller,david.miller@domain.com,,2024-06-10,Home & Kitchen,NY,CC,1,219.28
+TXN-11365,John Davis, JOHN.DAVIS@DOMAIN.COM ,+1 (454) 422-6534,28-Jun-2024,Fashion,Los Angeles,PayPal,2,429.1
+TXN-11366,Jessica Brown,jessica.brown@domain.com,+1 (575) 700-2256,08/11/2024,ELECTRONICS,Houston,COD,11,652.91
+TXN-11367,Jane Miller,jane.miller@domain.com,,25-Sep-2024,Home,LA,COD,7,540.19
+TXN-11368,Jane Anderson,jane.anderson@domain.com,838.266.5090,11/15/2024,Electronics,los angeles,PayPal,1,226.87
+TXN-11369,Emily Smith,,292.233.7962,16-Jun-2024,ELECTRONICS,Miami,paypal,6,
+TXN-11370,Jessica Wilson,jessica.wilson@domain.com,N/A,2024-02-11,fashion,NY,Credit Card,11,553.38
+TXN-11371,Emily Miller,N/A,,2024-01-30,Home & Kitchen,chicago,paypal,5,716.26
+TXN-11372,Michael Anderson,,8635753250,10/23/2024,Electronics,LA,PayPal,8,424.18
+TXN-11373,Chris Williams,chris.williams@domain.com,N/A,09-Mar-2024,ELECTRONICS,Chicago,Debit Card,5,350.75
+TXN-11374,Sarah Anderson,sarah.anderson@domain.com,,01/01/2024,Apparel,NY,paypal,2,488.09
+TXN-11375,Jessica Miller,,8505451303,2024-06-27,Fashion,New York,CC,1,685.3
+TXN-11376,Alex Williams,,N/A,2024/06/16,Home & Kitchen,New York,Cash on Delivery,8,152.56
+TXN-11377,Emily Taylor,emily.taylor@domain.com,,2024-08-20,Home & Kitchen,Miami,credit card,4,656.68
+TXN-11378,Sarah Smith,sarah.smith@domain.com,423.518.1977,2024-08-17,Fashion,Miami,Debit Card,5,340.42
+TXN-11379,Jessica Smith, JESSICA.SMITH@DOMAIN.COM ,8635461096,06/06/2024,fashion,NY,Credit Card,5,744.57
+TXN-11380,Jessica Davis,jessica.davis@domain.com,293.489.7690,02/21/2024,fashion,N.Y.,Debit Card,7,346.95
+TXN-11381,Alex Wilson,alex.wilson@domain.com,3896278597,2024/06/22,Electronics,Chicago,credit card,3,7649.6
+TXN-11382,David Wilson,david.wilson@domain.com,+1 (541) 826-6479,05/21/2024,Apparel,new york,Cash on Delivery,10,723.26
+TXN-11383,Chris Williams,chris.williams@domain.com,,20-Mar-2024,Fashion,LA,Debit Card,6,542.39
+TXN-11384,Sarah Smith,sarah.smith@domain.com,,2024/11/15,Apparel,New York,Cash on Delivery,3,635.73
+TXN-11385,alex  WILLIAMS ,alex.williams@domain.com,7311999016,2024/11/10,fashion,los angeles,Debit Card,1,381.45
+TXN-11386,Chris Johnson,chris.johnson@domain.com,9247567754,28-Jun-2024,Fashion,New York,credit card,2,544.89
+TXN-11387,Jessica Taylor,jessica.taylor@domain.com,+1 (532) 712-5012,2024-04-24,Apparel,LA,CC,-7,697.8
+TXN-11388,Emily Miller, EMILY.MILLER@DOMAIN.COM ,777.873.8400,2024-09-16,Fashion,New York,COD,5,281.83
+TXN-11389,David Taylor,david.taylor@domain.com,N/A,2024/11/02,Fashion,Miami,Debit Card,-8,115.71
+TXN-11390,Michael Taylor, MICHAEL.TAYLOR@DOMAIN.COM ,387.238.1142,2024-01-05,Fashion,Los Angeles,Debit Card,8,82.07
+TXN-11391,David Jones, DAVID.JONES@DOMAIN.COM ,351.616.7276,2024-12-11,Apparel,chicago,COD,4,723.51
+TXN-11392,Sarah Johnson,sarah.johnson@domain.com,222.731.8160,2024-04-08,Fashion,N.Y.,credit card,3,364.23
+TXN-11393,Chris Williams,chris.williams@domain.com,+1 (755) 807-2730,27-Sep-2024,Apparel,Los Angeles,PayPal,1,530.66
+TXN-11394,Daniel Wilson,daniel.wilson@domain.com,,11-Mar-2024,elec,Chicago,COD,6,259.0
+TXN-11395,Emily Brown,,6978852977,2024-04-16,fashion,N.Y.,credit card,4,126.14
+TXN-11396,Alex Johnson,alex.johnson@domain.com,586.720.5462,12-Feb-2024,elec,New York,credit card,4,496.38
+TXN-11397,Chris Taylor,chris.taylor@domain.com,,,Apparel,NY,Debit Card,4,516.21
+TXN-11398,John Davis,john.davis@domain.com,9121998604,2024-09-21,Apparel,los angeles,credit card,9,-725.23
+TXN-11399,Alex Anderson,alex.anderson@domain.com,,12/15/2024,Electronics,Chicago,PayPal,-10,56.26
+TXN-11400,Jane Johnson,jane.johnson@domain.com,3905563433,19-Dec-2024,fashion,Houston,Debit Card,6,
+TXN-11401,John Miller,john.miller@domain.com,N/A,2024/09/12,Fashion,chicago,Debit Card,6,28.42
+TXN-11402,Emily Davis,emily.davis@domain.com,N/A,,ELECTRONICS,NY,PayPal,6,97.09
+TXN-11403,David Wilson,david.wilson@domain.com,7202058986,2024-11-20,Electronics,N.Y.,Cash on Delivery,1,532.35
+TXN-11404,Emily Jones,emily.jones@domain.com,,2024-07-20,Electronics,New York,Credit Card,9,601.66
+TXN-11405,Michael Taylor,michael.taylor@domain.com,3235545109,09/01/2024,Beauty & Health,NY,Cash on Delivery,3,421.14
+TXN-11406,Chris Taylor,chris.taylor@domain.com,+1 (419) 626-9724,21-Sep-2024,fashion,los angeles,Credit Card,10,285.68
+TXN-11407,Sarah Anderson,missing,624.551.3407,03/18/2024,Fashion,Houston,Credit Card,6,129.29
+TXN-11408,David Davis, DAVID.DAVIS@DOMAIN.COM ,N/A,2024-04-22,fashion,los angeles,Cash on Delivery,10,580.62
+TXN-11409,Alex Brown,alex.brown@domain.com,,2024-06-19,Fashion,Los Angeles,COD,4,-819.11
+TXN-11410,Daniel Davis,daniel.davis@domain.com,N/A,2024-06-25,Home,Houston,COD,10,388.32
+TXN-11411,Jane Jones,jane.jones@domain.com,779.350.3450,15-Nov-2024,Home & Kitchen,Miami,PayPal,10,30.0
+TXN-11412,Alex Smith,alex.smith@domain.com,N/A,27-Mar-2024,fashion,Chicago,paypal,6,279.45
+TXN-11413,Sarah Smith,sarah.smith@domain.com,2207267353,21-Jul-2024,Beauty & Health,NY,PayPal,2,538.59
+TXN-11414,Jessica Anderson,jessica.anderson@domain.com,+1 (947) 418-8004,10/08/2024,elec,Chicago,Cash on Delivery,2,264.51
+TXN-11415,Sarah Taylor,,+1 (457) 550-8977,2024-11-11,Beauty & Health,New York,Debit Card,9,807.04
+TXN-11416,Michael Anderson,missing,+1 (687) 259-7142,15-Jun-2024,Beauty & Health,los angeles,PayPal,2,727.35
+TXN-11417,Chris Brown,chris.brown@domain.com,366.551.8305,25-Dec-2024,Home,NY,credit card,8,661.48
+TXN-11418,John Taylor,john.taylor@domain.com,N/A,30-Jun-2024,ELECTRONICS,new york,Cash on Delivery,7,227.91
+TXN-11419,Michael Johnson,michael.johnson@domain.com,,16-May-2024,elec,Chicago,Cash on Delivery,8,492.64
+TXN-11420,John Johnson,john.johnson@domain.com,,03-Jul-2024,Fashion,New York,CC,11,752.85
+TXN-11421,Emily Smith,emily.smith@domain.com,N/A,2024-03-02,fashion,Houston,paypal,-3,76.63
+TXN-11422,John Johnson,john.johnson@domain.com,+1 (236) 840-6776,08/22/2024,ELECTRONICS,New York,Debit Card,11,586.88
+TXN-11423,jane  JONES ,jane.jones@domain.com,N/A,17-Nov-2024,Home & Kitchen,New York,Cash on Delivery,2,423.0
+TXN-11424,Chris Anderson,N/A,479.845.8189,2024/01/15,ELECTRONICS,Miami,Credit Card,7,
+TXN-11425,Sarah Johnson,sarah.johnson@domain.com,,2024/12/02,Beauty & Health,N.Y.,Debit Card,4,142.56
+TXN-11426,Jessica Anderson,jessica.anderson@domain.com,3778617003,2024/09/08,fashion,Los Angeles,PayPal,9,776.59
+TXN-11427,Sarah Brown,sarah.brown@domain.com,N/A,09-Dec-2024,Home,chicago,Cash on Delivery,4,644.22
+TXN-11428,David Williams,david.williams@domain.com,,11/11/2024,Fashion,N.Y.,paypal,4,497.46
+TXN-11429,Alex Miller,alex.miller@domain.com,766.178.1679,2024/09/16,Home & Kitchen,new york,PayPal,9,663.6
+TXN-11430,Emily Smith,emily.smith@domain.com,723.656.9200,2024/02/23,Apparel,chicago,PayPal,11,182.36
+TXN-11431,David Miller,,,2024-07-25,Home,new york,credit card,10,-93.5
+TXN-11432,john  JONES ,john.jones@domain.com,N/A,2024/11/10,Home,Houston,COD,2,769.02
+TXN-11433,Jessica Davis,jessica.davis@domain.com,4126281418,2024/12/05,Apparel,Houston,Debit Card,11,340.32
+TXN-11434,Emily Jones,emily.jones@domain.com,+1 (827) 849-5147,,Apparel,new york,Debit Card,8,673.18
+TXN-11435,John Taylor,john.taylor@domain.com,,27-Jul-2024,Beauty & Health,chicago,credit card,2,304.3
+TXN-11436,John Davis,john.davis@domain.com,6975178155,06-Oct-2024,Home & Kitchen,NY,Debit Card,6,511.29
+TXN-11437,Jane Brown,jane.brown@domain.com,7235427394,2024/06/08,Electronics,chicago,PayPal,8,197.21
+TXN-11438,Daniel Johnson,daniel.johnson@domain.com,403.798.3934,27-Nov-2024,ELECTRONICS,LA,Cash on Delivery,-9,
+TXN-11439,Michael Brown,N/A,N/A,19-May-2024,Home,Miami,PayPal,2,776.32
+TXN-11440,Jessica Taylor,jessica.taylor@domain.com,,01-Apr-2024,Beauty & Health,Chicago,Debit Card,9,701.9
+TXN-11441,Sarah Miller,sarah.miller@domain.com,8095685228,2024/12/02,Beauty & Health,New York,PayPal,9,71.2
+TXN-11442,emily  SMITH ,emily.smith@domain.com,,28-Sep-2024,Apparel,N.Y.,credit card,8,57.15
+TXN-11443,Jane Williams,jane.williams@domain.com,+1 (803) 359-2074,2024/03/31,Apparel,Houston,credit card,11,223.17
+TXN-11444,Jane Miller,jane.miller@domain.com,N/A,25-Feb-2024,ELECTRONICS,chicago,Debit Card,7,846.74
+TXN-11445,Jane Williams,jane.williams@domain.com,,29-Jun-2024,ELECTRONICS,chicago,Credit Card,8,693.93
+TXN-11446,Sarah Johnson,sarah.johnson@domain.com,N/A,06/18/2024,Electronics,N.Y.,Cash on Delivery,2,545.33
+TXN-11447,sarah  TAYLOR ,sarah.taylor@domain.com,510.484.4872,2024/10/28,Electronics,Houston,COD,7,696.37
+TXN-11448,michael  DAVIS ,michael.davis@domain.com,N/A,2024/05/24,ELECTRONICS,new york,paypal,4,73.28
+TXN-11449,Chris Smith,chris.smith@domain.com,+1 (831) 378-3801,2024/01/04,Home & Kitchen,N.Y.,PayPal,9,454.53
+TXN-11450,Jane Miller,jane.miller@domain.com,+1 (543) 870-1768,07/12/2024,Electronics,NY,Debit Card,10,97.07
+TXN-11451,Sarah Anderson,sarah.anderson@domain.com,,19-Apr-2024,Electronics,Chicago,CC,2,609.58
+TXN-11452,Daniel Anderson, DANIEL.ANDERSON@DOMAIN.COM ,+1 (604) 595-8353,2024/02/26,Home,Los Angeles,Debit Card,9,49.72
+TXN-11453,Alex Brown,alex.brown@domain.com,695.313.2335,2024/05/20,Electronics,New York,PayPal,-4,
+TXN-11454,Michael Taylor,michael.taylor@domain.com,4729068177,2024/04/19,fashion,new york,COD,1,490.95
+TXN-11455,Sarah Brown,sarah.brown@domain.com,261.185.4060,2024-02-21,ELECTRONICS,LA,Cash on Delivery,1,458.46
+TXN-11456,Alex Wilson,alex.wilson@domain.com,677.691.1019,22-May-2024,Home & Kitchen,chicago,credit card,11,28.61
+TXN-11457,Emily Wilson,emily.wilson@domain.com,N/A,14-Nov-2024,Apparel,Houston,COD,1,459.97
+TXN-11458,Sarah Johnson,sarah.johnson@domain.com,,2024/01/09,ELECTRONICS,Miami,CC,5,271.67
+TXN-11459,Michael Davis, MICHAEL.DAVIS@DOMAIN.COM ,,27-Feb-2024,ELECTRONICS,Houston,Cash on Delivery,10,783.0
+TXN-11460,David Davis,david.davis@domain.com,477.356.8471,2024-07-16,Fashion,Miami,Debit Card,10,409.61
+TXN-11461,David Taylor,david.taylor@domain.com,7734801312,2024/01/31,Fashion,N.Y.,Debit Card,3,219.49
+TXN-11462,Emily Miller,emily.miller@domain.com,N/A,2024-03-29,elec,Miami,Debit Card,8,54.74
+TXN-11463,David Taylor,david.taylor@domain.com,N/A,10/05/2024,ELECTRONICS,los angeles,Debit Card,4,297.53
+TXN-11464,Chris Davis,chris.davis@domain.com,,2024-11-28,ELECTRONICS,los angeles,CC,8,491.12
+TXN-11465,David Davis,david.davis@domain.com,7745868573,01/28/2024,ELECTRONICS,los angeles,PayPal,4,454.21
+TXN-11466,Jane Wilson,jane.wilson@domain.com,N/A,04-Jun-2024,Apparel,New York,PayPal,4,592.79
+TXN-11467,John Smith,N/A,N/A,13-Mar-2024,Fashion,los angeles,credit card,2,438.89
+TXN-11468,Sarah Jones,sarah.jones@domain.com,2195768097,2024-10-20,elec,Chicago,Cash on Delivery,4,24.51
+TXN-11469,Jessica Jones,,+1 (755) 242-3548,2024-03-11,ELECTRONICS,New York,credit card,9,680.34
+TXN-11470,Jessica Anderson,jessica.anderson@domain.com,,2024/06/18,Beauty & Health,New York,paypal,1,783.11
+TXN-11471,Daniel Miller,,841.734.2993,2024-08-20,Home,N.Y.,PayPal,4,823.77
+TXN-11472,Emily Davis,emily.davis@domain.com,606.982.9445,17-Feb-2024,ELECTRONICS,N.Y.,COD,10,709.74
+TXN-11473,Jessica Wilson,jessica.wilson@domain.com,2069145272,2024-10-14,Home,New York,credit card,2,155.04
+TXN-11474,John Smith,john.smith@domain.com,+1 (581) 937-7022,02-May-2024,Apparel,N.Y.,Credit Card,7,276.87
+TXN-11475,Chris Miller,chris.miller@domain.com,+1 (414) 361-8058,06-Jun-2024,Home,Los Angeles,CC,8,645.53
+TXN-11476,Emily Williams,emily.williams@domain.com,,2024/05/10,Home,LA,Credit Card,6,547.8
+TXN-11477,Chris Wilson,chris.wilson@domain.com,N/A,04/09/2024,elec,new york,Debit Card,6,
+TXN-11478,Michael Davis,michael.davis@domain.com,2627868158,2024/07/08,Fashion,N.Y.,Debit Card,8,686.33
+TXN-11479,Jessica Taylor,jessica.taylor@domain.com,,10-Oct-2024,Electronics,N.Y.,Cash on Delivery,10,511.72
+TXN-11480,alex  ANDERSON ,alex.anderson@domain.com,4934247336,06-May-2024,fashion,new york,Credit Card,7,79.67
+TXN-11481,Daniel Smith,daniel.smith@domain.com,+1 (664) 195-5899,2024/04/19,Home,Chicago,Credit Card,8,
+TXN-11482,Emily Jones,emily.jones@domain.com,+1 (698) 105-6825,28-Jun-2024,fashion,Chicago,Cash on Delivery,8,734.92
+TXN-11483,Alex Davis,alex.davis@domain.com,+1 (584) 534-7078,03-May-2024,Electronics,Miami,PayPal,4,-843.77
+TXN-11484,Jessica Jones,jessica.jones@domain.com,+1 (516) 686-9679,2024-08-14,Home & Kitchen,New York,paypal,2,676.78
+TXN-11485,alex  WILLIAMS ,alex.williams@domain.com,3413504817,11-May-2024,Home,N.Y.,paypal,4,278.35
+TXN-11486,David Miller,david.miller@domain.com,+1 (852) 116-7750,2024-01-08,elec,N.Y.,COD,10,817.83
+TXN-11487,Michael Davis,michael.davis@domain.com,N/A,2024-09-29,Electronics,Chicago,Credit Card,4,343.23
+TXN-11488,Alex Smith,alex.smith@domain.com,N/A,,Apparel,N.Y.,credit card,6,
+TXN-11489,Michael Anderson,michael.anderson@domain.com,+1 (240) 639-7510,11/28/2024,elec,Chicago,credit card,3,67.49
+TXN-11490,david  JOHNSON , DAVID.JOHNSON@DOMAIN.COM ,+1 (320) 851-1606,07/19/2024,Home,Los Angeles,PayPal,11,342.64
+TXN-11491,Michael Anderson,michael.anderson@domain.com,N/A,2024/05/29,Electronics,los angeles,PayPal,1,232.4
+TXN-11492,Emily Miller,emily.miller@domain.com,+1 (584) 856-6085,06/15/2024,Home,Miami,credit card,3,-177.17
+TXN-11493,Alex Miller,alex.miller@domain.com,N/A,2024/12/03,Home & Kitchen,N.Y.,PayPal,11,309.8
+TXN-11494,Chris Williams,chris.williams@domain.com,888.469.4739,07-Oct-2024,Beauty & Health,chicago,COD,5,448.71
+TXN-11495,John Johnson, JOHN.JOHNSON@DOMAIN.COM ,334.957.2878,2024/08/13,Home,New York,Debit Card,5,41.31
+TXN-11496,Michael Smith,michael.smith@domain.com,+1 (410) 498-2396,2024-03-17,Beauty & Health,los angeles,Debit Card,6,677.74
+TXN-11497,David Williams,david.williams@domain.com,625.105.6209,02/26/2024,Home & Kitchen,Miami,COD,9,49.93
+TXN-11498,Michael Miller,michael.miller@domain.com,830.894.6603,16-Jul-2024,Fashion,LA,Cash on Delivery,5,679.83
+TXN-11499,Chris Anderson,chris.anderson@domain.com,+1 (210) 274-7017,07/15/2024,fashion,N.Y.,credit card,1,39.15
+TXN-11500,Emily Jones,missing,433.547.1583,2024/10/11,elec,Los Angeles,CC,6,315.98
+TXN-10896,Alex Brown,,505.308.3514,2024/09/20,Apparel,N.Y.,Credit Card,7,43.43
+TXN-10061,Alex Smith,alex.smith@domain.com,558.322.1552,12/13/2024,ELECTRONICS,chicago,PayPal,6,528.17
+TXN-10105,Alex Davis,alex.davis@domain.com,361.446.5005,2024/03/01,ELECTRONICS,N.Y.,COD,1,773.13
+TXN-11184,Alex Smith,alex.smith@domain.com,,2024/03/01,elec,NY,CC,7,386.77
+TXN-11338,David Brown,david.brown@domain.com,N/A,2024-12-20,Electronics,new york,Cash on Delivery,3,457.36
+TXN-10945,John Brown,john.brown@domain.com,442.578.5296,04/21/2024,Electronics,Houston,Debit Card,8,126.57
+TXN-10147,Michael Miller,michael.miller@domain.com,N/A,2024-03-09,Beauty & Health,los angeles,Debit Card,10,227.46
+TXN-11143,Emily Jones,emily.jones@domain.com,293.359.5430,12/09/2024,Home & Kitchen,NY,Debit Card,5,393.45
+TXN-10015,Daniel Williams,daniel.williams@domain.com,990.226.8560,04/05/2024,Home & Kitchen,new york,PayPal,5,171.78
+TXN-11194,Jessica Anderson,jessica.anderson@domain.com,500.408.6937,2024-02-08,Beauty & Health,Miami,credit card,-9,686.39
+TXN-11398,John Davis,john.davis@domain.com,9121998604,2024-09-21,Apparel,los angeles,credit card,9,-725.23
+TXN-10206,Sarah Davis,missing,,03/05/2024,Electronics,Los Angeles,Credit Card,11,575.45
+TXN-10932,Chris Miller,chris.miller@domain.com,,01/31/2024,elec,LA,PayPal,8,509.0
+TXN-10807,Jane Smith,jane.smith@domain.com,N/A,12-Jun-2024,Beauty & Health,los angeles,Cash on Delivery,1,691.61
+TXN-10399,Daniel Jones,daniel.jones@domain.com,2889277041,02-Sep-2024,Home,Los Angeles,PayPal,3,762.52
+TXN-11145,Sarah Smith,sarah.smith@domain.com,,2024-08-26,ELECTRONICS,N.Y.,CC,4,
+TXN-11093,Emily Anderson,emily.anderson@domain.com,+1 (471) 857-4079,02-Feb-2024,fashion,Miami,credit card,11,44.44
+TXN-11278,Chris Johnson,chris.johnson@domain.com,N/A,,Beauty & Health,Houston,COD,7,40.42
+TXN-10747,Jessica Brown,jessica.brown@domain.com,+1 (530) 676-1941,10/29/2024,Home,Houston,Cash on Delivery,9,238.72
+TXN-10970,Jane Jones, JANE.JONES@DOMAIN.COM ,,02/08/2024,Home,los angeles,COD,3,
+TXN-10309,Daniel Taylor,daniel.taylor@domain.com,N/A,2024-06-16,Home & Kitchen,Los Angeles,COD,9,212.63
+TXN-10189,Daniel Anderson,daniel.anderson@domain.com,520.534.2409,11-Oct-2024,elec,Houston,PayPal,5,
+TXN-10943,John Wilson,john.wilson@domain.com,N/A,24-Jan-2024,Home,Miami,Debit Card,2,678.97
+TXN-11374,Sarah Anderson,sarah.anderson@domain.com,,01/01/2024,Apparel,NY,paypal,2,488.09
+TXN-10598,David Johnson,david.johnson@domain.com,3779318735,2024-08-07,Home,Miami,paypal,5,35.23
+TXN-10915,Jessica Smith,jessica.smith@domain.com,,2024-08-10,Electronics,Chicago,PayPal,8,282.7
+TXN-10278,Jane Davis,jane.davis@domain.com,N/A,2024-03-30,Apparel,New York,Cash on Delivery,1,374.86
+TXN-11360,Alex Anderson,alex.anderson@domain.com,809.567.1387,2024/12/07,fashion,Chicago,credit card,11,558.37
+TXN-11099,Daniel Williams,daniel.williams@domain.com,,2024/06/11,Electronics,Chicago,Credit Card,5,359.23
+TXN-10589,Michael Johnson,michael.johnson@domain.com,462.105.4360,2024/12/15,Fashion,new york,Cash on Delivery,9,-286.92
+TXN-10253,Emily Johnson,emily.johnson@domain.com,+1 (566) 206-3486,2024-11-08,Apparel,Houston,CC,3,461.13
+TXN-10066,David Smith,david.smith@domain.com,,01-Jan-2024,elec,Chicago,CC,10,169.41
+TXN-10788,Michael Williams,michael.williams@domain.com,,01-Apr-2024,Fashion,Houston,CC,2,
+TXN-10904,michael  MILLER ,michael.miller@domain.com,,11/20/2024,elec,chicago,PayPal,10,722.35
+TXN-10594,Michael Johnson,michael.johnson@domain.com,+1 (248) 882-7728,04-Nov-2024,fashion,LA,Cash on Delivery,3,448.82
+TXN-10812,Sarah Smith,sarah.smith@domain.com,+1 (942) 644-4651,03/01/2024,Beauty & Health,Chicago,CC,11,223.45
+TXN-10089,David Taylor,david.taylor@domain.com,N/A,2024-02-26,Fashion,Chicago,Debit Card,10,
+TXN-10229,jessica  TAYLOR ,jessica.taylor@domain.com,347.435.3713,2024-04-30,Electronics,Chicago,Debit Card,1,108.08
+TXN-10313,Alex Johnson,alex.johnson@domain.com,,09/22/2024,Electronics,New York,credit card,7,108.44
+TXN-10564,Chris Wilson,chris.wilson@domain.com,+1 (280) 346-4646,2024-01-10,Electronics,Chicago,CC,9,24.13
+TXN-10300,Alex Taylor,N/A,+1 (646) 551-2763,16-Oct-2024,Home & Kitchen,N.Y.,CC,9,729.38
+TXN-11178,Emily Johnson,emily.johnson@domain.com,+1 (392) 198-9116,2024-01-25,Apparel,chicago,Debit Card,4,684.28
+TXN-11131,John Smith,john.smith@domain.com,+1 (630) 125-3340,2024/01/06,Home & Kitchen,Chicago,paypal,4,87.89
+TXN-10878,jane  WILLIAMS ,jane.williams@domain.com,N/A,12/02/2024,Apparel,N.Y.,Credit Card,11,253.36
+TXN-10068,Daniel Johnson,daniel.johnson@domain.com,N/A,07/10/2024,elec,LA,Debit Card,9,739.14
+TXN-11186,David Johnson,david.johnson@domain.com,804.798.3812,09-Feb-2024,Beauty & Health,los angeles,Debit Card,9,246.73
+TXN-11124,Jane Miller,jane.miller@domain.com,,06/20/2024,Home & Kitchen,N.Y.,credit card,10,146.53
+TXN-10465,Chris Brown,chris.brown@domain.com,,09/28/2024,Fashion,LA,CC,10,636.61
+TXN-11476,Emily Williams,emily.williams@domain.com,,2024/05/10,Home,LA,Credit Card,6,547.8
+TXN-11425,Sarah Johnson,sarah.johnson@domain.com,,2024/12/02,Beauty & Health,N.Y.,Debit Card,4,142.56
+TXN-10524,Chris Johnson,chris.johnson@domain.com,N/A,2024-01-30,Home & Kitchen,Miami,Cash on Delivery,3,25760.7
+TXN-10772,Sarah Davis,sarah.davis@domain.com,+1 (497) 498-2041,07/21/2024,Home & Kitchen,los angeles,COD,11,112.25
+TXN-10746,John Miller,john.miller@domain.com,216.684.9203,07/22/2024,Beauty & Health,Los Angeles,CC,9,136.89
+TXN-10907,Chris Miller,chris.miller@domain.com,+1 (831) 232-3427,21-Oct-2024,Home,Chicago,credit card,2,372.73
+TXN-11134,Emily Wilson,emily.wilson@domain.com,258.251.6437,,Apparel,chicago,PayPal,2,227.39
+TXN-11044,michael  WILSON ,michael.wilson@domain.com,+1 (225) 768-2067,2024/04/20,elec,new york,credit card,8,-429.57
+TXN-10506,Alex Johnson,alex.johnson@domain.com,N/A,2024-04-01,ELECTRONICS,Los Angeles,PayPal,4,732.76
+TXN-10763,Michael Davis,michael.davis@domain.com,731.993.5137,10/23/2024,Home,chicago,CC,3,337.92
+TXN-11284,Daniel Smith,,,2024-07-12,ELECTRONICS,new york,Cash on Delivery,1,725.68
+TXN-11114,Jane Anderson,jane.anderson@domain.com,3657011837,09/24/2024,Beauty & Health,new york,COD,3,200.48
+TXN-11038,Jessica Wilson,jessica.wilson@domain.com,,2024/02/22,ELECTRONICS,chicago,paypal,10,590.18
+TXN-10142,Jessica Miller, JESSICA.MILLER@DOMAIN.COM ,+1 (613) 408-3849,09-Apr-2024,Apparel,Miami,COD,11,738.86
+TXN-11193,chris  TAYLOR ,chris.taylor@domain.com,N/A,11/15/2024,Home,Houston,credit card,9,39.25
+TXN-10387,Jessica Jones,jessica.jones@domain.com,+1 (223) 572-8091,2024-12-13,elec,Houston,CC,2,113.87
+TXN-10220,Chris Johnson,chris.johnson@domain.com,9965733568,11/27/2024,Electronics,Chicago,COD,1,
